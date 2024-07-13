@@ -306,7 +306,7 @@
       )
     (send-event *target* 'end-mode 'grab)
     (until v1-29
-      (draw-text self (text-id hold-to-charge-and-then-release-to-fire-bigger-blast))
+      (draw-text self (text-id text-07c4))
       (if (< (get-remaining-player-ammo (pickup-type ammo-red)) 60.0)
           (adjust-player-ammo 500.0 (pickup-type ammo-red))
           )
@@ -406,3 +406,7 @@
   (transform-post)
   (go (method-of-object this idle))
   )
+
+
+
+

@@ -89,9 +89,7 @@ const std::unordered_map<std::string, u16> jak2_speaker_name_to_enum_val = {
     {"citizen-male", 31},
     {"citizen-female", 32},
     {"oracle", 33},
-    {"precursor", 34},
-    {"metalkor-before-consite", 35},
-    {"metalkor-intro", 36}};
+    {"precursor", 34}};
 
 GameSubtitlePackage read_json_files_v2(const GameSubtitleDefinitionFile& file_info) {
   GameSubtitlePackage package;

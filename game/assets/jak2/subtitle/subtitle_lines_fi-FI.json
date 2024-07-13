@@ -8,7 +8,7 @@
       "Muistatko miten hypätään?"
     ],
     "DSbop003": [
-      "Hyppää tuon laatikon päälle niin pääset esteen yli."
+      "Hyppää tuon laatikon päälle, niin pääset esteen yli."
     ],
     "DSbop004": [
       "Oho, tuopa on korkea kieleke!",
@@ -23,15 +23,15 @@
       "En tiedä mihin he päätyivät."
     ],
     "DSbop007": [
-      "En tiedä minne se hullu repeämäkoje meidät vei, mutta...",
+      "En tiedä minne tuo repeämä meidät vei, mutta...",
       "Se on jonkinlainen suuri kaupunki!"
     ],
     "DSbop008": [
-      "Tämä on ankara paikka, Jak. Muistathan varmasti",
-      "kuinka taistellaan? Yritäs rikkoa tuo laatikko potkullasi."
+      "Se on kova paikka, Jak. Muistatko",
+      "kuinka taistellaan eikö? Yritäppä rikkoa tuo laatikko potkullasi."
     ],
     "DSbop009": [
-      "Hyvältä näyttää, toveri! Komea potku!",
+      "Hyvältä näyttää toveri! Komea potku!",
       "Vihan purkua parhaimmillaan, vai mitä?"
     ],
     "DSbop010": [
@@ -45,7 +45,7 @@
     ],
     "DSbop016": [
       "Jos hyppäät ja sitten syöksyt alas, iskeydyt maahan",
-      "tarpeeksi lujaa voidaksesi rikkoa juttuja.",
+      "tarpeeksi lujaa voidaksesi rikkoa paljon juttuja.",
       "Rikkominen on hauskaa, eikös?"
     ],
     "DSbop017": [
@@ -112,7 +112,7 @@
       "Jatka matkaa!"
     ],
     "agnt021": [
-      "Anna palaa!"
+      "Tee se, mies, tee se!"
     ],
     "agnt022": [
       "Kiirettä, hyvä mies!"
@@ -274,7 +274,7 @@
       "Jatka matkaa!"
     ],
     "agnt075": [
-      "Anna palaa!"
+      "Tee se, mies, tee se!"
     ],
     "agnt076": [
       "Kiirettä, hyvä mies!"
@@ -442,13 +442,13 @@
       "Okei, kiitos, onnea matkaan!"
     ],
     "agnt131": [
-      "Mikä kesti niin kauan?"
+      "Mitä sinua pidätteli?"
     ],
     "agnt132": [
       "Liiku kuin sinulla olisi tarkoitus!"
     ],
     "agnt133": [
-      "Aja, aja, vartio on jäljillämme!"
+      "Aja, aja, KV on jäljillämme!"
     ],
     "agnt134": [
       "Pysy terävänä, olemme melkein perillä!"
@@ -463,8 +463,8 @@
       "Varo itseäsi, olen nainen vain ulkopuolelta."
     ],
     "asha003": [
-      "Annas kun palautan sinut oikeaan kokoon...",
-      "Ei sillä, että sinulla sitä olisi."
+      "Annappas kun palautan sinut oikeaan mittaan",
+      "Ei sillä että sinulla olisi mitään mahdollisuuksia."
     ],
     "asha004": [
       "Pienet pyssyt eivät oikein sytytä minua."
@@ -509,7 +509,7 @@
       "Agh!"
     ],
     "asha018": [
-      "Osu minuun vielä kerrankin niin menetät jotain kallisarvoista!"
+      "Osut minuun vielä kerrankin niin menetät jotain kallisarvoista!"
     ],
     "asha019": [
       "Ei kovin fiksua!"
@@ -539,7 +539,7 @@
       "Ehkä minun pitäisi kulkea takanasi."
     ],
     "asha028": [
-      "En salli tuota!"
+      "Minä en ota tuota!"
     ],
     "asha029": [
       "Tee vielä noin, niin laitan sinut laulamaan sopraanon."
@@ -630,15 +630,15 @@
     ],
     "asht002": [
       "Olit oikeassa, Jak. Mitä isäni tekee, on väärin.",
-      "Minun täytyy auttaa korjaamaan tämä. Jos pääset asetehtaalle,",
+      "Minun täytyy auttaa korjaamaan tämä. Jos pääset Asetehtaalle,",
       "voimme ehkä pysäyttää hänet. Tapaan sinut siellä."
     ],
     "asht006": [
       "Luulen, että nyt on aika toimia.",
       "Metallipäät ovat niin keskittyneitä hyökkäämään kaupunkiin,",
       "että ne ovat saattaneet jättää pesänsä haavoittuvaksi.",
-      "Jak, sinun täytyy matkata joutomaalle",
-      "ja rikkoa pesän muuri keinolla millä hyvänsä.",
+      "Jak, sinun täytyy matkata Joutomaalle",
+      "ja rikkoa Pesän muuri keinolla millä hyvänsä.",
       "Ehkä, jos pääset sisälle ja päihität Metallipäiden johtajan,",
       "niiden armeija romahtaa. Se on uhkayritys,",
       "mutta se saattaa olla ainoa mahdollisuutemme."
@@ -716,28 +716,28 @@
       "Nämä liikkuvat aseet esiintyvät jatkuvasti kaupungissa, ne täytyy tuhota mahdollisimman pian."
     ],
     "bb06win": [
-      "Taas läjä pommibottien romumetallia vartion",
+      "Taas läjä pommibottien romumetallia Vartion",
       "jätepuristimiin. Tehtävä suoritettu, Vastarinta on",
       "kiitollinen palveluksestasi."
     ],
     "bb07fail": [
-      "Menetit agentin! Ei ollenkaan hyvä, Jak! Tehtävä epäonnistui!"
+      "Olet menettänyt agentin! ei hyvä ollenkaan, Jak! Tehtävä epäonnistui!"
     ],
     "bb07int": [
       "Torn täällä, sinun on kuljetettava lisää agenttejamme uusiin paikkoihin kaupungissa.",
-      "Vartion vakoojat tarkkailevat jokaista liikettämme, joten vältä ongelmia. Onnea."
+      "KV:n vakoojat tarkkailevat jokaista liikettämme, joten vältä ongelmia. Onnea."
     ],
     "bb07win": [
-      "Hienoa kuljetustyötä! Pidät ihmisiä hengissä."
+      "Nice shuttle work! You're keepin' people alive out there."
     ],
     "bb08fail": [
-      "Yksi parhaista agenteistamme pidätettiin. Varjo ei tule olemaan",
-      "innoissaan! Tyrit tämän."
+      "One of our best agents was arrested. The Shadow will NOT be",
+      "pleased! You failed."
     ],
     "bb08int": [
-      "Jak, osa agenteistamme on jälleen vaarassa.",
-      "Etsi jokainen ja vie heidät erityisiin piilopaikkoihin kaupungissa.",
-      "Vartijapartiot ovat erittäin valppaina, joten tämä tulee olemaan haastavaa. Ole varovainen!"
+      "Jak, some of our Agents have been compromised again.",
+      "Find each one and take them to special hideouts in the city.",
+      "The guard patrols are on high alert, so this is going to be a tough one. Keep your head down!"
     ],
     "bb08win": [
       "Se oli hyvää ajoa, Jak.",
@@ -747,22 +747,22 @@
       "Sinulla kesti liian kauan, Jak. Me peruimme kokouksen."
     ],
     "bb09int": [
-      "Jak, Vastarinta pitää kokouksen",
-      "eräiden erityisten agenttien kanssa. Nouda jokainen agentti",
-      "ja kuljeta heidät kokouspaikalle ripeästi."
+      "Jak, we're having an Underground meeting",
+      "with some special Agents. Pick up each Agent",
+      "and bring them to the meeting place quickly."
     ],
     "bb09win": [
-      "Nopeaa työtä, Jak! Jonain päivänä saatamme jopa",
-      "kutsua sinut mukaan kokouksiimme."
+      "Fast work, Jak! Some day, we might even",
+      "invite you to these meetings."
     ],
     "bb10fail": [
-      "Et ollut tarpeeksi nopea! Sinun täytyy olla vikkelä",
-      "toimitusten kanssa."
+      "Not fast enough, buddy! You've gotta be quick",
+      "with those deliveries."
     ],
     "bb10int": [
-      "Jak, sinun täytyy todistaa ajotaitosi jälleen kerran.",
-      "Yksi agentteistamme jätti paketin",
-      "ja se on toimitettava piilopaikkalle. Välittömästi."
+      "Jak, you've got to prove your driving skills once again.",
+      "One of our Agents dropped off a package,",
+      "I need it delivered to the Hideout. Immediately."
     ],
     "bb10win": [
       "Hyvää työtä, Jak!"
@@ -828,7 +828,7 @@
       "Mene nopeasti."
     ],
     "bb15win": [
-      "Teit loistavaa työtä, Jak! Kiitos, tarkoitan sitä todella."
+      "That was amazing work, Jak! Thank you, I really mean that."
     ],
     "bb16fail": [
       "Et tuhonnut tarpeeksi vartijoita.",
@@ -836,192 +836,192 @@
     ],
     "bb16int": [
       "Jak, tässä Torn.",
-      "Erolin henkilökohtainen eliittivartio on liikkeessä kaupungin läpi.",
-      "Meidän täytyy iskeä heitä ja kovaa! Nujerra tarpeeksi",
-      "vartijoita ennen kuin minun on peruutettava tehtävä.",
-      "Liian vähän vartijoita ja olemme menettäneet mahdollisuuden",
-      "aiheuttaa todellista vahinkoa vihollisillemme."
+      "Erol's elite personal guard are moving through the city.",
+      "We need to hit them and hit them hard! Take out enough",
+      "guards before I have to call off the mission.",
+      "Get too few guards and we'll have missed an opportunity to",
+      "aiheutaa todellista vahinkoa vihollisillemme."
     ],
     "bb16win": [
-      "Hieno operaatio, Jak! Tuo jättää viestin Erolille."
+      "Great hit 'n' run, Jak! That'll send a message to Erol."
     ],
     "bb17fail": [
-      "Ilmeisesti vehje liian vaikeakäyttöinen. Sivuutamme sen toistaiseksi."
+      "Looks like that thing's too hard to use. We'll pass for now."
     ],
     "bb17int": [
-      "Olemme arvioineet JET-laudan käyttöä Vastarinnan",
-      "tehtäviin. Kuulimme sinun olevan aika haka sen kanssa,",
-      "näytä meille mihin se pystyy. Kerää tarpeeksi pisteitä",
-      "tuomaribotin kanssa niin harkitsemme sen lisäämistä varustoomme."
+      "We're evaluating the new JET-Board for use in Underground",
+      "missions. We heard you're pretty good with that thing,",
+      "show us what it can do. Score enough points with the",
+      "judge-bot and we'll consider adding it to our arsenal."
     ],
     "bb17win": [
-      "Vau! Saat ihan betonin järisemään tuolla vekottimella!",
+      "Wow! You can really tear up the concrete with that baby!",
       "Hyvää työtä."
     ],
     "bb18fail": [
-      "En vieläkään usko JET-laudan olevan hyödyllinen."
+      "I'm still not sure the JET-Board's that useful."
     ],
     "bb18int": [
-      "Tässä on toinen hyvä paikka arvioida JET-laudan",
-      "suorituskykyä. Yritä saada tarpeeksi pisteitä myös täällä."
+      "Here's another great place to evaluate the performance",
+      "of the JET-Board. Try to get enough points here as well."
     ],
     "bb18win": [
-      "Makeat liikkeet, Jak. Vartion kävisi aika hankalaksi",
-      "saavuttaa meitä noilla."
+      "Sweet moves, Jak. The KG would have a hard time",
+      "catching us on those babies."
     ],
     "bb19fail": [
-      "Et saanut niitä kaikkia. Yritä uudelleen."
+      "You didn't get them all. Try again."
     ],
     "bb19int": [
-      "Arvioimme jäljittimien käyttöä tehtävissämme.",
-      "Kerää kaikki jäljittimet niin nopeasti kuin pystyt.",
-      "Sinun täytyy liikkua vikkelään tässä."
+      "We're evaluating the use of homing beacons in missions.",
+      "Get all of the beacons as fast as you can.",
+      "You gotta move quickly on this one."
     ],
     "bb19win": [
       "Erinomaista työtä. Olet suuri voimavara",
       "Vastarinnalle, Jak."
     ],
     "bb20fail": [
-      "Liian hidasta, Jak! Kun Varjo kysyy, sinun täytyy toimia."
+      "Too slow, Jak! When the Shadow asks, you need to deliver."
     ],
     "bb20int": [
-      "Varjo tarvitsee sinun kerätä vihreää ecoa hänen",
-      "kokeisiinsa. Kerää kaikki ennen kuin eco katoaa."
+      "The Shadow needs you to collect some green eco for his",
+      "experiments. Get all of it before the eco vanishes."
     ],
     "bb20win": [
-      "Ei paha. Annan hyvää palautetta Varjolle."
+      "Not bad. I'll put in a good word with the Shadow."
     ],
     "bb21fail": [
-      "Jatka yrittämistä. Sinun on kehitettävä taitojasi täällä."
+      "Keep tryin'. You need to develop your skills here."
     ],
     "bb21int": [
-      "Joskus tykkäämme \"lainata\" Karmiinivartion",
-      "laitteistoa. Hyppää tuon partiomopon selkään",
-      "ja osu kaikkiin kohteisiin määrätyssä ajassa."
+      "Sometimes we like to \"borrow\" Krimzon Guard",
+      "equipment. Take that KG patrol bike out for a spin",
+      "and hit all the targets within the time limit."
     ],
     "bb21win": [
-      "Kauniisti ammuttu. Vartio rakastaisi sinua rekryyttinä.",
-      "Tässä on pieni palkkio pysyäksesi meidän puolella."
+      "Nice shooting. The Guard would looove you as a recruit.",
+      "Here's a little reward to stay with us instead."
     ],
     "bb22fail": [
-      "Et hoitanut kaiuttimia tarpeeksi nopeasti, Jak."
+      "You didn't get the booths fast enough, Jak."
     ],
     "bb22int": [
-      "Osa paronin propagandasta herpaannuttaa",
-      "siviilejä. Tuhoa hänen kaiuttimet niin ehkä pysäytämme Praxisin",
-      "levittämästä valheitaan."
+      "Some of the Baron's propaganda is unnerving",
+      "the civilians. Take out those booths and we'll stop Praxis",
+      "from spreading his lies."
     ],
     "bb22win": [
-      "Hyvää työtä! Tuon pitäisi hiljentää paronia hieman."
+      "Good work! That should shut up the Baron a bit."
     ],
     "bb23fail": [
-      "Hävisit, Jak. Jos haluat voittaa,",
-      "sinun tulee hioa nopeustaitojasi."
+      "You lost, Jak. If you wanna win,",
+      "you better work on your speed skills."
     ],
     "bb23int": [
-      "Vastarinnan huippukilpailija tahtoo haastaa sinut",
-      "kisaan rengasradassa yksi.",
-      "Kestätkö pikku kilpailua?"
+      "The Underground's top racer wants to challenge you",
+      "to a race on Ring Course One.",
+      "Think you can handle a little competition?"
     ],
     "bb23win": [
-      "Onneksi olkoon! Voitit haastajan!"
+      "Congratulations! You beat the challenger!"
     ],
     "bb24fail": [
-      "Veikkomme pesi sinut tässä. Onnea ensi kertaan."
+      "Our boy took you on this one. Better luck next time."
     ],
     "bb24int": [
       "Kiinnostaisiko pikku kisa, Jak?",
-      "Ykköskuskimme haluaa haastaa sinut rengasradassa kaksi.",
-      "Tämä on hieman haastavampi.",
-      "Katsotaan, jos pystyt ylittämään haasteen."
+      "Our top driver wants to face you on Ring Course Two.",
+      "This baby's a little more difficult.",
+      "Let's see if you can rise to the challenge."
     ],
     "bb24win": [
       "Voitit hänet, Jak. Hyvin ajettu."
     ],
     "bb25fail": [
-      "Nähtävästi et ole kaupungin huippukuski, Jak.",
+      "Looks like you're not the top racer in this town, Jak.",
       "Hävisit!"
     ],
     "bb25int": [
-      "Vastarinnan kisamestari haastaa sinut jälleen,",
-      "tällä kertaa hankalassa rengasradassa kolme.",
+      "The Underground's race champion wants at you again,",
+      "this time on the difficult Ring Course Three.",
       "Tämä tulee olemaan takkuista."
     ],
     "bb25win": [
-      "Onnittelut, voitit parhaan kisaajamme. Hyvin tehty."
+      "Congratulations, you beat our best racer. Well done."
     ],
     "bb26int": [
-      "Tämä on Torn, hyvä Vastarinnan agentti tuntee kaupungin",
-      "läpikotaisin, näkemällä. Katsotaan, miten sinä pärjäät,",
-      "mene tähän paikkaan annetussa määräajassa",
-      "ja saat palkinnon. Mene!"
+      "This is Torn, a good Underground agent knows the city",
+      "inside and out, by sight. Let's see how you stack up,",
+      "get to this place in the time limit given",
+      "and you'll get a reward. GO!"
     ],
     "bb27int": [
-      "Tässä on toinen mahdollisuus todistaa kaupungin tuntemuksesi."
+      "Here's another chance to prove your knowledge of the city."
     ],
     "bb28int": [
-      "Etsi tämä paikka ennen kuin aika loppuu."
+      "Find this place before time runs out."
     ],
     "bb29int": [
-      "Tämä on hankala, voita aika tänne paikkaan."
+      "Here's a tough one, beat the clock to here."
     ],
     "bb30int": [
-      "Tunnistatko tämän paikan? Etsi se nopeasti ja saat palkinnon."
+      "Recognize this place? Find it fast and a reward is yours."
     ],
     "bb31int": [
-      "Tätä paikkaa ei hyvin tunneta, etsi se nopeasti niin olen vaikuttunut."
+      "Here's a little known place, find it fast and I'll be impressed."
     ],
     "bb32int": [
-      "Tahtoisin nähdä sinun löytävän tämän paikan. Yllätä minut, Jak."
+      "I'd like to see you find this place. Impress me, Jak."
     ],
     "bb33int": [
-      "Saavu tänne nopeasti ja yllätä minut."
+      "Get here fast and surprise me."
     ],
     "bb34int": [
-      "Tässä on toinen kohde, mene tänne ripeästi."
+      "Here's another destination, get here quickly."
     ],
     "bb35int": [
       "Etsi tämä paikka, nopeasti!"
     ],
     "bb36int": [
-      "Saavuta tämä paikka niin saat palkinnon."
+      "Reach this area and be rewarded."
     ],
     "bb37int": [
-      "Pystytkö löytämään tämän paikan?"
+      "Think you can find this place?"
     ],
     "bb38fail": [
-      "Ei niin hyvä, Jak! Ehkä sinun pitäisi kalibroida tuo lauta."
+      "Not so good, Jak! Maybe you should calibrate that board."
     ],
     "bb38int": [
-      "Arvioimme edelleen JET-lautaa.",
-      "Katsotaan, jos pystyt keräämään kaikki energiatehostimet",
+      "We're still evaluating the JET-Board.",
+      "Let's see if you can collect all of the energy boosts",
       "asetetussa määräajassa."
     ],
     "bb38win": [
-      "Komeat liikkeet, lentäjä."
+      "Nice moves, fly-boy."
     ],
     "bb39fail": [
-      "Niin lähellä, mutta tässä työssä se tarkoittaa kuolemaa."
+      "Soo close, but in this business that means dead."
     ],
     "bb39int": [
-      "Surffaa JET-laudalla rengasradan läpi.",
-      "Voita aika niin tatuoin kasvosi kuin minulla."
+      "Take that JET-Board through its paces on a Ring Course.",
+      "Beat the time and I'll get your face tattooed like mine."
     ],
     "bb39win": [
-      "Hyvä tahti radan läpi, Jak!",
+      "Good speed through the course, Jak!",
       "Tuo näytti liian helpolta."
     ],
     "bb40fail": [
-      "Taisit kohdata vertaisesi, Jak!",
-      "Olit liian hidas tällä radalla."
+      "Looks like you've met your match, Jak!",
+      "Olit liian hidas tällä radalla"
     ],
     "bb40int": [
-      "Haluaisin nähdä sinun liitävän JET-laudalla toisen",
-      "rengasradan läpi. Teemme tästä hieman mielenkiintoisemman,",
-      "katsotaan, jos kyet suorittamaan sen ajoissa."
+      "I'd like to see you take the JET-Board through another",
+      "Ring Course. We'll make this one a little more interesting,",
+      "katsotaan, jos voit suorittaa sen ajassa."
     ],
     "bb40win": [
-      "Vau! Jopa minä olisin kamppaillut tuon kanssa, hyvää työtä!"
+      "Wow! Even I'd have trouble on that one, good job!"
     ],
     "bf001": [
       "Kilpeni on läpäisemätön iskujasi vastaan!"
@@ -1084,13 +1084,13 @@
       "Kivi on minun!"
     ],
     "bf021": [
-      "Anna se kivi minulle!"
+      "Anna se Kivi minulle!"
     ],
     "bf022": [
       "Vapauta se!"
     ],
     "bf023": [
-      "Haluan kiven!"
+      "Haluan Kiven!"
     ],
     "bf024": [
       "Arrh, päästä irti!"
@@ -1099,7 +1099,7 @@
       "Se on minun!"
     ],
     "bf026": [
-      "Kokeilehan näitä vaihteeksi!"
+      "Kokeilehan näitä pikaisesti!"
     ],
     "bf027": [
       "Tässä pikku lahja!"
@@ -1138,7 +1138,7 @@
       "Kivi on minun! Anna kun minä näytän mihin se kykenee!"
     ],
     "bf039": [
-      "Nyt saat nähdä kiven voiman kykenevissä käsissä!"
+      "Nyt saat nähdä Kiven voiman kykenevissä käsissä!"
     ],
     "bf040": [
       "Miltäs valta nyt näyttää?"
@@ -1285,7 +1285,7 @@
       "Minun kilpeni on nyt latautunut!"
     ],
     "bf088": [
-      "Kokeilehan näitä vaihteeksi!"
+      "Kokeilehan näitä pikaisesti!"
     ],
     "bf089": [
       "Minun olisi pitänyt tappaa sinut aikoja sitten!"
@@ -1433,21 +1433,21 @@
     ],
     "bru001": [
       "Suuri haiseva hanhikäärmeen hönkä sentään!",
-      "Sankareita vaanijakansalle te olette!",
+      "Sankareita Vaanijakansalle te olette!",
       "Nyt vain nähdä paljon onnelliset kiitokset! Ruhuhuh.",
-      "Te vaanijaheimon kunniajäsenet nyt.",
+      "Te Vaanijaheimon kunniajäsenet nyt.",
       "Me ei unohda - jos koskaan meitä tarvia, teitä me autamme!"
     ],
     "bru002": [
-      "Kuulen teidän kaksi etsivän palan Marin kiiltävää sinettiä.",
+      "Kuulen teidän kaksi etsivän palan Marin kiiltävää Sinettiä.",
       "Brutter myös rakastaa kiiltävän kirkkaita asioita.",
-      "Minulla on pala, luulen. Se olla vesislummeilla,",
+      "Minulla on pala, luulen. Se olla Vesislummeilla,",
       "roikkumassa mökilläni, ja teille vapaasti saatavana.",
       "Lahja Brutterilta!"
     ],
     "bru004": [
-      "Te kaksi hyvä! Ei parempaa soturia kaikissa vaanijaheimoissa!",
-      "Te pitää sinetti. Te rakastaa kiiltäviä asioita aivan kuten Brutter."
+      "Te kaksi hyvä! Ei parempaa soturia kaikissa Vaanijaheimoissa!",
+      "Te pitää Sinetti. Te rakastaa kiiltäviä asioita aivan kuten Brutter."
     ],
     "cit001": [
       "Hei!"
@@ -1543,16 +1543,16 @@
       "Eiiii!"
     ],
     "cit100": [
-      "Älä!"
+      "Please!"
     ],
     "cit100a": [
-      "Älä!"
+      "Please!"
     ],
     "cit100b": [
-      "Älä!"
+      "Please!"
     ],
     "cit100c": [
-      "Älä!"
+      "Please!"
     ],
     "cit101": [
       "Lopeta!"
@@ -1663,7 +1663,7 @@
       "Ole hyvä ja käy sisään."
     ],
     "cityv025": [
-      "Portaali aktivoitu."
+      "Warp Gate online."
     ],
     "cityv026": [
       "Varoitus: Ecovarat vähissä."
@@ -1678,13 +1678,13 @@
       "Ecoverkko epävakaa."
     ],
     "cityv030": [
-      "Metallipäitä havaittu louhoksella."
+      "Metallipäitä havaittu Louhoksella."
     ],
     "cityv031": [
-      "Metallipäitä havaittu porausalueella."
+      "Metallipäitä havaittu Porausalueella."
     ],
     "cityv032": [
-      "Odota hyväksyntää."
+      "Stand by for clearance."
     ],
     "cityv033": [
       "Mukavaa päivänjatkoa."
@@ -1711,7 +1711,7 @@
       "Hälytys: Kaupunki hyökkäyksen kohteena."
     ],
     "cityv041": [
-      "Metallipää-hyökkäys meneillään."
+      "Metallipää-hyökkäys käynnissä."
     ],
     "cityv042": [
       "Kaikki kansalaiset menevät turvapaikkoihin."
@@ -1747,7 +1747,7 @@
       "Minulla on oikeus käyttää voimaa."
     ],
     "cityv053": [
-      "Yleinen hälytys: Mellakka käynnissä. Karmiinivartijat ovat matkalla."
+      "Yleinen hälytys: Mellakka käynnissä. Karmiinivartijat matkalla."
     ],
     "cityv054": [
       "Antaudu. Sinut on pidätetty."
@@ -1796,7 +1796,7 @@
       "Hälytys: Ajoneuvo tuhoutuu välittömästi."
     ],
     "cityv076": [
-      "Ole hyvä ja aja varovaisemmin ensi kerralla."
+      "Ole hyvä ja aja varovaisemmin seuraavalla kerralla."
     ],
     "cityv077": [
       "Kiitos, kun käytitte ajoneuvoa."
@@ -1820,55 +1820,55 @@
       "Evakuoi välittömästi."
     ],
     "cityv087": [
-      "Saavutaan valtaistuinhuoneen kerrokseen."
+      "Arriving at Throne Room floor."
     ],
     "cityv088": [
-      "Saavutaan pohjakerrokseen."
+      "Arriving at ground floor."
     ],
     "cityv093": [
-      "Sinut on tuomittu terminointiin."
+      "You have been sentenced to termination."
     ],
     "cityv094": [
       "Tämä alue on rajoitettu.",
       "Aloitetaan terminointi äärimmäisellä ennakkoluulolla."
     ],
     "cityv095": [
-      "Tämä alue on avoinna vain Karmiinivartion henkilökunnalle."
+      "This area open to Krimzon Guard personnel only."
     ],
     "cityv096": [
-      "Kaupunki on erittäin valppaana."
+      "The city is on high alert."
     ],
     "cityv097": [
-      "Kaupunki on hyökkäyksen kohteena.",
-      "Kaikki kansalaiset suunnatkaa turvapaikkoihin."
+      "The city is under attack.",
+      "All citizens proceed to safe shelters."
     ],
     "cityv098": [
-      "Kaupunki on hyökkäyksen kohteena. Olkaa hyvä ja pysykää kodeissanne."
+      "The city is under attack. Please stay in your homes."
     ],
     "cityv099": [
-      "Metallipää-hyökkääjät tunkeutuvat järjestelmään."
+      "Metal Head aggressors are infiltrating the system."
     ],
     "cityv100": [
-      "Onnittelut turvapassin saamisesta."
+      "Congratulations on receiving a Security Pass."
     ],
     "cityv107": [
       "Luvaton Linnoituksen oven käyttö.",
       "Aktivoidaan turvatoimitankki."
     ],
     "cityv108": [
-      "Tykin aseet aktivoituvat."
+      "Gunpod weapons coming online."
     ],
     "cityv109": [
-      "Aseet ylikuumenevat."
+      "Weapons overheating."
     ],
     "cityv110": [
-      "Aseet epäkunnossa. Odota jäähdytystä."
+      "Weapons inoperative. Please wait for cooling."
     ],
     "cityv111": [
-      "Aseet toiminnassa."
+      "Weapons back online."
     ],
     "cityv112": [
-      "Tykki on saanut vakavia vaurioita."
+      "The gunpod has taken severe damage."
     ],
     "cityv130": [
       "Kaupungin kartta näkyy oikeassa alakulmassa."
@@ -1881,117 +1881,117 @@
       "Tunkeilijahälytys."
     ],
     "cityv135": [
-      "Odota."
+      "Stand by."
     ],
     "cityv146": [
-      "Piirini ylikuormittuvat.",
-      "Kytke ohituskytkimeni päälle määräajassa",
-      "niin tulet palkituksi."
+      "I'm experiencing a circuit overload.",
+      "Turn on my bypass switches within the time limit",
+      "and you will be rewarded."
     ],
     "cityv147": [
-      "Et onnistunut kytkemään ohituskytkimiä päälle ajoissa.",
-      "C-vyöhykkeen piirini ovat ylikuormittuneet."
+      "You failed to turn on the bypass grid in time.",
+      "My C-Zone circuits have overloaded."
     ],
     "cityv148": [
-      "Onnistuit kytkemään päälle ohitukset",
-      "piireihini ajoissa.",
-      "Tässä on palkkio."
+      "You successfully switched on the bypass",
+      "for my circuits in time.",
+      "Here is a reward."
     ],
     "cityv149": [
-      "Tarvitsen hätävoimaa ecomuuntimilleni.",
-      "Kytke päälle kaikki käytettävissä olevat piirit nopeasti",
-      "ecoverkon vakauttamiseen."
+      "I need emergency power for my Eco Converters.",
+      "Switch on all available circuits quickly",
+      "to stabilize the Eco Grid."
     ],
     "cityv150": [
-      "Et saavuttanut kaikkia kytkimiä ajoissa.",
-      "Ecoverkko on yhä epävakaa."
+      "You didn't reach all the switches in time.",
+      "The Eco Grid is still unstable."
     ],
     "cityv151": [
-      "Onnistuit kytkemään päälle piirit",
-      "ecoverkon vakauttamiseen.",
-      "Olet ansainnut palkkion."
+      "You successfully switched on the circuits",
+      "to stabilize the Eco Grid.",
+      "You have earned a reward."
     ],
     "cityv152": [
-      "Olen havainnut pimeän ecovuodon.",
-      "Tämä vaara on hävitettävä nopeasti",
-      "ennen kuin kaupunki saastuu."
+      "I have detected a Dark Eco spill.",
+      "You must remove this hazard quickly",
+      "before the city is contaminated."
     ],
     "cityv153": [
-      "Et hävittänyt kaikkea pimeää ecoa riittävän nopeasti."
+      "You did not remove all the Dark Eco quickly enough."
     ],
     "cityv154": [
-      "Hävitit pimeän ecovaaran ajoissa.",
-      "Kaupunki on teille kiitollisuuden velassa."
+      "You removed the Dark Eco hazard in time.",
+      "The city is grateful to you."
     ],
     "cityv155": [
-      "Sensorit havaitsevat kerääntymän sinistä ecoa kaupungissa.",
-      "Kerää kaikki eco ennen kuin se häviää",
-      "niin tulet palkituksi."
+      "Sensors indicate a cluster of Blue Eco in the city.",
+      "Collect all eco before it dissipates",
+      "and you will be rewarded."
     ],
     "cityv156": [
-      "Et kerännyt kaikkea ecoa."
+      "You did not retrieve all of the eco."
     ],
     "cityv157": [
-      "Keräsit econ onnistuneesti.",
-      "Tässä on palkkiosi."
+      "You successfully retrieved the eco.",
+      "Here is your reward."
     ],
     "cityv158": [
-      "Hätätoimia tarvitaan.",
-      "Karanneita pommibotteja havaittu ja suuntaamassa",
-      "asuttuja alueita kohti. Neutraloi kaikki pommibotit",
-      "ennen kuin on liian myöhäistä."
+      "Emergency response needed.",
+      "Runaway bomb bots detected and headed for",
+      "populated areas. Neutralize all bomb bots",
+      "before it's too late."
     ],
     "cityv159": [
-      "Et onnistunut neutraloimaan karanneita pommibotteja."
+      "You failed to neutralize the runaway bomb bots."
     ],
     "cityv160": [
-      "Tuhosit karanneet pommibotit.",
-      "Kaupunki kiittää teitä."
+      "You destroyed the runaway bomb bots.",
+      "The city thanks you."
     ],
     "cityv161": [
-      "Saavu tähän pisteeseen pelissä nopeasti",
-      "niin saat palkkion."
+      "Get to this point in the game quickly",
+      "and you will receive a prize."
     ],
     "cityv162": [
-      "Yritä löytää tämä paikka."
+      "Try to find this spot."
     ],
     "cityv163": [
-      "Osaatko tunnistaa tämän paikan ja päästä sinne?"
+      "Can you identify this place and get there?"
     ],
     "cityv164": [
-      "Saavu tänne määräajassa niin palkkio on sinun."
+      "Make it here in the time allotted and a reward is yours."
     ],
     "cityv165": [
-      "Etsi tämä paikka palkkiosta."
+      "Find this spot for a prize."
     ],
     "cityv166": [
-      "Mene tähän paikkaan palkkiosta."
+      "Get to this spot for a prize."
     ],
     "cityv167": [
-      "Metallipäitä on havaittu aseradalla.",
-      "Neutraloi ne kaikki välittömästi."
+      "Metal Heads have been detected in the gun course.",
+      "Neutralize them all immediately."
     ],
     "cityv168": [
-      "Et tappanut niitä kaikkia."
+      "You did not kill them all."
     ],
     "cityv169": [
-      "Erinomaista ammuntaa. Uhka eliminoitu."
+      "Excellent shooting. Threat eliminated."
     ],
     "cityv170": [
-      "Hanki huippupisteet JET-laudalla niin saat palkinnon."
+      "Get a high score on the JET-Board and receive a prize."
     ],
     "cityv171": [
-      "Yritä saada huippupisteet niin ansaitset palkinnon."
+      "Try for a high score and receive a prize."
     ],
     "cityv172": [
-      "Et saanut tarpeeksi korkeaa tulosta."
+      "You did not achieve a high enough score."
     ],
     "cityv173": [
-      "Onnittelut, sinä saavutit tarpeeksi korkeat pisteet."
+      "Congratulations, you achieved a high enough score."
     ],
     "cityv174": [
-      "Tervetuloa stadionin keskustietokoneeseen.",
-      "Ole hyvä ja valitse haasteesi."
+      "Welcome to the Stadium Central Computer.",
+      "Please select your challenge."
     ],
     "cityv175": [
       "Huomio, kaikki kansalaiset:",
@@ -2006,7 +2006,7 @@
       "Luokan 3 kisa on alkamassa."
     ],
     "cityv178": [
-      "Haluaisitko yrittää radan ennätystä?"
+      "Haluatko yrittää radan ennätystä?"
     ],
     "cityv179": [
       "Onnittelut, sinä saavutit kultaisen sijan."
@@ -2018,43 +2018,43 @@
       "Onnittelut, sinä saavutit pronssisijan."
     ],
     "cityv182": [
-      "Haluaisitko yrittää ennätyspisteitä?"
+      "Care to try for a high score record?"
     ],
     "cityv183": [
-      "Haluaisitko yrittää saada huippupisteet?"
+      "Would you like to try for a high score?"
     ],
     "cityv184": [
-      "Tervetuloa kilpa-aika-ajoihin."
+      "Welcome to the Racing Time Trials."
     ],
     "cityv185": [
-      "Haluaisitko kilpailla ennätysajasta?"
+      "Would you like to race for a record time?"
     ],
     "cityv186": [
-      "Valitse rata."
+      "Choose your course."
     ],
     "cityv187": [
-      "Haluaisitko yrittää radan ennätystä?"
+      "Would you like to try for a course record?"
     ],
     "cityv188": [
-      "Haluatko ostaa salaisuuden helmillä?"
+      "Would you like to use Orbs to buy a secret?"
     ],
     "cityv189": [
-      "Sinulla ei ole tarpeeksi helmiä tähän salaisuuteen."
+      "You do not have enough Orbs for this secret."
     ],
     "cityv190": [
-      "Salaisuus aktivoitu."
+      "Secret activated."
     ],
     "cityv191": [
-      "Kaikki salaisuudet aktivoitu."
+      "All secrets are activated."
     ],
     "cityv192": [
-      "Ole hyvä ja poistu titaaniasusta."
+      "Please exit the Titan Suit."
     ],
     "cityv193": [
-      "Sinun on poistuttava titaaniasusta."
+      "You must exit the Titan Suit."
     ],
     "cityv194": [
-      "Ajoneuvojen on pysyttävä kaupungin rajojen sisällä."
+      "Vehicles must remain within city limits."
     ],
     "cityv195": [
       "Poistuminen evätty. Viholliskohteita yhä läsnä."
@@ -2063,34 +2063,34 @@
       "Poistuminen evätty. Metallipäiden munia yhä havaittu."
     ],
     "cityv197": [
-      "Skannerit näyttävät Metallipäiden munia yhä elossa."
+      "Scanners show Metal Head eggs still active."
     ],
     "daxm001": [
-      "Ammu tuota alustaa, Jak."
+      "Shoot the platform, Jak."
     ],
     "daxm002": [
-      "Tarvitsemme jotain päästäksemme tuon portin läpi!"
+      "We need something to get through that gate!"
     ],
     "daxm003": [
-      "Ammu Metallipäätä, kun se siirtää kilpensä!"
+      "Shoot the Metal Head when he moves his shield!"
     ],
     "daxm004": [
-      "Ammu sitä sen vatsaan!"
+      "Hit him in his stomach!"
     ],
     "daxm005": [
-      "Huh! Tuo polku putosi kuin... kuin kivi!"
+      "Whoa! That path dropped like uh... a rock!"
     ],
     "daxm006": [
-      "Mätkäise boksia, beibi!"
+      "Smack the box, baby!"
     ],
     "daxm007": [
-      "Siinäpä vasta kivinen tie!"
+      "That's what I call a rocky road!"
     ],
     "daxm008": [
-      "Meidän täytyy päästä huipulle!"
+      "We gotta get to the top!"
     ],
     "daxm009": [
-      "Me teimme sen!!"
+      "We made it!!"
     ],
     "daxm010": [
       "Rock 'n roll!"
@@ -2109,7 +2109,7 @@
       "Tuon täytyy olla kaupungin Rubiiniavain."
     ],
     "ds013": [
-      "Patsaista on tulossa uhanalainen laji näillä main."
+      "Patsaista on tulossa uhanalainen laji täälläpäin."
     ],
     "ds014": [
       "Tämä siis on Marin pelottava hauta, vai?",
@@ -2143,7 +2143,7 @@
       "Jeah!"
     ],
     "ds028": [
-      "Jippii!"
+      "Oh yeah!"
     ],
     "ds029": [
       "Palataan takaisin kaupunkiin."
@@ -2161,7 +2161,7 @@
       "Voit hypätä pidemmälle kierimällä sitä ennen."
     ],
     "ds044": [
-      "Pitkällä hypyllä pääset tämän rotkon yli."
+      "Käytä pitkää hyppyä päästäksesi tämän rotkon yli."
     ],
     "ds045": [
       "Hieno muoto!"
@@ -2231,7 +2231,7 @@
       "Ammu, ammu!"
     ],
     "ds066": [
-      "Sig kuolee, me kuolemme."
+      "Jos Sig kuolee, mekin kuolemme."
     ],
     "ds067": [
       "Uff, olemme surkeita..."
@@ -2267,7 +2267,7 @@
       "Murskaa ovi!"
     ],
     "ds114": [
-      "800-kiloinen tiikorilla tulossa läpi!"
+      "800-kiloinen Tiigorilla tulossa läpi!"
     ],
     "ds115": [
       "Murskaavaa työtä, Jak! Heh, tuo oli hauska."
@@ -2297,7 +2297,7 @@
       "Ammu tykkiä, Jak!"
     ],
     "ds143": [
-      "Meidän on tarkoitus pitää Krewin kaverit elossa, Jak!"
+      "Meidän on tarkoitus pitää Krewin kaverit hengissä, Jak!"
     ],
     "ds144": [
       "Pelasta heidät, Jak!"
@@ -2336,8 +2336,8 @@
       "Niillä voimme ostaa juttuja!"
     ],
     "ds163": [
-      "Jak, nyt kun meillä on palatsin turvapassi,",
-      "mennään pitämään hauskaa ison kihon majassa."
+      "Jak, nyt kun meillä on Palatsin turvapassi,",
+      "mennään pitämään hauskaa ison miehen majassa."
     ],
     "ds164": [
       "Peruuta poistuaksesi mekanismista."
@@ -2356,7 +2356,7 @@
       "Ehkä nyt saamme tavata Varjon."
     ],
     "ds168": [
-      "Tuolla se repeämärengas on!"
+      "There's the Rift Ring!"
     ],
     "ds173": [
       "Ahhh!"
@@ -2365,10 +2365,10 @@
       "Ooooh!"
     ],
     "ds175": [
-      "Hui-ui-ui-uih!"
+      "Whoa-whoa-oaa-ah!"
     ],
     "ds176": [
-      "Huih!"
+      "Whoa!"
     ],
     "ds177": [
       "Hei!"
@@ -2377,7 +2377,7 @@
       "Hei, varohan!"
     ],
     "ds179": [
-      "Huh!"
+      "Ooh!"
     ],
     "ds180": [
       "Voi pojat!"
@@ -2410,7 +2410,7 @@
       "Oranssi Salama tulossa läpi!"
     ],
     "ds190": [
-      "Rullataan toverien kanssa!"
+      "Rollin' with the homies!"
     ],
     "ds191": [
       "Olet minun!"
@@ -2425,7 +2425,7 @@
       "Kuinka tätä ajetaan?"
     ],
     "ds195": [
-      "Juuri niin! Minä se osaan!"
+      "Yeah, that's right! I'm bad!"
     ],
     "ds196": [
       "Pois tieltäni!"
@@ -2458,13 +2458,13 @@
       "Käänny ja pala, beibi!"
     ],
     "ds206": [
-      "Uuuh, tästä tulee tiukkaa!"
+      "Oooh, it's gonna be close!"
     ],
     "ds207": [
-      "Syö pölyä, veikko!"
+      "Eat my dust, buddy!"
     ],
     "ds208": [
-      "Sainpas!"
+      "Gotcha!"
     ],
     "ds209": [
       "Tämä on minun ratani, mummeli!"
@@ -2476,25 +2476,25 @@
       "Käänny, käänny!"
     ],
     "ds212": [
-      "Kaasua!"
+      "Step on it!"
     ],
     "ds213": [
-      "Oooh, voitin, voitin!"
+      "Oooh, I won, I won!"
     ],
     "ds214": [
-      "Jiih, nyt oli hyvä kierrosaika."
+      "Yeee, that's a good lap time."
     ],
     "ds215": [
-      "Jep! Minä rokkaan!"
+      "Oh, yeah! I'm rockin'!"
     ],
     "ds216": [
-      "Toinen kierros ennätyskirjoihin!"
+      "Another lap in the record book!"
     ],
     "ds217": [
-      "Vilkaisehan häntääni!"
+      "Take a good look at my tail!"
     ],
     "ds218": [
-      "Jihuu!"
+      "Wahoo!"
     ],
     "ds219": [
       "Hei, torahammas, hyppää kyytiin siitä,",
@@ -2513,13 +2513,13 @@
       "Ajoneuvoon siitä, kamu, me voimme pelastaa sinut!"
     ],
     "ds224": [
-      "Jälleen yksi vaanija vapautettu."
+      "Jälleen yksi Vaanija vapautettu."
     ],
     "ds225": [
       "Liikettä, ecohönkä! Me kuljetamme sinut Brutterille."
     ],
     "ds226": [
-      "Hei, Brutter! Katsohan mitä kissakalkkuna toi mukanaan."
+      "Hey, Brutter! Look what the cat turkey dragged in."
     ],
     "ds227": [
       "Katsohan mitä me löysimme!"
@@ -2528,67 +2528,67 @@
       "Tunnistatko tämän hirviön?"
     ],
     "ds229": [
-      "Me teimme sen! Pelastimme ne kaikki!"
+      "We did it! We saved them all!"
     ],
     "ds230": [
-      "Ota vaunu kiinni, Jak!"
+      "Catch the paddywagon, Jak!"
     ],
     "ds231": [
-      "Rysäytä vaunu!"
+      "Crash the paddywagon!"
     ],
     "ds232": [
-      "Hieman lisää vahinkoa niin tämä saamme tämän!"
+      "A little more damage and we got the sucker!"
     ],
     "ds233": [
-      "Se savuaa, Jak! Iske lisää!"
+      "He's smoking, Jak! Hit him again!"
     ],
     "ds234": [
-      "Tuo sai vahinkoa aikaan!"
+      "That caused some damage!"
     ],
     "ds235": [
-      "Vielä yksi tuollainen ja hän on maissa!"
+      "One more like that and he's through!"
     ],
     "ds236": [
-      "Etsi seuraava ajoneuvo!"
+      "Find the next vehicle!"
     ],
     "ds237": [
-      "Jes, hoitelimme sen!"
+      "Yes, we took it out!"
     ],
     "ds238": [
-      "Saalista ja tuhoa, beibi!"
+      "Hunt and destroy, baby!"
     ],
     "ds239": [
-      "Osu siihen, osu!"
+      "Hit it, hit it!"
     ],
     "ds240": [
-      "Kaada se!"
+      "Take it out!"
     ],
     "ds241": [
-      "Nappaa vaanija mukaan, Jak!"
+      "Pick up the Lurker, Jak!"
     ],
     "ds242": [
-      "Nouda vaanija!"
+      "Get the Lurker!"
     ],
     "ds243": [
-      "Meidän on noudettava tuo vaanija tuolla."
+      "We need to pick up that Lurker back there."
     ],
     "ds244": [
-      "Yleensä en tykkää olla näin lähellä vaanijoita."
+      "Usually, I don't like to be this close to Lurkers."
     ],
     "ds245": [
-      "Ehehe, sinä vaikutat vallan mukavalta, öh... eläimeltä."
+      "Ehehe, you seem like a nice, uh... animal."
     ],
     "ds246": [
-      "Rauhassa, kamu. Äläkä sitten pure!"
+      "Easy, buddy. Don't bite me!"
     ],
     "ds247": [
-      "Hei, lakkaa kuolaamasta päälleni!"
+      "Hey, stop slobbering on me!"
     ],
     "ds248": [
       "Hän latautuu!"
     ],
     "ds249": [
-      "Oi, nyt osuimme hyvin!"
+      "Ooh, we got him good that time!"
     ],
     "ds250": [
       "Hah, nyt häneen sattui!"
@@ -2624,216 +2624,216 @@
       "Jes, osuit häneen!"
     ],
     "ds261": [
-      "Krewia ei ollutkaan vielä tarpeeksi."
+      "As if there wasn't enough of Krew already."
     ],
     "ds262": [
-      "Ammu ne kaikki, Jak! Lajitellaan ne myöhemmin..."
+      "Shoot 'em all, Jak! We'll sort 'em out later..."
     ],
     "ds263": [
-      "Tuolla on aito Krew! Ammu häntä!"
+      "There's the real Krew! Shoot him!"
     ],
     "ds264": [
-      "Sinä osuit!"
+      "You got him!"
     ],
     "ds265": [
-      "Varo selustaasi, Jak!"
+      "Watch your back, Jak!"
     ],
     "ds266": [
-      "Ne tulevat taas!"
+      "They're comin' again!"
     ],
     "ds267": [
-      "Nyt sait meidät suuttumaan."
+      "Now you've got us mad."
     ],
     "ds268": [
-      "Hieno osuma, Jak! Suurmies tuntee kipua nyt."
+      "Good shot, Jak! The big man is hurtin' now."
     ],
     "ds269": [
-      "Ja niin, haastaja on päihitetty!"
+      "And the challenger is down for the count!"
     ],
     "ds270": [
-      "Pysy liikkeessä! Hän aikoo ampua!"
+      "Keep movin', baby! He's gonna shoot!"
     ],
     "ds271": [
-      "Hui, Metallipäitä tulossa!"
+      "Wooh, here come some Metal Heads!"
     ],
     "ds272": [
-      "Suojele lasta!"
+      "Protect the kid!"
     ],
     "ds273": [
-      "Tapa kaikki Metallipäät!"
+      "Kill all the Metal Heads!"
     ],
     "ds274": [
-      "Lisää Metallipäitä!"
+      "More Metal Heads!"
     ],
     "ds275": [
-      "Ammu Korin jalkoja, Jak!"
+      "Shoot Kor's legs out, Jak!"
     ],
     "ds276": [
-      "Hän on alhaalla, Jak! Iske häntä päähän!"
+      "He's down, Jak! Hit him in the head!"
     ],
     "ds277": [
-      "Saappaasta päähän, saappaasta päähän!"
+      "Boot to the head, boot to the head!"
     ],
     "ds278": [
-      "Meidän kannattaisi piiloutua jonnekin!"
+      "I think we should hide somewhere!"
     ],
     "ds279": [
-      "Ota suojaa ennen kuin hän iskee!"
+      "Take cover before he blows!"
     ],
     "ds280": [
-      "Jep, nyt sait hyvän osuman!"
+      "Yeah, you got him good that time!"
     ],
     "ds281": [
-      "Voi ei, nyt hän suuttui!"
+      "Oh, man, now he's angry!"
     ],
     "ds282": [
-      "Nitistä hänet, Jak!"
+      "Get him, Jak!"
     ],
     "ds283": [
-      "Hän aikoo ampua!"
+      "He's gonna shoot!"
     ],
     "ds284": [
-      "Hieno osuma, kamu!"
+      "Nice hit, partner!"
     ],
     "ds285": [
-      "Tuon täytyi sattua."
+      "That had to hurt him."
     ],
     "ds286": [
-      "Ryttyilit väärille sankareille, ukkeli!"
+      "You messed with the wrong heroes, buddy!"
     ],
     "ds287": [
-      "Ammu häntä uudestaan, Jak!"
+      "Shoot him again, Jak!"
     ],
     "ds288": [
-      "Jak, me saamme selkäämme!"
+      "Jak, we're taking a beating!"
     ],
     "ds289": [
-      "Pysy kaukana pimeästä ecosta!"
+      "Stay away from the Dark Eco!"
     ],
     "ds302": [
-      "Hän on melkein maissa, Jak!"
+      "We've almost got him, Jak!"
     ],
     "ds303": [
-      "Siinä se! Sinä teit sen!"
+      "That's it! You did it!"
     ],
     "ds305": [
-      "Muuta liukuhihnan suuntaa ampumalla kytkintä!",
-      ""
+      "Shoot the switch to change the coveyor belt's",
+      "direction!"
     ],
     "ds306": [
-      "Sinun täytyy ampua kytkintä, Jak!"
+      "You gotta shoot the switch, Jak!"
     ],
     "ds307": [
-      "Etsi kytkin muuttaaksesi liukuhihnan suuntaa!"
+      "Find the switch to change the conveyor's direction!"
     ],
     "ds321": [
-      "Tuhoa nuo tykit!"
+      "Take out the turrets!"
     ],
     "ds322": [
-      "Ammu tykkejä päin, Jak!"
+      "Hit the turrets, Jak!"
     ],
     "ds323": [
-      "Aiheutetaan vahinkoa!"
+      "Doin' some damage!"
     ],
     "ds324": [
-      "Hyppää titaaniasuun!"
+      "Get in the Titan Suit!"
     ],
     "ds325": [
-      "Ammu tuota alusta!"
+      "Shoot that ship!"
     ],
     "ds326": [
-      "Jes, alus on vaikeuksissa nyt!"
+      "Yeah, that ship's feelin' it now!"
     ],
     "ds327": [
-      "Uuh, täysosumia."
+      "Ooh, direct hits."
     ],
     "ds328": [
-      "Taisit juuri satuttaa sitä!"
+      "I think you hurt it that time!"
     ],
     "ds329": [
-      "Alus alkaa upota! Teit sen, Jak!"
+      "The ship's goin' down! You did it, Jak!"
     ],
     "ds353": [
-      "Tuon on oltava se ohjus, jonka Torn käski posauttaa!"
+      "That must be the missile Torn wants us to blow up!"
     ],
     "ds354": [
-      "Riko nuo laitteet keskellä, Jak!"
+      "Break those tubes in the center, Jak!"
     ],
     "ds372": [
-      "Täytyy kulkea JET-laudalla tässä, Jak!"
+      "Gotta ride the JET-Board on this one, Jak!"
     ],
     "ds375": [
-      "Varo sädettä!"
+      "Look out for the ray!"
     ],
     "ds378": [
       "Meidän täytyy rikkoa kaikki tukivaijerit!"
     ],
     "ds379": [
-      "Liu'u tukijalustoja pitkin rikkoaksesi vaijerit."
+      "Grind on the support bases to break the cables."
     ],
     "ds394": [
-      "Hämähäkki! Hämähäkki! Vihaan hämähäkkejä!"
+      "Spider! Spider! Huff... huff... I hate spiders!"
     ],
     "ds395": [
-      "Täytyy juosta, täytyy juosta!"
+      "Gotta run, gotta run!"
     ],
     "ds398": [
-      "Ensimmäinen säde!"
+      "The first beam!"
     ],
     "ds399": [
-      "Toinen säde! Ovi on avautumassa!"
+      "The second beam! The door's opening!"
     ],
     "ds404": [
-      "Tuolla Sig on!"
+      "There's Sig!"
     ],
     "ds405": [
-      "Siirrä palikat koloihin, Jak!"
+      "Get the blocks to go into the slots, Jak!"
     ],
     "ds406": [
-      "Ammu tai iske palikoita!"
+      "Shoot or kick the blocks!"
     ],
     "ds407": [
-      "Sinun täytyy saada palikat koloihin ripeämmin!"
+      "You have to get the blocks in the slots faster!"
     ],
     "ds408": [
-      "Juokse, Jak!"
+      "Run, Jak!"
     ],
     "ds409": [
-      "Pysy liikkeessä!"
+      "Keep moving!"
     ],
     "ds410": [
-      "Meidän on pysyttävä tuon otuksen edellä!"
+      "We gotta stay ahead of that thing!"
     ],
     "ds439": [
-      "Ammu kaikki Metallipää-munat, Jak!"
+      "Shoot all the Metal Head eggs, Jak!"
     ],
     "ds440": [
-      "Emme tuhonnet vielä kaikkia niitä munia!"
+      "We didn't get all those nasty eggs!"
     ],
     "ds441": [
-      "Me ohitimme joitakin Metallipää-munia!"
+      "We missed some Metal Head eggs!"
     ],
     "ds461": [
-      "Meidän täytyy hypätä nosturista roikkuvan laatikon päälle!"
+      "We gotta jump onto the crate dangling from the crane!"
     ],
     "ds462": [
-      "Käytä leijulautaasi tätä reittiä pitkin!"
+      "Use your hoverboard on this path!"
     ],
     "ds463": [
-      "Voit liukua putkien yli käyttämällä",
-      "leijulautaasi!"
+      "You can grind to cross those pipes using your",
+      "hoverboard!"
     ],
     "ds464": [
-      "Kulje puoliputkea loppuun asti!"
+      "Ride the half-pipe to the end!"
     ],
     "ds466": [
-      "Sinun on pudotettava pommi jokaiseen kaivoon, Jak!"
+      "You gotta drop a bomb into each well, Jak!"
     ],
     "ds467": [
-      "Hyppää rampista korkeammalle pudottaaksesi pommin sisään!"
+      "Use the ramp to get high enough to drop the bomb in!"
     ],
     "ds468": [
-      "Täytyy hypätä korkeammalle!"
+      "Gotta jump higher!"
     ],
     "ds469": [
       "Enää minuutti niin käristymme, Jak!"
@@ -2863,86 +2863,86 @@
       "Sait kaikki hoideltua, Jak!"
     ],
     "ds478": [
-      "Viimeinen kaivo on lähellä mistä pelastimme Vinin!"
+      "The last well is up where we rescued Vin!"
     ],
     "ds479": [
-      "Nyt hän on haavoittuvainen!"
+      "Now he's vulnerable!"
     ],
     "ds480": [
-      "Hoitele hänet!"
+      "Take him out!"
     ],
     "ds481": [
-      "Iske häntä, kun hän on haavoittuvainen!"
+      "Get him while he's vulnerable!"
     ],
     "ds482": [
-      "Siinä hän tulee..."
+      "Here he comes..."
     ],
     "ds483": [
-      "Miltäs tuntuu olla housut nilkoissa, paroni?"
+      "How's it feel to have your pants down, Baron?"
     ],
     "ds484": [
-      "Ammu, ammu!"
+      "Shoot him, shoot him!"
     ],
     "ds485": [
-      "Varo!"
+      "Look out!"
     ],
     "ds487": [
-      "Varo, Jak, meidän pitää kuljettaa hänet turvaan!"
+      "Easy, Jak, we gotta get this guy to safety!"
     ],
     "ds488": [
-      "Otamme aika paljon iskuja, kamu!"
+      "We're takin' a lotta damage, buddy!"
     ],
     "ds489": [
-      "Me saamme selkäämme!"
+      "We're gettin' our butts kicked!"
     ],
     "ds490": [
-      "Pitäisikö minun ajaa..."
+      "Maybe I should drive..."
     ],
     "ds491": [
-      "Mennään, ihmettelijä,",
-      "viemme sinut turvalliseen paikkaan kaupungissa!"
+      "Let's go, wondergoon,",
+      "we'll take you to a safe place in the city!"
     ],
     "ds492": [
-      "Okei, kyyti on ohi, ulos siitä!"
+      "Okay, ride's over, out you go!"
     ],
     "ds493": [
-      "Kaikki mukaan Vastarinnan junaan!",
-      "Seuraava pysäkki: uusi piilopaikkasi!"
+      "All aboard the Underground railroad!",
+      "Next stop: Your new safehouse!"
     ],
     "ds494": [
-      "Tämä taitaa olla pysäkkisi!"
+      "I believe this is your stop!"
     ],
     "ds495": [
-      "Daxterin vapaustaistelijataksipalvelu!",
-      "Kiirettä, hyvä mies, emme odottele koko päivää."
+      "Daxter's Freedom Fighter Taxi Service!",
+      "Hurry up, buddy, we ain't got all day."
     ],
     "ds496": [
-      "Koti kutsuu!",
-      "Kerrothan Tornille miten hyvin pärjäsimme!"
+      "Home free, baby!",
+      "Don't forget to tell Torn how well we did!"
     ],
     "ds497": [
-      "Kyytiä vailla, taistelija?"
+      "You looking for a lift, fighter boy?"
     ],
     "ds498": [
-      "Okei, tässä sinä jäät pois. Joten... jää pois."
+      "Okay, this is where you get off. So... get off."
     ],
     "ds499": [
-      "Me teimme sen, Jak!",
-      "Saimme kaikki taistelijat uusiin piilopaikkoihin!"
+      "We did it, Jak!",
+      "We got all the fighters to the new safehouses!"
     ],
     "ds500": [
-      "Patsaista on tulossa uhanalainen laji näillä main."
+      "Statues are becoming an endangered species around here."
     ],
     "ds501": [
-      "Hommasin meille puhelaatikon.",
-      "Kaupunkilaiset käyttävät näitä kommunikoidakseen",
-      "keskenään."
+      "I got us a talkbox.",
+      "The city people use these things to communicate",
+      "with each other."
     ],
     "ds502": [
-      "Käydään tapaamassa Oninia ja hänen hulla apinalintua."
+      "Let's go see Onin and her crazy monkey bird."
     ],
     "ds503": [
-      "Luulen, että meidän on palattava takaisin kaupunkiin, Jak."
+      "I think we need to go back to the city, Jak."
     ],
     "dsek001": [
       "Lapsi! Pysy hänen perässä, Jak!"
@@ -2972,10 +2972,10 @@
       "Siinä se hullu krokokoira taas menee...!"
     ],
     "dsek010": [
-      "Juokse lapsen perään!"
+      "Juokse Lapsen perään!"
     ],
     "dsek011": [
-      "Pysy lapsen perässä!"
+      "Pysy Lapsen perässä!"
     ],
     "dsek012": [
       "Krokokoira!"
@@ -2999,321 +2999,321 @@
       "Tehdään tästä mielenkiintoista!"
     ],
     "ero006": [
-      "Syö seinää!"
+      "Eat wall!"
     ],
     "ero007": [
-      "On aikasi kuolla!"
+      "Time to die!"
     ],
     "ero008": [
-      "Väisty!"
+      "Move over!"
     ],
     "ero009": [
-      "Ota kiinni, luuseri!"
+      "Catch me now, loser!"
     ],
     "ero010": [
-      "Olen liian nopea sinulle!"
+      "I'm too fast for you!"
     ],
     "ero011": [
-      "Nyt kilpailet isojen poikien kanssa!"
+      "Now you're racing with the big boys!"
     ],
     "ero012": [
-      "Tämä on paronin puolesta!"
+      "Here's one for the Baron."
     ],
     "ero013": [
-      "Ota tästä!"
+      "Take this!"
     ],
     "ero014": [
-      "Teet tästä liian helppoa!"
+      "You're making this too easy!"
     ],
     "ero015": [
-      "Hahaha, näkemiin!"
+      "Hahaha, bye bye!"
     ],
     "ero016": [
-      "Haluatko tästä?"
+      "You want some?"
     ],
     "ero017": [
-      "Nyt näet, miksi en koskaan häviä."
+      "Now you see why I never lose."
     ],
     "ero018": [
-      "Yleisö rakastaa minua!"
+      "The crowd loves me!"
     ],
     "ero019": [
       "Ahh!"
     ],
     "ero020": [
-      "Tässä hieman kipua!"
+      "Here's some pain!"
     ],
     "ero021": [
-      "Yritäs poistaa nämä!"
+      "Try to erase these!"
     ],
     "ero022": [
-      "Miten refleksisi voi?"
+      "How's your reflexes?"
     ],
     "ero023": [
-      "Liikaa sinulle?!"
+      "Too much for you?!"
     ],
     "ero024": [
-      "Joko riittää?"
+      "Had enough?"
     ],
     "ero025": [
-      "Vältähän tätä, älypää!"
+      "Avoid this, smart-ass!"
     ],
     "ero026": [
-      "Hyvää yötä, ecofriikki!"
+      "Say goodnight, eco freak!"
     ],
     "ero027": [
-      "Et voi voittaa minua!"
+      "You can't beat me!"
     ],
     "ero028": [
-      "Kuolisin ennen kuin annan sinun voittaa!"
+      "I'd die before I let you win!"
     ],
     "ero029": [
-      "Tästä tulee viimeinen kierroksesi."
+      "This will be your last lap."
     ],
     "ero030": [
-      "Törmää ja pala!"
+      "Crash and burn!"
     ],
     "ero031": [
-      "Loppuun asti!"
+      "To the end!"
     ],
     "ero032": [
-      "Viimeinen kierroksesi elää!"
+      "Last lap to live!"
     ],
     "ero033": [
-      "Nyt päätämme tämän!"
+      "Now we end this!"
     ],
     "ero034": [
-      "Et tule näkemään maaliviivaa!"
+      "You won't see the finish line!"
     ],
     "ero035": [
-      "KUOLE!"
+      "DIE!"
     ],
     "ero036": [
-      "Kuole!"
+      "Die!"
     ],
     "ero037": [
       "Hahahaha!"
     ],
     "ero038": [
-      "JES!"
+      "YEAH!"
     ],
     "ero039": [
       "HA!"
     ],
     "ero040": [
-      "EI!"
+      "NO!"
     ],
     "ero041": [
-      "EIIIII!"
+      "NOOOOO!"
     ],
     "ero042": [
       "AHHHHHH!"
     ],
     "ero043": [
-      "Menoksi!"
+      "Here we go."
     ],
     "ero044": [
-      "Nähdään."
+      "See you later."
     ],
     "ero045": [
-      "Ääliö! Et voi voittaa minua."
+      "Fool! You cannot defeat me."
     ],
     "ero046": [
-      "Ohitit renkaan."
+      "You missed a ring."
     ],
     "ero047": [
-      "Tämä kisa on minun!"
+      "This race is mine!"
     ],
     "ero048": [
-      "Et ole koskaan yhtä nopea kuin minä!"
+      "You can never be as fast as me!"
     ],
     "ero049": [
-      "Keira tahtoo oikean miehen."
+      "Keira wants a real man."
     ],
     "ero050": [
-      "Pahaa onnea, veikko."
+      "Bad luck, old chap."
     ],
     "ero051": [
-      "Hyvä yritys."
+      "Nice try."
     ],
     "ero052": [
-      "Väisty!"
+      "Move over!"
     ],
     "ero053": [
-      "Pois tieltäni!"
+      "Out of my way!"
     ],
     "ero054": [
-      "Tulossa läpi!"
+      "Coming through!"
     ],
     "ero055": [
-      "Heipä hei!"
+      "Bye bye!"
     ],
     "ero056": [
-      "Täältä tulen!"
+      "Here I come!"
     ],
     "ero057": [
-      "Totuttele katsomaan selkäpuoltani!"
+      "Get used to watching my back!"
     ],
     "ero058": [
-      "Tämä on minun kaupunkini, ecofriikki."
+      "This is my city, eco freak."
     ],
     "ero059": [
-      "Löysältä näyttää, Jak."
+      "Looking sloppy, Jak."
     ],
     "ero060": [
-      "Luovuta!"
+      "Give it up!"
     ],
     "ero061": [
-      "Ei tällä kertaa."
+      "Not this time."
     ],
     "ero062": [
-      "Alkaako hermostuttaa?"
+      "Getting a bit nervous?"
     ],
     "ero063": [
-      "Tänne sieltä!"
+      "Come back here!"
     ],
     "ero064": [
-      "Väisty, senkin vätys!"
+      "Move over, slowpoke!"
     ],
     "ero065": [
-      "Tässä minä pesen sinut."
+      "This is where I beat you."
     ],
     "ero066": [
-      "Loppusuora!"
+      "Final stretch!"
     ],
     "ero067": [
-      "Se on ohi!"
+      "It's over!"
     ],
     "ero068": [
-      "Kaupunki kuuluu minulle."
+      "I own this city."
     ],
     "ero069": [
-      "Mitä? Mistä sinä ilmestyit?"
+      "What? Where'd you come from?"
     ],
     "ero070": [
-      "Olet vain onnekas."
+      "You're just lucky."
     ],
     "ero071": [
-      "Nopeus ei anna armoa!"
+      "You can't handle the speed!"
     ],
     "ero072": [
-      "Kuole, friikki."
+      "Die, freak."
     ],
     "ero073": [
-      "Ei!"
+      "No!"
     ],
     "ero074": [
-      "LOPETA!"
+      "STOP!"
     ],
     "ero075": [
       "Hahahaha!"
     ],
     "ero076": [
-      "HAHAA!"
+      "HAHA!"
     ],
     "ero077": [
       "Ahhh!"
     ],
     "ero078": [
-      "Ouhh!"
+      "Ough!"
     ],
     "ero079": [
-      "Uuh!"
+      "Oof!"
     ],
     "ero080": [
-      "Siirry, friikki!"
+      "Beat it, freak!"
     ],
     "ero081": [
-      "Haluatko takaisin tuoliin?"
+      "Care to get back in the chair?"
     ],
     "ero082": [
-      "Tämä kisa oli liian helppoa."
+      "This race was too easy."
     ],
     "ero083": [
-      "Voittamisesi oli helpompaa kuin luulin."
+      "It was easier than I thought to beat you."
     ],
     "ero084": [
-      "Ei lähelläkään, Keira luottaa väärään mieheen."
+      "Not even close, Keira's betting on the wrong man."
     ],
     "ero085": [
-      "Luuseri! Sinä ällötät minua!"
+      "Loser! You disgust me!"
     ],
     "ero086": [
-      "Katsos, Jak, minä voitan ja saan mitä haluan.",
-      "Jonain päivänä minä olen paroni, sitten kaupunki todella maksaa!"
+      "You see Jak, I win, and I get what I want.",
+      "Someday I will be Baron, then the city will really pay!"
     ],
     "ero087": [
-      "Olisi pitänyt tietää, ettei sinusta ole vastusta."
+      "I should have known you'd be no match."
     ],
     "ero088": [
-      "Voitin, Keira tulee rakastamaan minua!"
+      "I win, Keira's going to love me!"
     ],
     "ero089": [
-      "Ehkä sinun pitäisi palata sinne mistä tulitkin."
+      "Maybe you should go back to wherever you came from."
     ],
     "ero090": [
-      "Saan Keiralta voittosuukon myöhemmin."
+      "I'll get a victory kiss from Keira later."
     ],
     "ero091": [
-      "Todistan jälleen ylemmyyteni."
+      "Again I prove my superiority."
     ],
     "ero092": [
-      "Näetkös? Et mahda minulle mitään."
+      "You see? You are no match for me."
     ],
     "ero093": [
-      "Harmi, minä voitin!"
+      "Too bad, I win!"
     ],
     "ero094": [
-      "Hahaha, säälittävä ötökkä, minä voitin!"
+      "Hahahaha, pathetic insect, I win!"
     ],
     "ero095": [
-      "Et voi koskaan päihittää minua!"
+      "You can never defeat me!"
     ],
     "ero096": [
-      "Ahhh! Arrh!"
+      "Ahhh!...ahh."
     ],
     "ero097": [
-      "Uh!"
+      "Ugh!"
     ],
     "ero098": [
-      "Uhhh!"
+      "Ughhh!"
     ],
     "ero099": [
       "Dahh!"
     ],
     "ero100": [
-      "Aaarhh!"
+      "Yaughh!"
     ],
     "ero101": [
-      "ARRHH!"
+      "AUGHH!"
     ],
     "ero102": [
-      "AUH!"
+      "OW!"
     ],
     "ero103": [
-      "DARRH!"
+      "DAHHH!"
     ],
     "ero104": [
-      "GRRRH!"
+      "DAUGHH!"
     ],
     "erol001": [
-      "Minä etsin sinua, ecofriikki,",
-      "ja kun löydän sinut, toivot, että olisit kuollut vankilassa."
+      "I'm looking for you, eco freak,",
+      "and when I find you, you'll wish you died in prison."
     ],
     "erol002": [
-      "Tämä on Erol. Näyttää siltä, että ystäväsi loppuvat kesken.",
-      "Pidätimme heidät kaikki ja heitimme heidät",
-      "lempivankilaasi. Ja muuten, se blondi Tess",
-      "kirkui niin ihanasti, kun hänet pidätettiin.",
-      "En malta odottaa hänen vuoronsa tuolissa.",
+      "This is Erol. Looks like you're running out of friends.",
+      "We've arrested them all and thrown them into your",
+      "favorite prison. By the way, that blonde girl Tess",
+      "screamed so delightfully when she was arrested.",
+      "I can't wait for her turn in the chair.",
       "Hahahahaha...."
     ],
     "erol003": [
-      "Tämä on Erol. Muista, ainoa syy miksi annan sinun",
-      "elää on, että voin kohdata sinut mestaruuskisassa!"
+      "This is Erol. Just remember, the only reason I'm letting you",
+      "walk is so I can face you in the championship race!"
     ],
     "hal001": [
-      "Hiljaa! Sieltä se komistus saapuu."
+      "Hiljaa! Sieltä se kaunotar saapuu."
     ],
     "hal002": [
       "Oli jo aikakin, että ilmestyit. Okei, hoidetaan tämä."
@@ -3353,7 +3353,7 @@
       "Emme mene ennen kuin olet vakavissasi."
     ],
     "hal015": [
-      "Minä en aio kuolla tämän tohelon takia,",
+      "Minä en aio kuolla tämän luuserin takia,",
       "tämä tehtävä jää tähän."
     ],
     "hal019": [
@@ -3453,7 +3453,7 @@
       "Varokaa ahterianne, tarkoitat! Nyt räjähtää!"
     ],
     "hal051": [
-      "Suosittelen varomaan päätäsi, muru."
+      "Sinun on parasta pitää pääsi alhaalla, muru."
     ],
     "hal052": [
       "Lemuavaa hönkääsi, mennään."
@@ -3491,7 +3491,7 @@
       "Tule tänne sieltä ja ansaitse elantosi!"
     ],
     "hal063": [
-      "Krew oli oikeassa sinusta. Sinussa on taikaa."
+      "Krew oli oikeassa sinusta. Sinussa on taikaa, mies."
     ],
     "hal064": [
       "Hienosti taisteltu, tyyppi. Alan jopa pitää sinusta."
@@ -3748,10 +3748,10 @@
       "Ammu kiiltopäitä, ei minua!"
     ],
     "hal159": [
-      "Aah!"
+      "Ahh!"
     ],
     "hal161": [
-      "Uh!"
+      "Ugh!"
     ],
     "hal162": [
       "Oh!"
@@ -4066,10 +4066,10 @@
       "Lakkaatko hölöttämästä?"
     ],
     "jak078": [
-      "Kun sinusta tuli pienempi, niin tuli aivoistasikin."
+      "Kun sinusta tuli pienempi, aivoistasi tuli myös."
     ],
     "jak079": [
-      "Sinä olet MINUN olkapäälläni. SINÄ olet apuri."
+      "Sinä olet MINUN olkapäälläni. SINÄ se apuri olet."
     ],
     "jak080": [
       "Niin kauan kuin olet MINUN olkapäälläni, pidä suusi kiinni."
@@ -4210,27 +4210,27 @@
     ],
     "kei026": [
       "Vastarinta kertoi teidän tarvitsevan apua.",
-      "Ette tule saamaan Metallipäitä kiinni metsässä",
+      "Ette tule saamaan Metallipäitä kiinni Puistossa",
       "jalkaisin, joten jätin JET-lautani ilmalukon sisälle",
       "lähellä kaupungin uloskäyntiä. Koska autatte Vastarintaa,",
       "annan teidän jopa pitää sen!"
     ],
     "kei027": [
-      "Jak, tämä on Keira. Älä unohda, tarvitsen vielä kaksi esinettä",
-      "repeämäkuljettimeen! Tarvitsen aikakartan ja",
-      "Marin sydän -energiajalokiven, tai emme mene minnekään!"
+      "Jak, this is Keira. Don't forget - I still need two artifacts",
+      "to make the Rift Rider work! I need the Time Map and the",
+      "Heart of Mar Energy Gem, or we're not going anywhere!"
     ],
     "kei028": [
-      "Tarvitsen yhä ne kaksi esinettä, tai tämä romukasa",
-      "ei liiku edes korttelin päähän, saati sitten repeämän läpi",
-      "takaisin omaan aikaamme!",
-      "Sinun täytyy etsiä Marin sydän ja aikakartta",
-      "tai jäämme tänne!"
+      "I still need those two artifacts or this pile of junk",
+      "won't move one city block, much less through the Rift",
+      "and back to our own time!",
+      "You've got to find the Heart of Mar and the Time Map",
+      "or we're stuck!"
     ],
     "kei029": [
-      "Keira tässä. Kiitos, kun hankitte esineet, pojat.",
+      "Keira tässä. Kiitos, kun keräsitte artefaktit, pojat.",
       "Outoa... Aika-Kartta oli täynnä joitain vanhoja koordinaatteja.",
-      "Tavatkaa minut stadionilla."
+      "Tavatkaa minut Stadionilla."
     ],
     "kg001": [
       "Kutsukaa apujoukkoja!"
@@ -4497,10 +4497,10 @@
       "Me menetämme hänet!"
     ],
     "kg052": [
-      "Jatkamme tutkimistamme."
+      "Jatkamassa tutkimistamme."
     ],
     "kg052a": [
-      "Jatkamme tutkimistamme."
+      "Jatkamassa tutkimistamme."
     ],
     "kg053": [
       "Tutkimassa sektoria neljä."
@@ -4785,10 +4785,10 @@
       "Uskomme hänen olevan putkissa!"
     ],
     "kg100": [
-      "Aloitamme tutkimisen."
+      "Aloittamassa tutkintaamme."
     ],
     "kg100a": [
-      "Aloitamme tutkimisen."
+      "Aloittamassa tutkintaamme."
     ],
     "kg101": [
       "Vanki on näköpiirissämme, liikkukaa!"
@@ -4911,10 +4911,10 @@
       "Aktivoidaan turvatoimipuolustukset."
     ],
     "kg121": [
-      "Neuvokaa kuvaus epäillystä."
+      "Ole hyvä ja neuvo, epäillyn kuvaus."
     ],
     "kg121a": [
-      "Neuvokaa kuvaus epäillystä."
+      "Ole hyvä ja neuvo, epäillyn kuvaus."
     ],
     "kg122": [
       "Minulla on siviilejä näkyvissä."
@@ -5004,7 +5004,7 @@
       "Menkää, menkää!"
     ],
     "kg140": [
-      "Saartakaa heidät!"
+      "Kyljetkää heidät!"
     ],
     "kg141": [
       "Liikkukaa!"
@@ -5037,7 +5037,7 @@
       "Tulta, tulta!"
     ],
     "kg151": [
-      "Tässä on yksi vartion puolesta!"
+      "Tässä on yksi Vartion puolesta!"
     ],
     "kg152": [
       "Luovuta jo, lainsuojaton!"
@@ -5310,13 +5310,13 @@
       "Älä koskaan luota kehenkään."
     ],
     "kg193": [
-      "Eläköön vartio!"
+      "Eläköön Karmiinivartio!"
     ],
     "kg193a": [
-      "Eläköön vartio!"
+      "Eläköön Karmiinivartio!"
     ],
     "kg193b": [
-      "Eläköön vartio!"
+      "Eläköön Karmiinivartio!"
     ],
     "kg194": [
       "Ruokamellakoita ei ole ollut siitä lähtien kun toimme tankit esiin."
@@ -5702,13 +5702,13 @@
       "He sanovat, että hän voi muuttua jonkinlaiseksi hirviöksi."
     ],
     "kg235": [
-      "Älä huoli, hänen päänsä roikkuu pian tornin seinällä."
+      "Älä huoli, hänen päänsä on pian tornin seinällä."
     ],
     "kg235a": [
-      "Älä huoli, hänen päänsä roikkuu pian tornin seinällä."
+      "Älä huoli, hänen päänsä on pian tornin seinällä."
     ],
     "kg235b": [
-      "Älä huoli, hänen päänsä roikkuu pian tornin seinällä."
+      "Älä huoli, hänen päänsä on pian tornin seinällä."
     ],
     "kg236": [
       "Hehehe."
@@ -5810,16 +5810,16 @@
       "Hän on noutamassa vankia!"
     ],
     "kg265a": [
-      "Me menetimme vaanijavangin."
+      "Me menetimme Vaanijavangin."
     ],
     "kg266a": [
-      "Hänellä on vaanijavanki mukanaan!"
+      "Hänellä on Vaanijavanki mukanaan!"
     ],
     "kg267a": [
       "Hoidelkaa heidät kaikki!"
     ],
     "kg268a": [
-      "Uskomme hänen auttavan vaanijoita pakenemaan!"
+      "Uskomme hänen auttavan Vaanijoita pakenemaan!"
     ],
     "kg269a": [
       "Hän on tuhonnut jo kaksi meidän kuljetuksista!"
@@ -5849,10 +5849,10 @@
       "Me saimme heidät!"
     ],
     "kg278a": [
-      "Saimme heidät, vartion kanssa ei pelleillä!"
+      "Saimme heidät, Vartion kanssa ei pelleillä!"
     ],
     "kg279a": [
-      "Aja sivuun, vaanijarakastaja!"
+      "Aja sivuun, Vaanijarakastaja!"
     ],
     "kg280a": [
       "Tuossa on lapsi, tutki hänet."
@@ -5995,7 +5995,7 @@
       "Napatkaa hänet!"
     ],
     "kg326a": [
-      "Kaikki yksiköt suunnatkaa vesislummeille!"
+      "Kaikki yksiköt suunnatkaa Vesislummeille!"
     ],
     "kg327a": [
       "Meillä on Vastarinnan taistelija!"
@@ -6088,7 +6088,7 @@
       "Hän pääsee syvälle, pysäyttäkää hänet!"
     ],
     "kg357a": [
-      "Eliminoikaa hänet, se on käsky!"
+      "Eliminoikaa tämä hyypiö, se on käsky!"
     ],
     "kg358a": [
       "Lähettäkää shokkiryhmä!"
@@ -6169,7 +6169,7 @@
       "Hän on paahtoa!"
     ],
     "kg384a": [
-      "Jälleen voitto vartiolle, hyvin ammuttu, miehet."
+      "Jälleen voitto Vartiolle, hyvin ammuttu, miehet."
     ],
     "kg385a": [
       "Epäilty on välttänyt kaappauksen."
@@ -6187,7 +6187,7 @@
       "Ughh!"
     ],
     "kg390a": [
-      "Hugh!"
+      "Hugh !"
     ],
     "kg391a": [
       "Aughh!"
@@ -6301,7 +6301,7 @@
       "Ugh!"
     ],
     "kg428a": [
-      "Ouh!"
+      "Oof!"
     ],
     "kgv001": [
       "Pysähdy!"
@@ -6429,66 +6429,66 @@
       "Kolme tykkiä poissa. Hienoa! Jatka samoin!"
     ],
     "krew007": [
-      "Neljä tykkiä romuna. Hienoa, pojat! Jatkakaa!"
+      "Four turrets trashed. Haha... Lovely, boys! Go get 'em!"
     ],
     "krew008": [
-      "Viisi tykkiä takana! Jatkakaa vain."
+      "Five turrets down the drain! Keep going."
     ],
     "krew009": [
-      "Kuusi tykkiä poissa toiminnasta.",
-      "Hah, pidän työskentelytavastasi."
+      "Six turrets out of commission.",
+      "Hah, I like the way you work."
     ],
     "krew010": [
-      "Hienoa purkutyötä, pojat! Taisitte tuhota kaikki tykit.",
+      "Hienoa purkutyötä, pojat! Tuhositte kaikki tykit, eh?",
       "Tulkaa nyt takaisin Sikahepoon."
     ],
     "kwbf001": [
-      "Tiedät, etten pelaa reilusti!",
-      "Minulla on salainen ase: monistusjoukkoni!",
-      "Tervehdihän pikku ystäviäni...",
-      "Ah, monta minua! Hahahaha... Kuinka ihanaa."
+      "You know I can't play fair!",
+      "I have a secret weapon: my duplicity field!",
+      "Say hello to my little friends...",
+      "Ah, multiple me! Hahahaha... How delightful."
     ],
     "kwbf002": [
-      "Anna minun esitellä sinut... \"perheelleni\"."
+      "Let me introduce you to my... \"crew.\""
     ],
     "kwbf003": [
-      "Tanssitaan!"
+      "Let's dance!"
     ],
     "kwbf004": [
-      "Sinä kuolet!"
+      "You will die!"
     ],
     "kwbf005": [
-      "Täältä tullaan!"
+      "Here we come!"
     ],
     "kwbf006": [
-      "Eivätkö kaksoseni näytäkin loistavilta?"
+      "My, don't my twins look stunning?"
     ],
     "kwbf007": [
-      "Et voi pysäyttää meitä kaikkia!"
+      "You can't stop us all!"
     ],
     "kwbf008": [
-      "Yllätys! Minua on enemmän kuin kyet päihittää."
+      "Surprise! More of me than you can handle."
     ],
     "kwbf009": [
-      "Minulla on apulaisia mukanani."
+      "I've a few good men to help me."
     ],
     "kwbf010": [
-      "Perään!"
+      "Get him!"
     ],
     "kwbf011": [
-      "UARRH! Koita pysäyttää minua nyt!"
+      "UARGH! Try stopping me now!"
     ],
     "kwbf012": [
-      "Onnesi suosii toistaiseksi."
+      "You're getting lucky so far, 'ey?"
     ],
     "kwbf013": [
-      "Tämä on kyllästyttävää. Päätetään tämä nyt."
+      "I grow weary of this. We end it now."
     ],
     "kwbf014": [
-      "Hm-hm, olen nopea isoksi mieheksi, eh?"
+      "Hm-hm, I move pretty fast for a big man, 'ey?"
     ],
     "kwbf015": [
-      "Kellun kuin perhonen ja pistän kuin wumpiainen!"
+      "I float like a butterfly and sting like a wumpbee!"
     ],
     "kwbf016": [
       "Urghh!"
@@ -6503,52 +6503,52 @@
       "Urrghh!"
     ],
     "kwbf020": [
-      "Urgh, auh!"
+      "Urgh, ow!"
     ],
     "kwbf021": [
-      "Kuole!"
+      "Die!"
     ],
     "kwbf022": [
-      "Nyt olet minun!"
+      "Now I have you!"
     ],
     "kwbf023": [
-      "Et voi voittaa, Jak!"
+      "You cannot win, Jak!"
     ],
     "kwbf024": [
-      "Tässä hieman kipua!"
+      "Here's some pain!"
     ],
     "kwbf025": [
-      "Ei!"
+      "No!"
     ],
     "kwbf026": [
-      "Sinä koetat kärsivällisyyttäni!"
+      "You're trying my patience!"
     ],
     "kwbf027": [
-      "Pysy paikallasi!"
+      "Stand still!"
     ],
     "kwbf028": [
-      "Haha, mitäs tuo tuntui?"
+      "Haha, how did that feel?"
     ],
     "kwbf029": [
-      "Sinun olisi kannattanut kääntyä, kun sinulla oli mahdollisuus."
+      "You should have walked away when you had a chance."
     ],
     "kwbf030": [
-      "Koita tätä!"
+      "Pop this!"
     ],
     "kwbf031": [
-      "Et voi pysäyttää pommia, Jak!"
+      "You can't stop the bomb, Jak!"
     ],
     "kwbf032": [
-      "Hahaha, tuo tuntui hyvältä!"
+      "Hahahaha, that felt good!"
     ],
     "kwbf033": [
       "Minä olen aseiden mestari!"
     ],
     "kwbf034": [
-      "Saitko tarpeeksesi?"
+      "Onko tarpeeksi?"
     ],
     "kwbf035": [
-      "Täältä tullaan!"
+      "Nyt mennään!"
     ],
     "kwbf036": [
       "Tanssi minulle, Jak!"
@@ -6560,28 +6560,28 @@
       "Hippa! Sinä olet se."
     ],
     "kwbf039": [
-      "Huh. Tämähän käy treenaamisesta..."
+      "Phew. This is a bit of a workout..."
     ],
     "kwbf040": [
-      "Mikä on oikea minä, Jak?"
+      "Which is the real me, Jak?"
     ],
     "kwbf041": [
-      "Vihdoin... Näytän sinulle kaapin paikan!"
+      "Finally... I get to put you in your place!"
     ],
     "kwbf042": [
-      "Arhhh! Sinä senkin...!"
+      "Arghh! You little...!"
     ],
     "ora006": [
       "Tuo minulle 200 lisää Metallipäiden Kallohelmiä,",
-      "niin näytän sinulle uuden pimeän voiman."
+      "niin näytän sinulle uuden Pimeän Voiman."
     ],
     "ora007": [
       "Tuo minulle 200 lisää Kallohelmeä,",
-      "ja toinen voima on sinun hallittavissasi."
+      "ja toinen voima on sinun hallittavissa."
     ],
     "ora008": [
       "Tuo minulle lisää Kallohelmiä, ja saat hallinnan",
-      "uuteen pimeään voimaan."
+      "uuteen Pimeään Voimaan."
     ],
     "ora009": [
       "Sinulla ei ole tarpeeksi Kallohelmiä.",
@@ -6603,127 +6603,127 @@
       "Sinä et saa käyttää aseita tässä haasteessa."
     ],
     "pek001": [
-      "Arrrk! En voi uskoa, että todella teitte sen!",
-      "Onin sanoo, että hän etsii aikajanoilta vastauksia",
-      "näistä pyhistä jäänteistä. Etsin teidät sitten."
+      "Groark! I can't believe you actually did this thing!",
+      "Onin says she will search timelines for answers",
+      "about these sacred relics. I will find you then."
     ],
     "pek002": [
-      "Arrrk! Ohh... kaikkea sitä näkeekin! Valotorni todella",
-      "on olemassa! Valonsäde johtaa jonnekin",
-      "kaupungissa! Marin hauta oli neniemme alla",
-      "koko ajan. Ja kiitos minun, te löysitte sen!"
+      "Groark! Whoa... well I'll be a moncaw's uncle, the Light Tower",
+      "actually does exist! The beam of light is shining somewhere",
+      "in the city! The Tomb of Mar was right under our noses",
+      "all along. And thanks to me, you found it!"
     ],
     "pek003": [
-      "Vau! Voihan sulkasato, yksi askel lähempänä hautaa.",
-      "En olisi uskonut pääsevämme näin pitkälle!"
+      "Wow! As I live and molt, one step closer to the Tomb.",
+      "I never thought we'd get this far!"
     ],
     "pek010": [
-      "Tämä on Oninin taikakulho.",
-      "Onin saa symboleja esiintymään kulhostaan.",
-      "Kun symbolit ilmestyvät, sinun täytyy puhkaista ne ennen kuin",
-      "ne osuvat maahan. Sinun on puhkaistava ne vikkelään, ja vain",
-      "symboleja, jotka näet. Jos yrität puhkaista symbolin, jota",
-      "ei ole näkyvissä, Onin antaa rangaistuksen! Jätä symboli välistä",
-      "ja saat rangaistuksen! Joka kierros on nopeampi.",
-      "Katsotaan, kuinka pitkälle pärjäät.",
-      "Sinun täytyy saada tarpeeksi pisteitä voittaaksesi."
+      "This is Onin's magic bowl.",
+      "Onin will make symbols appear from her bowl.",
+      "When the symbols appear, you must pop them before they",
+      "reach the ground. You must pop them quickly, pop only",
+      "the symbols you see. If you try to pop a symbol that is",
+      "not there, Onin will give you a penalty! Miss any symbols",
+      "and you will penalized! Each round will get faster.",
+      "Let's see how far you get.",
+      "You must get a high enough score to win."
     ],
     "pek011": [
-      "Sinä pärjäät vallan mainiosti!"
+      "You are doing very well!"
     ],
     "pek012": [
-      "Hmph, ei huono."
+      "Huh, not bad."
     ],
     "pek013": [
-      "Jatka vain, sinä pystyt siihen!"
+      "Keep going, you can do it!"
     ],
     "pek014": [
-      "Puhkaise vain oikea määrä jokaista symbolia,",
-      "tai sinua rangaistaan! Arrrk!"
+      "Pop any more than the true number of each symbol,",
+      "and you will be penalized! Groark!"
     ],
     "pek015": [
-      "Valmis? Hep!"
+      "Ready? Go!"
     ],
     "pek016": [
-      "Tuota symbolia ei ollut, rangaistus!"
+      "That symbol wasn't there, penalty!"
     ],
     "pek017": [
-      "Ha, Onin sai sinut! Puhkaise vain symboleja, jotka näet."
+      "Hah, Onin got you! Pop only symbols that you see."
     ],
     "pek018": [
-      "Tässä tulee toinen kierros!",
-      "Rökitä häntä lisää, Onin, tyttöni!"
+      "Here comes another round!",
+      "Give him another burst, Onin girl!"
     ],
     "pek019": [
-      "Hän sai sinut taas! Mikä sinua vaivaa?"
+      "She got you again! What is your problem?"
     ],
     "pek020": [
-      "En voi uskoa, että olet päässyt näin pitkälle!"
+      "I can't believe you've made it this far!"
     ],
     "pek021": [
-      "Nopeasti! Sinä ohitat symboleja!"
+      "Quickly! You are missing symbols!"
     ],
     "pek022": [
-      "Muutama livahti ohi!"
+      "You missed some!"
     ],
     "pek023": [
-      "Nopeammin! Nopeammin!"
+      "Faster! Faster!"
     ],
     "pek024": [
-      "Näytä hänelle, Onin! Lisää, Onin, lisää!",
-      "Anna mennä, tyttö, anna kehollesi rytmiä!"
+      "Give it to him, Onin! More, Onin, more!",
+      "You go, girl, shake what your momma gave you!"
     ],
     "pek025": [
-      "Rokataan klubilla."
+      "Rockin' in the club."
     ],
     "pek026": [
-      "Ei hän voi saada noin montaa!"
+      "He can't do that many!"
     ],
     "pek027": [
-      "Mitä? Hän jatkaa yhä?"
+      "What? He's still going?"
     ],
     "pek028": [
-      "Katsotaan pärjääkö hän."
+      "Let's see if he can handle it."
     ],
     "pek029": [
-      "Kyllä! Juuri noin!"
+      "Go! Come on!"
     ],
     "pek030": [
-      "Okei, olet hyvä."
+      "Okay, so you're good."
     ],
     "pek031": [
-      "Vau! Ei paha."
+      "Wow! Not bad."
     ],
     "pek032": [
-      "Kappas, minä munin."
+      "Well, I laid an egg."
     ],
     "pek033": [
-      "Ällistyttävää! Sinä todella voitit!",
-      "Olen ihan sanaton, ja se on harvinaista."
+      "Amazing! You actually won!",
+      "I am without words, and that is rare."
     ],
     "pek034": [
-      "Sait tarpeeksi pisteitä, onnittelut!"
+      "You got enough points, congratulations!"
     ],
     "pek035": [
-      "Viimeinen rangaistus! Hävisit, häviäjä."
+      "Last penalty! You lose, loser."
     ],
     "pek036": [
-      "Sinä hävisit! Miksi en ole yllättynyt?"
+      "You lost! Why am I not surprised?"
     ],
     "pek037": [
-      "Hävisit! Haluaisitko yrittää uudelleen?"
+      "You lose! Would you like to try again?"
     ],
     "pek038": [
-      "Ahh, sinä munit. Harmi, niin surullista."
+      "Ahh, you laid an egg. Too bad, so sad."
     ],
     "pek039": [
-      "Uuhh, niin lähellä... eipäs! Hohoho..."
+      "Oooh, so close... not! Hehehe..."
     ],
     "pek040": [
-      "Annoit urhean suorituksen, mutta olet surkea!"
+      "You made a valiant effort, but you suck!"
     ],
     "pek041": [
-      "Peli päättyi, finito, se on ohi!"
+      "Game over, finito, done, se acabó!"
     ],
     "prop002": [
       "Kuten te kaikki tiedätte, minä haavoituin viimeisessä",
@@ -6742,276 +6742,276 @@
       "se on ainoa tiesi ulos."
     ],
     "prop004": [
-      "Älä yritä tehdä minusta hölmöä, Jak.",
-      "Vain koska en ole vielä tappanut sinua, ei tarkoita",
-      "ettenkö olisi jäljilläsi. Kaupungin asukkaat",
-      "palvovat minua, koska tarjoan heille turvaa.",
-      "Pyydän vastineeksi vain heidän elämänsä.",
-      "Minä löydän sinut, ja kun löydän, toivot,",
-      "että olisit kuollut vankilassa."
+      "Don't try to make a fool out of me, Jak.",
+      "Just because I haven't killed you yet doesn't",
+      "mean I'm not onto you. The citizens of this city",
+      "worship me because I offer them safety.",
+      "All I ask in return is for their lives.",
+      "I'll find you, and when I do, you'll wish",
+      "you died in prison."
     ],
     "prop005": [
-      "Huomio, uskolliset kansalaiset! Me etsimme",
-      "kapinallista karkuria, joka on aiheuttanut kaupungissa huomattavaa",
-      "vahinkoa lähiaikoina. Tämä mies on aseellinen ja erittäin",
-      "vaarallinen ja pystyy jotenkin muuttua hirvittäväksi",
-      "olennoksi. Raporttiemme mukaan hän työskentelee",
-      "Metallipäiden kanssa turmellakseen kaupunkinne ja turvallisuutenne.",
-      "Ilmoittakaa kaikki havainnot välittömästi!"
+      "Attention, my loyal citizens! We are looking for a",
+      "rebel fugitive who has caused the city considerable",
+      "damage of late. This man is armed and extremely",
+      "dangerous and can somehow change into a monstrous",
+      "creature. We have reports he is working with the",
+      "Metal Heads to subvert your city and your safety.",
+      "Report all sightings immediately!"
     ],
     "prop006": [
-      "Rohkeat kansalaiset, tänään on vuosipäivä suuresta",
-      "taistelusta, joka tuhosi kaupunginosamme, jota nykyisin kutsumme",
-      "Aavekaupungiksi. Muistelkaa heitä, jotka kuolivat",
-      "tuona päivänä ja miten paljon olemme velkaa Metallipäille",
-      "heidän petoksesta! Muistelkaa, miten urheasti minä taistelin",
-      "pelastaakseni kaapatun alueen sieluparat",
-      "ja miettikää, miten kiitollisia teidän pitäisi olla, että",
-      "Karmiinivartio pitää teidät turvassa päivittäin."
+      "Brave citizens, today is the anniversary of the great",
+      "battle that ruined our city section we now call",
+      "Dead Town. Remember those who died",
+      "that day and how much we owe the Metal Heads",
+      "for their treachery! Remember how bravely I fought",
+      "to save those poor souls of the overrun section",
+      "and reflect on how grateful you should all be that the",
+      "Krimzon Guard keeps you safe each day."
     ],
     "prop007": [
-      "Tämä on paroninne. Raportit Metallipäiden",
-      "hyökkäyksestä kaupunkiin ovat valtavan liioiteltuja.",
-      "Vakuutan teille, että kysessä on vain pieni tunkeutuminen, ja",
-      "hoidamme sen tuota pikaa. Pysykää kotona, älkää panikoiko,",
-      "tai teitä rangaistaan!"
+      "This is your Baron. The reports of a Metal Head",
+      "invasion of the city are vastly overblown.",
+      "I assure you this is but a small incursion and we will",
+      "defeat it shortly. Stay in your homes, do not panic,",
+      "or you will be punished!"
     ],
     "prop008": [
-      "Huomio, kansalaiset, tämä on paroninne.",
-      "Kaupungin vanhoja ilmalukkoja on käytetty",
-      "useaan otteeseen luvatta. Onneksi nämä rikkomukset",
-      "eivät ole aiheuttaneet saastumista, mutta me kaikki tiedämme",
-      "miten tappava joutomaa on. Ketään ei sallita",
-      "kaupungin ulkopuolelle ilman lupaa, ja täten",
-      "kaikki laiminlyöjät otetaan kiinni",
-      "ja teloitetaan."
+      "Attention citizens, this is your Baron speaking.",
+      "There have been several unauthorized uses of the",
+      "city's old gate locks. Fortunately, these breaches",
+      "have not resulted in contamination, but we all know",
+      "how deadly the Wasteland is. No one is allowed",
+      "outside the city without authorization, let it be",
+      "known that any violators will be caught",
+      "and executed."
     ],
     "prop009": [
-      "Palvele kaupunkiasi."
+      "Serve your city."
     ],
     "prop010": [
-      "Uhraa kaupunkisi puolesta, ja kaikki menestyvät!"
+      "Sacrifice for your city, and all will prosper!"
     ],
     "prop011": [
-      "Olette turvassa, koska minä välitän."
+      "You are safe, because I care."
     ],
     "prop012": [
-      "Kaikkien Metallipäiden on kuoltava!"
+      "All Metal Heads must die!"
     ],
     "prop013": [
-      "Työskentele ahkeraan ja ole kiitollinen."
+      "Work hard, and be grateful."
     ],
     "prop014": [
-      "Ilmoita kaikista vääryyksistä."
+      "Report all wrongdoers."
     ],
     "prop015": [
-      "Muistakaa, jopa ystävänne voivat olla vihollisia."
+      "Remember, even your friends could be enemies."
     ],
     "prop016": [
-      "Luovuttakaa kaikki turmelijat."
+      "Turn in all who subvert."
     ],
     "prop017": [
-      "Vahvuus on ainoa vaihtoehtomme!"
+      "Strength is our only option!"
     ],
     "prop018": [
-      "Totelkaa ja olkaa onnellisia."
+      "Obey and be happy."
     ],
     "prop019": [
-      "Uhraus on jotain, mitä sinun tulisi tehdä",
-      "kaupunkisi puolesta."
+      "Sacrifice is something you should do",
+      "for your city."
     ],
     "prop020": [
-      "Uhraa kaupunkisi puolesta."
+      "Sacrifice for your city."
     ],
     "prop021": [
-      "Muistakaa, jopa ystävät voivat olla vihollisia."
+      "Remember, even friends might be enemies."
     ],
     "prop022": [
-      "Kaupunki tarvitsee uhraustasi."
+      "The city needs your sacrifice."
     ],
     "prop023": [
-      "Muurien sisäpuolella on parempi!"
+      "It is better inside the walls!"
     ],
     "prop024": [
-      "Laki ei anna armoa."
+      "The law will show no mercy."
     ],
     "prop025": [
-      "Oikeus on nopeaa."
+      "Justice is swift."
     ],
     "prop026": [
-      "Vastarintaliike on kuollut!"
+      "The Underground movement is dead!"
     ],
     "prop027": [
-      "Liity Karmiinivartioon ja perheesi",
-      "sallitaan pysyä."
+      "Join the Krimzon Guard and your family",
+      "will be allowed to stay."
     ],
     "prop028": [
-      "Yksi tapa: minun tapani."
+      "One way: My way."
     ],
     "prop029": [
-      "Johtaminen on hallitaa."
+      "To lead is to control."
     ],
     "prop030": [
-      "Luovuta vapautesi niin suojelen sinua."
+      "Give up your freedom and I will protect you."
     ],
     "prop031": [
-      "Usko minuun ja luvattu maa on sinun."
+      "Have faith in me and the Promised Land is yours."
     ],
     "prop032": [
-      "Kaupunkinne tarvitsee vahvan johtajan, ei mitään lapsellista hölmöä."
+      "Your city needs a strong leader, not a childish fool."
     ],
     "prop033": [
-      "Älkää vastaanottako tuntemattomia kasvoja."
+      "Welcome not the unknown face."
     ],
     "prop034": [
-      "Kaihtakaa heitä, jotka minua uhmaavat!"
+      "Shun those who would defy me!"
     ],
     "prop035": [
-      "Minä olen Haven Cityn kasvot."
+      "I am the face of Haven City."
     ],
     "prop036": [
-      "Kaupunkia ei olisi ilman minun vahvuuttani."
+      "Without my strength, there would be no city."
     ],
     "prop037": [
-      "Seuratkaa minua turvallisempaan tulevaisuuteen!"
+      "Follow me to a safer future!"
     ],
     "prop038": [
-      "Olette turvaassa muurien sisällä kanssani."
+      "You are safe inside the walls with me."
     ],
     "prop039": [
-      "Uhmaa... ja kuole."
+      "Defy... and die."
     ],
     "prop040": [
-      "Tervetuloa Haven Cityyn!",
-      "Kaikki lait ovat voimassa turvallisuutenne vuoksi.",
-      "Tottele minua ja sinua ei rangaista."
+      "Welcome to Haven City!",
+      "All laws are enforced for your safety.",
+      "Obey me and you will not be punished."
     ],
     "prop041": [
-      "Kaupunki on turvassa. En salli vahingon",
-      "kohdata teitä, uskokaa."
+      "The city is safe. I will not allow harm",
+      "to befall you, trust me."
     ],
     "prop042": [
-      "Voitte olla varmoja, että tuhoan Metallipäät.",
-      "Tavalla tai toisella."
+      "Rest assured, I will destroy the Metal Heads.",
+      "One way or another."
     ],
     "prop043": [
-      "Kaikki kansalaiset, tämä mitätön Vastarinnan kapina",
-      "käsitellään mitä aggressiivisimmin keinoin.",
-      "Murskaamme nämä ylimieliset nousukkaat vielä, heidän ei",
-      "sallita uhata minua tai kaupunkimme järjestystä!"
+      "To all citizens, this puny Underground revolt",
+      "will be dealt with by all aggressive means.",
+      "We will crush these arrogant upstarts, they will not",
+      "be allowed to threaten me or this city's order!"
     ],
     "prop044": [
-      "Suuren kaupunkimme kansalaiset, keskuudessanne on",
-      "hirviö, naamioituneena miehen nahassa!",
-      "Hän on vaarallinen ja hänet on tuhottava!",
-      "Tarjoan palkkiona ecoa hänen sieppauksesta, tai,",
-      "jos rakas läheisesi on vankilassa, vapautan heidät vastineeksi",
-      "tästä kapinallisesta. Minä vannon."
+      "To all citizens of this great city, there is a monster",
+      "among you, masquerading as a man!",
+      "He is dangerous and must be destroyed!",
+      "I offer a reward of eco for his capture, or, if you",
+      "have a loved one in prison, I will exchange them for",
+      "this renegade. I promise."
     ],
     "prop045": [
-      "Kaikki, jotka uhmaavat minua, minä tarkkailen teitä,",
-      "minä olen kaikkialla, minä olen tämä kaupunki!"
+      "To all who defy me! I am watching you,",
+      "I am everywhere, I am this city!"
     ],
     "prop046": [
-      "Tämä on paroninne. Minulle on ilmoitettu",
-      "äärimmäisen työn ministeriöstä, että työntekijöiden tuottavuus on",
-      "laskussa tässä kuussa! Tämä ei ole hyväksyttävää!",
-      "Takaan teille turvaa, ja näinkö te maksatte minulle takaisin?",
-      "Tehkää työtä kovemmin, ei viisaammin!",
-      "Vapauta mieli ja kehosi tekee niin kuin käsketään,",
-      "pakkotyö tekee sinut vapaaksi!",
-      "Ja avuksenne hengellisessä motivaatiossa...",
-      "kiintiöt kaksinkertaistuvat ensi kuussa!"
+      "This is your Baron. I have been informed by the",
+      "ministry of extreme labor that worker productivity is",
+      "down this month! That is unacceptable!",
+      "I give you safety and this is how you repay me?",
+      "You must work harder, not smarter!",
+      "Free the mind and the body will do as it's told,",
+      "forced labor will set you free!",
+      "And to help you in your spiritual motivation...",
+      "quotas are doubled next month!"
     ],
     "prop047": [
-      "Johtuen viimeaikain, öh... \"kulutusongelmista\",",
-      "kaupunki tarvitsee tuoreita rekryyttejä Karmiinivartioon!",
-      "Kaikilta pyydetään vapaaehtoisia perheenjäseniä!",
-      "Käy peremmälle ystävälliseen linnoituslaitokseenne,",
-      "tai muuten...!"
+      "Due to recent, uh... \"attrition\" difficulties,",
+      "this city needs fresh Krimzon Guard recruits!",
+      "Everyone is asked to volunteer members of their family!",
+      "Come down to your friendly Fortress facility.",
+      "Or else!"
     ],
     "prop048": [
-      "Paroninanne aion perustaa \"ei leijulautailua\" -säännön",
-      "kaupungissa! Nuoret rikolliset, joilla ei ole mitään parempaa",
-      "tekemistä kuin leijua ympäriinsä ja temppuilla! Hmph!",
-      "Laitan kaikki rikkojat vartioon ja opetan heille",
-      "hieman kuria. Ei lautailua, se on laki!"
+      "As your Baron, I am instituting a \"no hoverboard\" rule",
+      "in the city! Young delinquents with nothing better",
+      "to do than float around and do tricks! Huh!",
+      "I'll put all violators into the Guard and teach them",
+      "some discipline. No skating, it's the law!"
     ],
     "prop049": [
-      "Olen pettynyt tämän kaupungin sitoutumisen ja",
-      "uhrauksen puutteeseen. Kovempaa työtä! Syö vähemmän!",
-      "Juo vain, kun minä käsken! Nukkuminen on valinnaista.",
-      "Me olemme sodassa ulkopuolista uhkaa vastaan,",
-      "älkää pakottako minua julistamaan sotaa myös teille!"
+      "I am disappointed with this city's lack of",
+      "committment and sacrifice. Work harder! Eat less!",
+      "Drink only when I tell you! Sleep is optional.",
+      "We are at war with an outside threat,",
+      "don't make me declare war on you as well!"
     ],
     "prop050": [
-      "Tervehdys, tämän ihanan utopian ihmiset. Tämän vuoden",
-      "mestaruuskilpailu alkaa tuota pikaa. Kaikkia kansalaisia,",
-      "jotka eivät ole kotiarestissa, kutsutaan tulemaan",
-      "stadionille ja katselemaan suosikkinne Erolin",
-      "jälleen kerran näyttävän, miten Karmiinivartio ovat",
-      "kaupungin eliittisotureita. Tuokaa koko perhe!",
-      "Ensimmäiset tuhat lasta saavat pakollisen",
-      "Karmiinivartion rekrytointipaketin ja heitä",
-      "\"kysytään\" liittymään vartioon loppuelämäksi! Miten hauskaa!"
+      "Greetings, people of this wonderful utopia. This year's",
+      "championship race will begin shortly. All citizens",
+      "not under house arrest are invited to come down to",
+      "the Stadium and watch your favorite son Erol",
+      "once again show how the Krimzon Guard are the elite",
+      "warriors of this city. Bring the whole family! The first",
+      "one thousand children will get a mandatory",
+      "Krimzon Guard recruitment package and be",
+      "\"asked\" to join the Guard for life, what a treat!"
     ],
     "prop051": [
-      "Tämä on paroninne, olen edelleen hallinnassa!",
-      "Ja vakuutan teille, kaupungissa ei ole ainuttakaan",
-      "Metallipäätä. Kaikki tätä tosiasiaa vastustavat...",
-      "ammutaan! Nykyinen tilanne on vain",
-      "tarkkaan laadittu propagandahuijaus, jonka on luonut",
-      "laiton Vastarinnan miliisi, joka yrittää",
-      "kumota lakimme ja häpäistä heitä, jotka suojelevat teitä",
-      "nukkuessanne! Älkää kiinnittäkö huomiota tähän typerään huijaukseen,",
-      "Metallipäitä ei löydy 100 mailin etäisyydeltä kaupungista!"
+      "This is your Baron, I am still in control!",
+      "And I assure you, there's absolutely no Metal Heads",
+      "in the city. Anyone who contradicts this fact...",
+      "will be shot! The current situation is merely",
+      "an elaborate propaganda hoax, perpetrated by",
+      "the outlawed Underground militia trying to",
+      "subvert our laws and discredit those who protect you",
+      "while you sleep! Pay no attention to this foolish hoax,",
+      "there are no Metal Heads within 100 miles of this city!"
     ],
     "prop052": [
-      "Tämä on paroni Praxis. Olemme saaneet kaupungin takaisin",
-      "ja nyt Metallipäät pakenevat edessämme!",
-      "Voitto on käsissä! Jatkakaa taistelua vapaudesta,",
-      "jonka saataan jonain päivänä suoda. Uhmatkaa näitä",
-      "lakieni ja järjestykseni vihollisia...",
-      "ja jatkakaa kuolemista puolestani."
+      "This is Baron Praxis. We have taken back the city",
+      "and the Metal Heads are now fleeing before us!",
+      "Victory is at hand! Continue to fight for the freedom",
+      "I may some day give you. Continue to defy these",
+      "enemies of my law and order...",
+      "and continue to die for me."
     ],
     "prop053": [
-      "Älä pelkää miehiä punaisissa. Toki on satunnaisia",
-      "valituksia heidän yliaggressiivisesta poliisitoiminnasta,",
-      "ihmisten omaisuuden törkeästä tuhoamisesta ratsioissa,",
-      "massapidätyksistä, väärin sijoitetuista rakkaista ja mitälie.",
-      "Hei, olemme vain ihmisiä! Kaupungin johtaminen voi olla",
-      "vaikeampaa miltä näyttää, kuvitelkaa miten kamalempaa",
-      "olisi, jos Metallipäät olisivat vastuussa!"
+      "Fear not the men in red. Sure, there are occasional",
+      "complaints about their over-aggressive policing,",
+      "wanton destruction of people's property during raids,",
+      "mass-arrests, misplaced loved ones and whatnot.",
+      "Hey, we're only human! Running a city can be",
+      "tougher than it looks, imagine how much worse",
+      "it would be if the Metal Heads were in charge!"
     ],
     "prop054": [
-      "On sattunut muutamia tapauksia alemman luokan työvoimamme",
-      "kanssa viime aikoina. Jos vaanijasi teppostelee, soita",
-      "Karmiinin eläinvalvontaan. Onko vaanijasi puussa?",
-      "Jumissa viemäriritilässä? Suu vaahtoaa?",
-      "Soita ystävällisille K.E.V.:n virkalijoille, ja he hoitavat",
-      "karvaisen orjanne kaikella ansaitsemallaan",
-      "rakkaudella... ja sitten hilaavat kunnostettavaksi.",
-      "Muistakaa, vaanijat voivat olla vaarallisia!"
+      "We've had a few incidents with our lower class labor",
+      "force lately. If your Lurker is acting up, call Krimzon",
+      "Animal Control. Is your Lurker in a tree? Stuck in a",
+      "sewer grate? Foaming at the mouth? Call",
+      "the friendly officers of the K.A.C. and they will deal",
+      "with your furry slave. with all the love and care it",
+      "deserves... then haul it away for reconditioning.",
+      "Remember, Lurkers can be dangerous!"
     ],
     "prop055": [
-      "Olkaa hyvä ja antakaa anteliaasti paronin ecorahastoon.",
-      "Upea lahjoituksesi sovelletaan useisiin eri",
-      "humanitaarisiin tarpeisiin: pommit, aseet, panssarit,",
-      "geenimuutostutkimukset, kaikki tämän ihanan kaupunkimme",
-      "ylläpidon nimeen. Anna usein, anna vapaasti...",
-      "tai se otetaan sinulta!"
+      "Please give generously to the Baron eco fund.",
+      "Your munificent donation wil be used for a variety",
+      "of humanitarian needs: bombs, guns, armor, genetic",
+      "alteration research, all in the name of preserving this",
+      "wonderful city of ours. Give often, give freely...",
+      "or it will be taken from you!"
     ],
     "prop056": [
-      "Täällä huipulla voi olla niin yksinäistä ja kun katselee alas",
-      "täältä ylhäältä, näen, että tämä likainen kaupunki on",
-      "epätoivoisen elvyttämisen tarpeessa. Joten,",
-      "tulemme purkamaan useita kaupungin alueita",
-      "tulevina viikkoina! Kaikki valitukset tätä",
-      "rakennusaloitetta vastaan voidaan tuoda",
-      "henkilökohtaisesti Linnoituksen vankilaan, missä ne",
-      "\"käydään läpi\". Tuomitut kaupunginosat tulevat",
-      "evakuoida ennen hävityksen alkua.",
-      "Kaikki yhä kodeissaan jätetään huomiotta."
+      "It can be so lonely at the top and looking down from",
+      "up here I can see that this dirty city is in desperate",
+      "need of revitalization. So, to that end, we",
+      "will be bulldozing many sections of the city in the",
+      "coming weeks! All complaints against this",
+      "construction initiative can be brought,",
+      "in-person, to the Fortress Prison where they will be",
+      "\"reviewed.\" Condemned city sections are to",
+      "be evacuated before razing begins.",
+      "Anyone still in their homes will be ignored."
     ],
     "prop057": [
       "Metallipäiden hyökkäys ei tule onnistumaan!",
@@ -7028,8 +7028,8 @@
       "Tämä on paroni Praxis. Kaupunkimme kohdatessa pahimman uhkansa",
       "kolmeensataan vuoteen, tarjottimellani on vakavia",
       "päätöksiä tulevaisuuttamme koskien. Kadun, että minulla on",
-      "vain vähän vaihtoehtoja jäljellä. Käsken teitä kaikkia palaamaan",
-      "koteihinne ja sanomaan hyvästit perheillenne.",
+      "vain vähän vaihtoehtoja jäljellä. Käsken teitä kaikkia palaamaan teidän",
+      "koteihin ja sanomaan hyvästit perheillenne.",
       "Olkaa varmoja, emme häviä tätä taistelua, tavalla",
       "taikka toisella! On tullut aika näyttää näille olennoille",
       "mihin pystymme, kun kaikki toivo on menetetty!",
@@ -7038,7 +7038,7 @@
     ],
     "sam001": [
       "Tämä on Samos. Jak, sinun täytyy matkata raunioille",
-      "Aavekaupunkiin ja piipahtaa vanhassa mökissäni. On aika noutaa",
+      "Kuolleeseen kaupunkiin ja piipahtaa vanhassa mökissäni. On aika noutaa",
       "jotain, mitä piilotin sinne kauan sitten. Onnea! Ja Daxter...",
       "siivoa paikkani kun olette siellä!"
     ],
@@ -7050,7 +7050,7 @@
     "sam003": [
       "Tämä on Samos, Jak. Metallipäät ovat taitaneet viedä",
       "sen jättimäisen porttirenkaan niiden pesäänsä joutomaassa.",
-      "Jos he aikovat käyttää rengasta avatakseen repeämän takaisin",
+      "Jos he aikovat käyttää rengasta avatakseen portin takaisin",
       "vanhaan kyläämme, meidän on päästävä pesään ja löydettävä se."
     ],
     "sam004": [
@@ -7064,8 +7064,8 @@
       "Etsikää nuori Samos ja antakaa Elämän siemen hänelle."
     ],
     "sam006": [
-      "Vihdoin pääsitte tänne! Etsikää vaanijatoteemi",
-      "ja noutakaa pala Marin sinetistä sen päällä."
+      "Vihdoin pääsit tänne! Etsi Vaanijatoteemi",
+      "ja nouda pala Marin sinetistä sen päällä."
     ],
     "sam007": [
       "Sinun täytyy saattaa poika turvallisesti voimalalle, Jak!"
@@ -7115,7 +7115,7 @@
       "Hienoa, nyt olet valmis!"
     ],
     "sigc014": [
-      "Haluatko kokeilla Haulikon harjoitusrataa?"
+      "Haluatko kokeilla haulikon harjoitusrataa?"
     ],
     "sigc015": [
       "Läjäytin on hyvä ase peruskäyttöön",
@@ -7522,7 +7522,7 @@
       "Rakastan sulan metallin käryä!"
     ],
     "sigt103": [
-      "Helppoa kuin heinänteko."
+      "Helppoa kuin heinän teko."
     ],
     "sigt104": [
       "Seuraa minua!"
@@ -7555,8 +7555,8 @@
       "Kaksi vatsaan, yksi kalloon."
     ],
     "spot004": [
-      "Tulkaa ulos ja hurratkaa minulle, kun murskaan kilpailun jälleen kerran radalla.",
-      "Tämän vuoden päätöskisa on kuoleman arvoinen, takaan lisää elämyksiä sekä kärsimyksiä.",
+      "Tulkaa ulos ja iloitkaa, kun tuhoan kilpailun jälleen kerran radalla.",
+      "Tämän vuoden kilpailuihin täytyy osallistua, takaavat enemmän jännitystä ja enemmän vahinkoja kuin koskaan.",
       "Tällä kertaa haluan verta! ...Tuokaa lapset mukaan."
     ],
     "tess001": [
@@ -7567,21 +7567,21 @@
     ],
     "tor001": [
       "Operaatio oli menestys. Kaikki jäsenet ovat turvassa.",
-      "Tule takaisin piilopaikkaamme, minulla on sinulle uusi tehtävä odotellessamme tilanteen laantuvan."
+      "Tule takaisin piilopaikkaamme, Minulla on sinulle uusi tehtävä sillä aikaa kun odotamme tilanteen laantuvan."
     ],
     "tor002": [
       "Tämän pitäisi hieman rauhoittaa tilannetta kaduilla. Hyvää työtä, en olisi onnistunut ilman apuanne."
     ],
     "tor003": [
-      "Jak, on sinun vuorosi! Vältä aiheuttamasta hälytyksiä, sillä vartijat tekevät ikävää jälkeä.",
-      "Etsi vangit selliosastolta. Kun pääset sinne, me käynnistämme portaalin, jotta saamme teidät takaisin ulos. Onnea."
+      "Se siitä, Jak nyt on sinun vuorosi, älä aiheuta hälytyksiä sillä vartijat tekevät ikävää jälkeä",
+      "Mene vankilaan ja etsi vangit. Kun olet siellä, me käynnistämme portaalin jotta saamme sinut takaisin ulos. Onnea."
     ],
     "tor004": [
-      "Ok, vanhat pääsykoodini auttavat Viniä poistamaan magneettilukituksen Linnoituksen ovesta."
+      "Ok, vanhat pääsykoodit auttavat Vinin sammuttamaan magneettinen sinetti linnoituksen ovesta."
     ],
     "tor005": [
-      "Jak, tämä on Torn, Metallipäät ovat hyökkäämässä kaupunkiimme. Isot joukot kulkevat kohti kaupungin muuria merestä päin.",
-      "Me tarvitsemme torniin tykkimiehiä pysäyttämään tuon hyökkäyksen. Tapaa minut satamassa merenpuoleisella muurilla, pian!",
+      "Jak, tämä on Torn, kaupunkissamme on Metal Head hyökkäys. Isot joukot kulkevat kohti kaupungin muuria merestä päin.",
+      "Me tarvitsemme torniin tykkimiehiä pysäyttämään tuon hyökkäyksen. Tapaa minut meren äärellä sijaitsevassa satamassa, pian!",
       "Tarvitsemme jokaisen miehen!"
     ],
     "tor007": [
@@ -7627,7 +7627,7 @@
       "Minun sankarini!"
     ],
     "tswm012": [
-      "Hän se osaa!"
+      "Katsokaa kuinka hän kiitää!"
     ],
     "tswm013": [
       "Sinä OLET Oranssi salama!"
@@ -7642,7 +7642,7 @@
       "Kyllä!"
     ],
     "tswm017": [
-      "Siinä on tuhma saulumini!"
+      "Tuo on tuhma ottselini!"
     ],
     "tswm018": [
       "Voi!"
@@ -7765,8 +7765,8 @@
       "Tiesin, että pystyisit siihen."
     ],
     "vin002": [
-      "Okei, B-vyöhykkeen voimaverkko on takaisin toiminnassa.",
-      "Pitäkää hauskaa kuollessanne palatsissa."
+      "Okei, B-Alueen Voimaverkko on takaisin toiminnassa.",
+      "Pitäkää hauskaa kuollessanne Palatsissa."
     ],
     "vin003": [
       "Sinä tuhosit viimeisetkin Metallipää-munat!",
@@ -7839,8 +7839,6 @@
     "kor": "Kor",
     "krew": "Krew",
     "metalkor": "Metalli-Kor",
-    "metalkor-before-consite": "Metal Head Leader",
-    "metalkor-intro": "???",
     "mog": "Mog",
     "onin": "Onin",
     "oracle": "Oraakkeli",

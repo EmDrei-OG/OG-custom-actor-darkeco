@@ -194,7 +194,7 @@
                                   :speech #xd
                                   :text-duration (seconds 4)
                                   :neg #x1
-                                  :text-message (text-id protect-civilians)
+                                  :text-message (text-id text-06de)
                                   :on-close #f
                                   :camera #f
                                   )
@@ -289,3 +289,7 @@
 
 ;; failed to figure out what this is:
 0
+
+
+
+

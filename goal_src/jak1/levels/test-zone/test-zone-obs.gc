@@ -1,7 +1,7 @@
 ;;-*-Lisp-*-
 (in-package goal)
 
-#| (deftype test-actor (process-drawable)
+(deftype test-actor (process-drawable)
   ((root collide-shape-moving :override)
    (birth-time time-frame)
    (base vector :inline)
@@ -120,7 +120,7 @@
       )
     )
   :post transform-post
-  ) |#
+  )
 
 ;;THIS IS THE SAME ACTOR AS TEST-ACTOR BUT ITS SUPPOSED TO JUST RENAME AND BE REPOSITIONED
 (deftype sb-ecowall (process-drawable)

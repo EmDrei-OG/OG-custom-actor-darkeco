@@ -133,8 +133,7 @@
         "name": "test-eco"
       }
     },
-
-/*     {
+    {
       "trans": [-5.41, 3.5, 28.42], // translation
       "etype": "test-actor",  // actor type
       "game_task": 0, // associated game task (for powercells, etc)
@@ -143,7 +142,7 @@
       "lump": {
         "name": "test-actor"
       }
-    }, */ //THIS IS THE ECOWALL IN SENTINEL BEACH (TEST)
+    } , //THIS IS THE ECOWALL IN SENTINEL BEACH (TEST)
       {
         "trans": [-7.41, 3.5, 20.0], // translation
         "etype": "sb-ecowall",  // actor type

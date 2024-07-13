@@ -25,11 +25,6 @@
 (define-extern talker-surpress! (function int))
 (define-extern voicebox-spawn (function process-drawable vector (pointer process)))
 
-(declare-type talker-speech-class structure)
-(define-extern talker-spawn-func (function talker-speech-class process-tree vector region sound-id))
-(declare-type talker process)
-(define-extern talker-init (function talker-speech-class vector region none :behavior talker))
-
 ;; DECOMP BEGINS
 
 (deftype talker-speech-class (structure)
@@ -56,6 +51,7 @@
     )
   )
 
+(define-extern talker-spawn-func (function talker-speech-class process-tree vector region sound-id))
 
 (deftype talker (process)
   ((trans           vector  :inline)
@@ -82,6 +78,7 @@
     )
   )
 
+(define-extern talker-init (function talker-speech-class vector region none :behavior talker))
 
 (define *talker-speech* (new 'static 'inline-array talker-speech-class 365
                           (new 'static 'talker-speech-class :name "none")
@@ -92,7 +89,7 @@
                             :speech #x1
                             :text-duration (seconds 5)
                             :neg #x1
-                            :text-message (text-id press-to-jump)
+                            :text-message (text-id text-0408)
                             :on-close #f
                             :camera #f
                             )
@@ -103,7 +100,7 @@
                             :speech #x2
                             :text-duration (seconds 5)
                             :neg #x1
-                            :text-message (text-id double-jump-how-to)
+                            :text-message (text-id text-040a)
                             :on-close #f
                             :camera #f
                             )
@@ -114,7 +111,7 @@
                             :speech #x3
                             :text-duration (seconds 5)
                             :neg #x1
-                            :text-message (text-id press-or-to-attack)
+                            :text-message (text-id text-040b)
                             :on-close #f
                             :camera #f
                             )
@@ -125,7 +122,7 @@
                             :speech #x4
                             :text-duration (seconds 5)
                             :neg #x1
-                            :text-message (text-id press-or-to-attack)
+                            :text-message (text-id text-040b)
                             :on-close #f
                             :camera #f
                             )
@@ -145,7 +142,7 @@
                             :speech #x6
                             :text-duration (seconds 5)
                             :neg #x1
-                            :text-message (text-id ground-pound-how-to)
+                            :text-message (text-id text-040d)
                             :on-close #f
                             :camera #f
                             )
@@ -165,7 +162,7 @@
                             :speech #x8
                             :text-duration (seconds 5)
                             :neg #x1
-                            :text-message (text-id roll-how-to)
+                            :text-message (text-id text-0409)
                             :on-close #f
                             :camera #f
                             )
@@ -176,7 +173,7 @@
                             :speech #x9
                             :text-duration (seconds 1)
                             :neg #x1
-                            :text-message (text-id roll-jump-how-to)
+                            :text-message (text-id text-040c)
                             :on-close #f
                             :camera #f
                             )
@@ -187,7 +184,7 @@
                             :speech #xa
                             :text-duration (seconds 1)
                             :neg #x1
-                            :text-message (text-id roll-jump-how-to)
+                            :text-message (text-id text-040c)
                             :on-close #f
                             :camera #f
                             )
@@ -198,7 +195,7 @@
                             :speech #xb
                             :text-duration (seconds 1)
                             :neg #x1
-                            :text-message (text-id high-jump-how-to)
+                            :text-message (text-id text-040e)
                             :on-close #f
                             :camera #f
                             )
@@ -209,7 +206,7 @@
                             :speech #xc
                             :text-duration (seconds 1)
                             :neg #x1
-                            :text-message (text-id high-jump-how-to)
+                            :text-message (text-id text-040e)
                             :on-close #f
                             :camera #f
                             )
@@ -238,7 +235,7 @@
                             :speech #xf
                             :text-duration (seconds 1)
                             :neg #x1
-                            :text-message (text-id press-to-jump)
+                            :text-message (text-id text-0408)
                             :on-close #f
                             :camera #f
                             )
@@ -249,7 +246,7 @@
                             :speech #x10
                             :text-duration (seconds 1)
                             :neg #x1
-                            :text-message (text-id double-jump-how-to)
+                            :text-message (text-id text-040a)
                             :on-close #f
                             :camera #f
                             )
@@ -260,7 +257,7 @@
                             :speech #x11
                             :text-duration (seconds 1)
                             :neg #x1
-                            :text-message (text-id double-jump-how-to)
+                            :text-message (text-id text-040a)
                             :on-close #f
                             :camera #f
                             )
@@ -271,7 +268,7 @@
                             :speech #x12
                             :text-duration (seconds 1)
                             :neg #x1
-                            :text-message (text-id roll-how-to)
+                            :text-message (text-id text-0409)
                             :on-close #f
                             :camera #f
                             )
@@ -291,7 +288,7 @@
                             :speech #x14
                             :text-duration (seconds 1)
                             :neg #x1
-                            :text-message (text-id roll-jump-how-to)
+                            :text-message (text-id text-040c)
                             :on-close #f
                             :camera #f
                             )
@@ -333,7 +330,7 @@
                             :speech #x18
                             :text-duration (seconds 1)
                             :neg #x1
-                            :text-message (text-id ground-pound-how-to)
+                            :text-message (text-id text-040d)
                             :on-close #f
                             :camera #f
                             )
@@ -745,7 +742,7 @@
                             :speech #x44
                             :text-duration (seconds 1)
                             :neg #x1
-                            :text-message (text-id press-to-jump)
+                            :text-message (text-id text-0408)
                             :on-close #f
                             :camera #f
                             )
@@ -756,7 +753,7 @@
                             :speech #x45
                             :text-duration (seconds 1)
                             :neg #x1
-                            :text-message (text-id press-to-jump)
+                            :text-message (text-id text-0408)
                             :on-close #f
                             :camera #f
                             )
@@ -767,7 +764,7 @@
                             :speech #x46
                             :text-duration (seconds 1)
                             :neg #x1
-                            :text-message (text-id roll-how-to)
+                            :text-message (text-id text-0409)
                             :on-close #f
                             :camera #f
                             )
@@ -789,7 +786,7 @@
                             :speech #x48
                             :text-duration (seconds 1)
                             :neg #x1
-                            :text-message (text-id double-jump-how-to)
+                            :text-message (text-id text-040a)
                             :on-close #f
                             :camera #f
                             )
@@ -811,7 +808,7 @@
                             :speech #x4a
                             :text-duration (seconds 1)
                             :neg #x1
-                            :text-message (text-id high-jump-how-to)
+                            :text-message (text-id text-040e)
                             :on-close #f
                             :camera #f
                             )
@@ -822,7 +819,7 @@
                             :speech #x4b
                             :text-duration (seconds 1)
                             :neg #x1
-                            :text-message (text-id high-jump-how-to)
+                            :text-message (text-id text-040e)
                             :on-close #f
                             :camera #f
                             )
@@ -833,7 +830,7 @@
                             :speech #x4c
                             :text-duration (seconds 1)
                             :neg #x1
-                            :text-message (text-id roll-jump-how-to)
+                            :text-message (text-id text-040c)
                             :on-close #f
                             :camera #f
                             )
@@ -844,7 +841,7 @@
                             :speech #x4d
                             :text-duration (seconds 1)
                             :neg #x1
-                            :text-message (text-id roll-jump-how-to)
+                            :text-message (text-id text-040c)
                             :on-close #f
                             :camera #f
                             )
@@ -855,7 +852,7 @@
                             :speech #x4e
                             :text-duration (seconds 1)
                             :neg #x1
-                            :text-message (text-id ground-pound-how-to)
+                            :text-message (text-id text-040d)
                             :on-close #f
                             :camera #f
                             )
@@ -866,7 +863,7 @@
                             :speech #x4f
                             :text-duration (seconds 1)
                             :neg #x1
-                            :text-message (text-id ground-pound-how-to)
+                            :text-message (text-id text-040d)
                             :on-close #f
                             :camera #f
                             )
@@ -996,7 +993,7 @@
                             :speech #x5c
                             :text-duration (seconds 5)
                             :neg #x1
-                            :text-message (text-id use-turbo-to-break-obstacles)
+                            :text-message (text-id text-0888)
                             :on-close #f
                             :camera #f
                             )
@@ -1122,7 +1119,7 @@
                             :speech #x69
                             :text-duration (seconds 5)
                             :neg #x1
-                            :text-message (text-id activate-statue-by-punching-kicking-nose)
+                            :text-message (text-id text-06df)
                             :on-close #f
                             :camera #f
                             )
@@ -1477,7 +1474,7 @@
                             :text-duration (seconds 5)
                             :delay (seconds 1)
                             :neg #x1
-                            :text-message (text-id you-can-now-afford-to-purchase-new-secrets)
+                            :text-message (text-id text-07ba)
                             :on-close #f
                             :camera #f
                             )
@@ -1489,7 +1486,7 @@
                             :text-duration (seconds 5)
                             :delay (seconds 1)
                             :neg #x1
-                            :text-message (text-id new-secrets-available)
+                            :text-message (text-id text-0857)
                             :on-close #f
                             :camera #f
                             )
@@ -1501,7 +1498,7 @@
                             :text-duration (seconds 5)
                             :delay (seconds 1)
                             :neg #x1
-                            :text-message (text-id secrets-still-available)
+                            :text-message (text-id text-0858)
                             :on-close #f
                             :camera #f
                             )
@@ -1513,7 +1510,7 @@
                             :text-duration (seconds 10)
                             :delay (seconds 1)
                             :neg #x1
-                            :text-message (text-id congrats-600-orbs-new-duds)
+                            :text-message (text-id text-0892)
                             :on-close #f
                             :camera #f
                             )
@@ -1681,7 +1678,7 @@
                             :text-duration (seconds 5)
                             :pos #x3
                             :neg #x1
-                            :text-message (text-id roll-jump-how-to)
+                            :text-message (text-id text-040c)
                             :on-close #f
                             :camera #f
                             )
@@ -1692,7 +1689,7 @@
                             :text-duration (seconds 5)
                             :pos #x3
                             :neg #x1
-                            :text-message (text-id high-jump-how-to)
+                            :text-message (text-id text-040e)
                             :on-close #f
                             :camera #f
                             )
@@ -1703,7 +1700,7 @@
                             :text-duration (seconds 5)
                             :pos #x3
                             :neg #x1
-                            :text-message (text-id roll-jump-how-to)
+                            :text-message (text-id text-040c)
                             :on-close #f
                             :camera #f
                             )
@@ -1714,7 +1711,7 @@
                             :text-duration (seconds 5)
                             :pos #x3
                             :neg #x1
-                            :text-message (text-id roll-jump-how-to)
+                            :text-message (text-id text-040c)
                             :on-close #f
                             :camera #f
                             )
@@ -3235,7 +3232,7 @@
                             :speech #x15c
                             :text-duration (seconds 5)
                             :neg #x1
-                            :text-message (text-id press-to-grab-objects)
+                            :text-message (text-id text-077b)
                             :on-close #f
                             :camera #f
                             )
@@ -3246,7 +3243,7 @@
                             :speech #x15d
                             :text-duration (seconds 5)
                             :neg #x1
-                            :text-message (text-id press-to-place-held-objects)
+                            :text-message (text-id text-0807)
                             :on-close #f
                             :camera #f
                             )
@@ -3257,7 +3254,7 @@
                             :speech #x15e
                             :text-duration (seconds 5)
                             :neg #x1
-                            :text-message (text-id hold-to-use-shield)
+                            :text-message (text-id text-0864)
                             :on-close #f
                             :camera #f
                             )
@@ -3287,7 +3284,7 @@
                             :speech #x161
                             :text-duration (seconds 5)
                             :neg #x1
-                            :text-message (text-id dark-strike-how-to)
+                            :text-message (text-id text-07b4)
                             :on-close #f
                             :camera #f
                             )
@@ -3298,7 +3295,7 @@
                             :speech #x162
                             :text-duration (seconds 5)
                             :neg #x1
-                            :text-message (text-id use-the-wave-concussor)
+                            :text-message (text-id text-07c3)
                             :on-close #f
                             :camera #f
                             )
@@ -3309,7 +3306,7 @@
                             :speech #x163
                             :text-duration (seconds 5)
                             :neg #x1
-                            :text-message (text-id hold-to-charge-and-then-release-to-fire-bigger-blast)
+                            :text-message (text-id text-07c4)
                             :on-close #f
                             :camera #f
                             )
@@ -3374,7 +3371,7 @@
                             :speech #x16a
                             :text-duration (seconds 5)
                             :neg #x1
-                            :text-message (text-id hold-to-auto-fire)
+                            :text-message (text-id text-0862)
                             :on-close #f
                             :camera #f
                             )
@@ -3394,7 +3391,7 @@
                             :speech #x16c
                             :text-duration (seconds 5)
                             :neg #x1
-                            :text-message (text-id press-again-to-make-gyro-burster-hover-in-place)
+                            :text-message (text-id text-0886)
                             :on-close #f
                             :camera #f
                             )

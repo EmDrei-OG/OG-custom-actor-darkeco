@@ -119,9 +119,8 @@ void MakeSystem::load_project_file(const std::string& file_path) {
   auto data = m_goos.reader.read_from_file({file_path});
   // interpret it, which will call various handlers.
   m_goos.eval(data, m_goos.global_environment.as_env_ptr());
-  lg::debug("Loaded project {} with {} steps in {} ms\n", file_path, m_output_to_step.size(),
+  lg::print("Loaded project {} with {} steps in {} ms\n", file_path, m_output_to_step.size(),
             (int)timer.getMs());
-  m_loaded_projects.push_back(file_path);
 }
 
 goos::Object MakeSystem::handle_defstep(const goos::Object& form,
@@ -188,7 +187,6 @@ goos::Object MakeSystem::handle_defstep(const goos::Object& form,
  *
  */
 void MakeSystem::clear_project() {
-  m_loaded_projects.clear();
   m_output_to_step.clear();
 }
 

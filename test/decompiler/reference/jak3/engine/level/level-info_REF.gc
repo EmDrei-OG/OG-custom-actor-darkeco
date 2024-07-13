@@ -31,7 +31,7 @@
                         :taskname 'default
                         :index 1
                         :master-level #f
-                        :level-flags (level-flags sky display-wait ocean-near-translucent)
+                        :level-flags (level-flags lf9 lf11 lf12)
                         :packages '()
                         :run-packages '()
                         :memory-mode (level-memory-mode large)
@@ -67,7 +67,7 @@
                 :taskname 'default
                 :index 2
                 :master-level #f
-                :level-flags (level-flags ocean-near-translucent)
+                :level-flags (level-flags lf12)
                 :packages '("intro")
                 :run-packages '("common")
                 :memory-mode (level-memory-mode medium)
@@ -100,7 +100,7 @@
                 :taskname 'default
                 :index 3
                 :master-level #f
-                :level-flags (level-flags title ocean-near-translucent)
+                :level-flags (level-flags lf5 lf12)
                 :packages '("dust-stormp" "title")
                 :run-packages '("common")
                 :memory-mode (level-memory-mode small-edge)
@@ -302,7 +302,7 @@
                   :index 4
                   :task-level #x1
                   :master-level #f
-                  :level-flags (level-flags ocean-near-translucent)
+                  :level-flags (level-flags lf12)
                   :packages '("vinroom")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -478,7 +478,7 @@
                    :taskname 'default
                    :index 5
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -512,7 +512,7 @@
                   :taskname 'default
                   :index 6
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -547,7 +547,7 @@
                   :index 7
                   :task-level #x1
                   :master-level #f
-                  :level-flags (level-flags ocean-near-translucent)
+                  :level-flags (level-flags lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -582,7 +582,7 @@
                   :task-level #x1
                   :part-engine-max #x4
                   :master-level #f
-                  :level-flags (level-flags lf0 not-physical end-mode ocean-near-translucent allow-unloaded)
+                  :level-flags (level-flags lf0 lf1 lf7 lf12 lf17)
                   :packages '("marketp" "vehiclep" "nav-graphp" "hvehiclep" "ctywide")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode city-center)
@@ -626,7 +626,7 @@
     :index 9
     :task-level #x1
     :master-level #f
-    :level-flags (level-flags lf0 not-physical sky display-wait ocean-near-translucent)
+    :level-flags (level-flags lf0 lf1 lf9 lf11 lf12)
     :packages '()
     :run-packages '("common")
     :memory-mode (level-memory-mode alias)
@@ -662,7 +662,7 @@
     :index 10
     :task-level #x1
     :master-level #f
-    :level-flags (level-flags lf0 not-physical sky display-wait ocean-near-translucent)
+    :level-flags (level-flags lf0 lf1 lf9 lf11 lf12)
     :packages '()
     :run-packages '("common")
     :memory-mode (level-memory-mode alias)
@@ -698,7 +698,7 @@
     :index 11
     :task-level #x1
     :master-level #f
-    :level-flags (level-flags lf0 not-physical sky display-wait ocean-near-translucent)
+    :level-flags (level-flags lf0 lf1 lf9 lf11 lf12)
     :packages '()
     :run-packages '("common")
     :memory-mode (level-memory-mode alias)
@@ -734,7 +734,7 @@
     :index 12
     :task-level #x1
     :master-level #f
-    :level-flags (level-flags lf0 not-physical sky display-wait ocean-near-translucent)
+    :level-flags (level-flags lf0 lf1 lf9 lf11 lf12)
     :packages '()
     :run-packages '("common")
     :memory-mode (level-memory-mode alias)
@@ -770,7 +770,7 @@
     :index 13
     :task-level #x1
     :master-level #f
-    :level-flags (level-flags lf0 not-physical sky display-wait ocean-near-translucent)
+    :level-flags (level-flags lf0 lf1 lf9 lf11 lf12)
     :packages '()
     :run-packages '("common")
     :memory-mode (level-memory-mode alias)
@@ -806,7 +806,7 @@
     :index 14
     :task-level #x1
     :master-level #f
-    :level-flags (level-flags lf0 not-physical sky display-wait ocean-near-translucent)
+    :level-flags (level-flags lf0 lf1 lf9 lf11 lf12)
     :packages '()
     :run-packages '("common")
     :memory-mode (level-memory-mode alias)
@@ -841,7 +841,7 @@
                    :index 15
                    :task-level #x1
                    :master-level #f
-                   :level-flags (level-flags not-physical sky ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf9 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -876,7 +876,7 @@
                   :index 16
                   :task-level #x1
                   :master-level #f
-                  :level-flags (level-flags not-physical sky ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf9 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -911,7 +911,7 @@
                   :index 17
                   :task-level #x1
                   :master-level 'ctywide
-                  :level-flags (level-flags lf0 not-physical ctycar ocean-near-translucent)
+                  :level-flags (level-flags lf0 lf1 lf2 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow-city-small)
@@ -945,7 +945,7 @@
                    :index 18
                    :task-level #x1
                    :master-level 'ctywide
-                   :level-flags (level-flags lf0 not-physical ocean-near-translucent city-borrow-high-priority)
+                   :level-flags (level-flags lf0 lf1 lf12 lf19)
                    :packages '("cty-kg-vehicles")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow-city-small)
@@ -979,7 +979,7 @@
                   :index 19
                   :task-level #x1
                   :master-level 'ctywide
-                  :level-flags (level-flags lf0 not-physical ctycar ocean-near-translucent)
+                  :level-flags (level-flags lf0 lf1 lf2 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow-city-small)
@@ -1013,7 +1013,7 @@
                   :index 20
                   :task-level #x1
                   :master-level 'ctywide
-                  :level-flags (level-flags lf0 not-physical ctycar ocean-near-translucent)
+                  :level-flags (level-flags lf0 lf1 lf2 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow-city-small)
@@ -1047,7 +1047,7 @@
                   :index 21
                   :task-level #x1
                   :master-level 'ctywide
-                  :level-flags (level-flags lf0 ocean-near-translucent)
+                  :level-flags (level-flags lf0 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow3)
@@ -1081,7 +1081,7 @@
                   :index 22
                   :task-level #x1
                   :master-level 'ctywide
-                  :level-flags (level-flags lf0 ocean-near-translucent)
+                  :level-flags (level-flags lf0 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow3)
@@ -1106,74 +1106,72 @@
         )
 
 ;; definition for symbol lblowtmh, type level-load-info
-(define lblowtmh
-  (new 'static 'level-load-info
-    :name 'lblowtmh
-    :visname 'lblowtmh-vis
-    :nickname 'lblowtmh
-    :dbname 'lblowtmh
-    :taskname 'city
-    :index 23
-    :task-level #x1
-    :master-level 'ctywide
-    :level-flags (level-flags lf0 not-physical display-wait ocean-near-translucent city-borrow-high-priority)
-    :packages '()
-    :run-packages '("common")
-    :memory-mode (level-memory-mode borrow-city-small)
-    :music-bank #f
-    :extra-sound-bank #f
-    :mood-func 'update-mood-copy-parent
-    :special-mood #f
-    :ocean #f
-    :ocean-alpha 1.0
-    :priority 100
-    :draw-priority 10.0
-    :bigmap-id (bigmap-id no-map)
-    :continues '()
-    :callback-list '()
-    :borrow #f
-    :bottom-height (meters -20)
-    :fog-height (meters 80)
-    :max-rain 1.0
-    :fog-mult 1.0
-    :mood-range (new 'static 'mood-range :max-cloud 1.0 :min-fog 0.5 :max-fog 1.0)
-    )
-  )
+(define lblowtmh (new 'static 'level-load-info
+                   :name 'lblowtmh
+                   :visname 'lblowtmh-vis
+                   :nickname 'lblowtmh
+                   :dbname 'lblowtmh
+                   :taskname 'city
+                   :index 23
+                   :task-level #x1
+                   :master-level 'ctywide
+                   :level-flags (level-flags lf0 lf1 lf11 lf12 lf19)
+                   :packages '()
+                   :run-packages '("common")
+                   :memory-mode (level-memory-mode borrow-city-small)
+                   :music-bank #f
+                   :extra-sound-bank #f
+                   :mood-func 'update-mood-copy-parent
+                   :special-mood #f
+                   :ocean #f
+                   :ocean-alpha 1.0
+                   :priority 100
+                   :draw-priority 10.0
+                   :bigmap-id (bigmap-id no-map)
+                   :continues '()
+                   :callback-list '()
+                   :borrow #f
+                   :bottom-height (meters -20)
+                   :fog-height (meters 80)
+                   :max-rain 1.0
+                   :fog-mult 1.0
+                   :mood-range (new 'static 'mood-range :max-cloud 1.0 :min-fog 0.5 :max-fog 1.0)
+                   )
+        )
 
 ;; definition for symbol lblowtkg, type level-load-info
-(define lblowtkg
-  (new 'static 'level-load-info
-    :name 'lblowtkg
-    :visname 'lblowtkg-vis
-    :nickname 'lblowtkg
-    :dbname 'lblowtkg
-    :taskname 'city
-    :index 24
-    :task-level #x1
-    :master-level 'ctywide
-    :level-flags (level-flags lf0 not-physical display-wait ocean-near-translucent city-borrow-high-priority)
-    :packages '()
-    :run-packages '("common")
-    :memory-mode (level-memory-mode borrow-city-small)
-    :music-bank #f
-    :extra-sound-bank #f
-    :mood-func 'update-mood-copy-parent
-    :special-mood #f
-    :ocean #f
-    :ocean-alpha 1.0
-    :priority 100
-    :draw-priority 10.0
-    :bigmap-id (bigmap-id no-map)
-    :continues '()
-    :callback-list '()
-    :borrow #f
-    :bottom-height (meters -20)
-    :fog-height (meters 80)
-    :max-rain 1.0
-    :fog-mult 1.0
-    :mood-range (new 'static 'mood-range :max-cloud 1.0 :min-fog 0.5 :max-fog 1.0)
-    )
-  )
+(define lblowtkg (new 'static 'level-load-info
+                   :name 'lblowtkg
+                   :visname 'lblowtkg-vis
+                   :nickname 'lblowtkg
+                   :dbname 'lblowtkg
+                   :taskname 'city
+                   :index 24
+                   :task-level #x1
+                   :master-level 'ctywide
+                   :level-flags (level-flags lf0 lf1 lf11 lf12 lf19)
+                   :packages '()
+                   :run-packages '("common")
+                   :memory-mode (level-memory-mode borrow-city-small)
+                   :music-bank #f
+                   :extra-sound-bank #f
+                   :mood-func 'update-mood-copy-parent
+                   :special-mood #f
+                   :ocean #f
+                   :ocean-alpha 1.0
+                   :priority 100
+                   :draw-priority 10.0
+                   :bigmap-id (bigmap-id no-map)
+                   :continues '()
+                   :callback-list '()
+                   :borrow #f
+                   :bottom-height (meters -20)
+                   :fog-height (meters 80)
+                   :max-rain 1.0
+                   :fog-mult 1.0
+                   :mood-range (new 'static 'mood-range :max-cloud 1.0 :min-fog 0.5 :max-fog 1.0)
+                   )
+        )
 
 ;; definition for symbol ctypepb, type level-load-info
 (define ctypepb (new 'static 'level-load-info
@@ -1185,7 +1183,7 @@
                   :index 25
                   :task-level #x1
                   :master-level 'ctywide
-                  :level-flags (level-flags lf0 not-physical ctypes ocean-near-translucent)
+                  :level-flags (level-flags lf0 lf1 lf3 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow3)
@@ -1219,7 +1217,7 @@
                    :index 26
                    :task-level #x1
                    :master-level 'ctywide
-                   :level-flags (level-flags lf0 not-physical ocean-near-translucent city-borrow-high-priority)
+                   :level-flags (level-flags lf0 lf1 lf12 lf19)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow3)
@@ -1253,7 +1251,7 @@
                   :index 27
                   :task-level #x1
                   :master-level 'ctywide
-                  :level-flags (level-flags lf0 ocean-near-translucent)
+                  :level-flags (level-flags lf0 lf12)
                   :packages '("cty-mh-deep")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow3)
@@ -1287,7 +1285,7 @@
                   :index 28
                   :task-level #x1
                   :master-level 'ctywide
-                  :level-flags (level-flags lf0 not-physical ctypes ocean-near-translucent)
+                  :level-flags (level-flags lf0 lf1 lf3 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow-city-small)
@@ -1321,7 +1319,7 @@
                   :index 29
                   :task-level #x1
                   :master-level 'ctywide
-                  :level-flags (level-flags lf0 not-physical ctypes ocean-near-translucent)
+                  :level-flags (level-flags lf0 lf1 lf3 lf12)
                   :packages '("cty-mh-border")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow-city-small)
@@ -1355,7 +1353,7 @@
                   :index 30
                   :task-level #x1
                   :master-level 'ctywide
-                  :level-flags (level-flags lf0 not-physical ctypes ocean-near-translucent)
+                  :level-flags (level-flags lf0 lf1 lf3 lf12)
                   :packages '("cty-kg-border")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow-city-small)
@@ -1389,7 +1387,7 @@
                    :index 31
                    :task-level #x7
                    :master-level #f
-                   :level-flags (level-flags not-physical sky display-wait ocean-near-translucent ocean-far)
+                   :level-flags (level-flags lf1 lf9 lf11 lf12 lf13)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -1424,7 +1422,7 @@
                   :index 32
                   :task-level #x1
                   :master-level 'ctywide
-                  :level-flags (level-flags lf0 sky display-wait ocean-near-translucent)
+                  :level-flags (level-flags lf0 lf9 lf11 lf12)
                   :packages '("ctygenb")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -1670,7 +1668,7 @@
                    :index 33
                    :task-level #x1
                    :master-level 'ctywide
-                   :level-flags (level-flags lf0 sky display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf0 lf9 lf11 lf12)
                    :packages '("desburning" "ctysluma")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -1803,7 +1801,7 @@
                    :index 34
                    :task-level #x1
                    :master-level 'ctywide
-                   :level-flags (level-flags lf0 sky display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf0 lf9 lf11 lf12)
                    :packages '("ctyslumb")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -1976,7 +1974,7 @@
                    :index 35
                    :task-level #x1
                    :master-level 'ctywide
-                   :level-flags (level-flags lf0 sky display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf0 lf9 lf11 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -2010,7 +2008,7 @@
                    :index 36
                    :task-level #x1
                    :master-level 'ctywide
-                   :level-flags (level-flags lf0 sky ocean-near-translucent)
+                   :level-flags (level-flags lf0 lf9 lf12)
                    :packages '("ctyslumc")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -2204,7 +2202,7 @@
                   :task-level #x1
                   :part-engine-max #x10
                   :master-level 'ctywide
-                  :level-flags (level-flags lf0 sky display-wait ocean-near-translucent)
+                  :level-flags (level-flags lf0 lf9 lf11 lf12)
                   :packages '("ctyport")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -2721,7 +2719,7 @@
                    :task-level #x1
                    :part-engine-max #x10
                    :master-level 'ctywide
-                   :level-flags (level-flags lf0 sky display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf0 lf9 lf11 lf12)
                    :packages '("ctyfarm")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -2756,7 +2754,7 @@
                    :task-level #x1
                    :part-engine-max #x10
                    :master-level 'ctywide
-                   :level-flags (level-flags lf0 sky display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf0 lf9 lf11 lf12)
                    :packages '("ctyfarm")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -2790,7 +2788,7 @@
                   :index 40
                   :task-level #x1
                   :master-level 'ctywide
-                  :level-flags (level-flags lf0 sky display-wait ocean-near-translucent)
+                  :level-flags (level-flags lf0 lf9 lf11 lf12)
                   :packages '("elecgate" "ctyinda")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -3080,7 +3078,7 @@
                   :index 41
                   :task-level #x1
                   :master-level 'ctywide
-                  :level-flags (level-flags lf0 sky display-wait ocean-near-translucent)
+                  :level-flags (level-flags lf0 lf9 lf11 lf12)
                   :packages '("ctyindb")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -3210,7 +3208,7 @@
                   :index 42
                   :task-level #xd
                   :master-level #f
-                  :level-flags (level-flags sky display-wait ocean-near-translucent)
+                  :level-flags (level-flags lf9 lf11 lf12)
                   :packages '("stadium")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -3344,7 +3342,7 @@
                    :index 43
                    :task-level #xd
                    :master-level #f
-                   :level-flags (level-flags sky display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf9 lf11 lf12)
                    :packages '("elecgate" "stadiuma")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-center)
@@ -3382,7 +3380,7 @@
                    :index 44
                    :task-level #xd
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -3418,7 +3416,7 @@
     :index 45
     :task-level #xd
     :master-level #f
-    :level-flags (level-flags not-physical end-mode ocean-near-translucent)
+    :level-flags (level-flags lf1 lf7 lf12)
     :packages '("vehiclep" "wvehiclep" "dp-bipedalp" "lpattack")
     :run-packages '("common")
     :memory-mode (level-memory-mode borrow)
@@ -3454,7 +3452,7 @@
                    :task-level #xd
                    :part-engine-max #x10
                    :master-level 'stadiuma
-                   :level-flags (level-flags sky display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf9 lf11 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -3527,7 +3525,7 @@
                  :index 47
                  :task-level #xe
                  :master-level #f
-                 :level-flags (level-flags display-wait ocean-near-translucent)
+                 :level-flags (level-flags lf11 lf12)
                  :packages '("neo-waspp" "hoverp" "prebot-eco-creat" "dp-bipedalp" "towera")
                  :run-packages '("common")
                  :memory-mode (level-memory-mode small-edge)
@@ -3585,7 +3583,7 @@
                  :index 48
                  :task-level #xe
                  :master-level 'towera
-                 :level-flags (level-flags display-wait ocean-near-translucent)
+                 :level-flags (level-flags lf11 lf12)
                  :packages '()
                  :run-packages '("common")
                  :memory-mode (level-memory-mode small-center)
@@ -3700,7 +3698,7 @@
                  :index 49
                  :task-level #xe
                  :master-level #f
-                 :level-flags (level-flags sky display-wait ocean-near-translucent)
+                 :level-flags (level-flags lf9 lf11 lf12)
                  :packages '()
                  :run-packages '("common")
                  :memory-mode (level-memory-mode small-edge)
@@ -3739,7 +3737,7 @@
                    :index 50
                    :task-level #xe
                    :master-level #f
-                   :level-flags (level-flags display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf11 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -3774,7 +3772,7 @@
                   :index 51
                   :task-level #xe
                   :master-level 'towera
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -3809,7 +3807,7 @@
                    :index 52
                    :task-level #xe
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent ocean-far)
+                   :level-flags (level-flags lf1 lf12 lf13)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -3845,7 +3843,7 @@
                   :index 53
                   :task-level #xe
                   :master-level 'towera
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -3899,7 +3897,7 @@
                   :index 54
                   :task-level #xd
                   :master-level 'stadiuma
-                  :level-flags (level-flags sky display-wait ocean-near-translucent)
+                  :level-flags (level-flags lf9 lf11 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -3975,7 +3973,7 @@
                    :index 55
                    :task-level #xd
                    :master-level 'stadiuma
-                   :level-flags (level-flags sky display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf9 lf11 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -4030,7 +4028,7 @@
                   :index 56
                   :task-level #xd
                   :master-level 'stadiuma
-                  :level-flags (level-flags sky display-wait ocean-near-translucent)
+                  :level-flags (level-flags lf9 lf11 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -4086,7 +4084,7 @@
                   :index 57
                   :task-level #xd
                   :master-level 'stadiuma
-                  :level-flags (level-flags sky display-wait ocean-near-translucent)
+                  :level-flags (level-flags lf9 lf11 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -4142,7 +4140,7 @@
                   :index 58
                   :task-level #xd
                   :master-level 'stadiuma
-                  :level-flags (level-flags sky display-wait ocean-near-translucent)
+                  :level-flags (level-flags lf9 lf11 lf12)
                   :packages '("rublcst")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -4178,7 +4176,7 @@
                    :index 59
                    :task-level #x1
                    :master-level 'ctywide
-                   :level-flags (level-flags lf0 not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf0 lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow4)
@@ -4212,7 +4210,7 @@
                 :index 60
                 :task-level #x1
                 :master-level 'ctywide
-                :level-flags (level-flags lf0 not-physical ocean-near-translucent)
+                :level-flags (level-flags lf0 lf1 lf12)
                 :packages '("cty-destroy-gridp")
                 :run-packages '("common")
                 :memory-mode (level-memory-mode borrow4)
@@ -4246,7 +4244,7 @@
                    :index 61
                    :task-level #x1
                    :master-level 'ctywide
-                   :level-flags (level-flags lf0 not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf0 lf1 lf12)
                    :packages '("ctyport-attackp")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow4)
@@ -4280,7 +4278,7 @@
                    :index 62
                    :task-level #x1
                    :master-level 'ctywide
-                   :level-flags (level-flags lf0 not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf0 lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow4)
@@ -4314,7 +4312,7 @@
                    :index 63
                    :task-level #x1
                    :master-level 'ctywide
-                   :level-flags (level-flags lf0 not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf0 lf1 lf12)
                    :packages '("player-controlp" "bombbotp" "cty-port-assaultp")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow4)
@@ -4348,7 +4346,7 @@
                   :index 64
                   :task-level #x1
                   :master-level 'ctywide
-                  :level-flags (level-flags lf0 not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf0 lf1 lf12)
                   :packages '("bombbotp")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow3)
@@ -4382,7 +4380,7 @@
                    :index 65
                    :task-level #x1
                    :master-level 'ctywide
-                   :level-flags (level-flags lf0 not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf0 lf1 lf12)
                    :packages '("cty-destroy-dark-ecop")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow4)
@@ -4416,7 +4414,7 @@
                    :index 66
                    :task-level #x1
                    :master-level 'ctywide
-                   :level-flags (level-flags lf0 not-physical display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf0 lf1 lf11 lf12)
                    :packages '("cty-protect-hqp")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow4)
@@ -4450,7 +4448,7 @@
                    :index 67
                    :task-level #x1
                    :master-level 'ctywide
-                   :level-flags (level-flags lf0 not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf0 lf1 lf12)
                    :packages '("turretp-code" "cty-blow-towerp")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow4)
@@ -4484,7 +4482,7 @@
                    :index 68
                    :task-level #x1
                    :master-level 'ctywide
-                   :level-flags (level-flags lf0 not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf0 lf1 lf12)
                    :packages '("cty-sniper-fight")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow4)
@@ -4518,7 +4516,7 @@
                    :index 69
                    :task-level #x1
                    :master-level #f
-                   :level-flags (level-flags display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf11 lf12)
                    :packages '("onintent")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -4595,7 +4593,7 @@
                  :index 70
                  :task-level #x1
                  :master-level #f
-                 :level-flags (level-flags not-physical ocean-near-translucent)
+                 :level-flags (level-flags lf1 lf12)
                  :packages '("bbushp")
                  :run-packages '("common")
                  :memory-mode (level-memory-mode borrow)
@@ -4629,7 +4627,7 @@
                  :index 71
                  :task-level #x1
                  :master-level #f
-                 :level-flags (level-flags display-wait ocean-near-translucent)
+                 :level-flags (level-flags lf11 lf12)
                  :packages '("hiphog")
                  :run-packages '("common")
                  :memory-mode (level-memory-mode small-edge)
@@ -4725,7 +4723,7 @@
                    :taskname 'default
                    :index 72
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -4760,7 +4758,7 @@
                   :index 73
                   :task-level #x1
                   :master-level #f
-                  :level-flags (level-flags display-wait ocean-near-translucent)
+                  :level-flags (level-flags lf11 lf12)
                   :packages '("gungame")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -4878,7 +4876,7 @@
                    :index 74
                    :task-level #x1
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -4913,7 +4911,7 @@
                    :index 75
                    :task-level #x1
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -4948,7 +4946,7 @@
                   :index 76
                   :task-level #x7
                   :master-level #f
-                  :level-flags (level-flags not-physical sky display-wait ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf9 lf11 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -4983,7 +4981,7 @@
                  :index 77
                  :task-level #x1
                  :master-level #f
-                 :level-flags (level-flags sky ocean-near-translucent)
+                 :level-flags (level-flags lf9 lf12)
                  :packages '()
                  :run-packages '("common")
                  :memory-mode (level-memory-mode small-edge)
@@ -5119,7 +5117,7 @@
                    :index 78
                    :task-level #x1
                    :master-level #f
-                   :level-flags (level-flags not-physical sky ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf9 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-center)
@@ -5154,7 +5152,7 @@
                    :index 79
                    :task-level #x1
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -5189,7 +5187,7 @@
                    :index 80
                    :task-level #x1
                    :master-level #f
-                   :level-flags (level-flags not-physical sky ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf9 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -5224,7 +5222,7 @@
                   :index 81
                   :task-level #x1
                   :master-level 'ctywide
-                  :level-flags (level-flags lf0 sky display-wait ocean-near-translucent)
+                  :level-flags (level-flags lf0 lf9 lf11 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -5524,7 +5522,7 @@
                   :index 82
                   :task-level #x1
                   :master-level 'ctywide
-                  :level-flags (level-flags lf0 sky display-wait ocean-near-translucent)
+                  :level-flags (level-flags lf0 lf9 lf11 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -5704,7 +5702,7 @@
                    :index 83
                    :task-level #x1
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -5739,7 +5737,7 @@
                    :index 84
                    :task-level #x1
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -5774,7 +5772,7 @@
                 :index 85
                 :task-level #xc
                 :master-level #f
-                :level-flags (level-flags end-mode ocean-near-translucent)
+                :level-flags (level-flags lf7 lf12)
                 :packages '()
                 :run-packages '("common")
                 :memory-mode (level-memory-mode small-center)
@@ -5892,7 +5890,7 @@
                 :index 86
                 :task-level #xc
                 :master-level 'comba
-                :level-flags (level-flags ocean-near-translucent)
+                :level-flags (level-flags lf12)
                 :packages '()
                 :run-packages '("common")
                 :memory-mode (level-memory-mode small-edge)
@@ -5943,7 +5941,7 @@
                 :index 87
                 :task-level #xc
                 :master-level 'comba
-                :level-flags (level-flags display-wait ocean-near-translucent)
+                :level-flags (level-flags lf11 lf12)
                 :packages '()
                 :run-packages '("common")
                 :memory-mode (level-memory-mode small-edge)
@@ -5997,7 +5995,7 @@
                 :index 88
                 :task-level #xc
                 :master-level 'comba
-                :level-flags (level-flags display-wait ocean-near-translucent)
+                :level-flags (level-flags lf11 lf12)
                 :packages '()
                 :run-packages '("common")
                 :memory-mode (level-memory-mode small-edge)
@@ -6051,7 +6049,7 @@
                 :index 89
                 :task-level #xc
                 :master-level 'comba
-                :level-flags (level-flags display-wait ocean-near-translucent)
+                :level-flags (level-flags lf11 lf12)
                 :packages '()
                 :run-packages '("common")
                 :memory-mode (level-memory-mode small-edge)
@@ -6105,7 +6103,7 @@
                 :index 90
                 :task-level #xc
                 :master-level 'comba
-                :level-flags (level-flags display-wait ocean-near-translucent)
+                :level-flags (level-flags lf11 lf12)
                 :packages '()
                 :run-packages '("common")
                 :memory-mode (level-memory-mode small-edge)
@@ -6139,7 +6137,7 @@
                 :index 91
                 :task-level #xc
                 :master-level 'comba
-                :level-flags (level-flags display-wait ocean-near-translucent)
+                :level-flags (level-flags lf11 lf12)
                 :packages '()
                 :run-packages '("common")
                 :memory-mode (level-memory-mode small-edge)
@@ -6213,7 +6211,7 @@
                 :index 92
                 :task-level #xc
                 :master-level #f
-                :level-flags (level-flags display-wait ocean-near-translucent)
+                :level-flags (level-flags lf11 lf12)
                 :packages '("combx")
                 :run-packages '("common")
                 :memory-mode (level-memory-mode small-edge)
@@ -6247,7 +6245,7 @@
                 :index 93
                 :task-level #xc
                 :master-level #f
-                :level-flags (level-flags end-mode ocean-near-translucent)
+                :level-flags (level-flags lf7 lf12)
                 :packages '()
                 :run-packages '("common")
                 :memory-mode (level-memory-mode small-center)
@@ -6281,7 +6279,7 @@
                 :index 94
                 :task-level #xc
                 :master-level 'raila
-                :level-flags (level-flags display-wait ocean-near-translucent)
+                :level-flags (level-flags lf11 lf12)
                 :packages '()
                 :run-packages '("common")
                 :memory-mode (level-memory-mode small-edge)
@@ -6335,7 +6333,7 @@
                  :index 95
                  :task-level #xc
                  :master-level 'raila
-                 :level-flags (level-flags display-wait ocean-near-translucent)
+                 :level-flags (level-flags lf11 lf12)
                  :packages '()
                  :run-packages '("common")
                  :memory-mode (level-memory-mode small-edge)
@@ -6389,7 +6387,7 @@
                 :index 96
                 :task-level #xc
                 :master-level 'raila
-                :level-flags (level-flags display-wait ocean-near-translucent)
+                :level-flags (level-flags lf11 lf12)
                 :packages '()
                 :run-packages '("common")
                 :memory-mode (level-memory-mode small-edge)
@@ -6443,7 +6441,7 @@
                 :index 97
                 :task-level #xc
                 :master-level 'raila
-                :level-flags (level-flags display-wait ocean-near-translucent)
+                :level-flags (level-flags lf11 lf12)
                 :packages '()
                 :run-packages '("common")
                 :memory-mode (level-memory-mode small-edge)
@@ -6497,7 +6495,7 @@
                 :index 98
                 :task-level #xc
                 :master-level 'raila
-                :level-flags (level-flags display-wait ocean-near-translucent)
+                :level-flags (level-flags lf11 lf12)
                 :packages '()
                 :run-packages '("common")
                 :memory-mode (level-memory-mode small-edge)
@@ -6551,7 +6549,7 @@
                 :index 99
                 :task-level #xc
                 :master-level 'raila
-                :level-flags (level-flags display-wait ocean-near-translucent)
+                :level-flags (level-flags lf11 lf12)
                 :packages '()
                 :run-packages '("common")
                 :memory-mode (level-memory-mode small-edge)
@@ -6585,7 +6583,7 @@
                 :index 100
                 :task-level #xc
                 :master-level #f
-                :level-flags (level-flags display-wait ocean-near-translucent)
+                :level-flags (level-flags lf11 lf12)
                 :packages '()
                 :run-packages '("common")
                 :memory-mode (level-memory-mode small-edge)
@@ -6641,7 +6639,7 @@
                    :index #x65
                    :task-level #xf
                    :master-level #f
-                   :level-flags (level-flags sky ocean-near-translucent ocean-far)
+                   :level-flags (level-flags lf9 lf12 lf13)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -6676,7 +6674,7 @@
                   :index #x66
                   :task-level #xc
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-center)
@@ -6710,7 +6708,7 @@
                 :index #x67
                 :task-level #x5
                 :master-level #f
-                :level-flags (level-flags sky ocean-near-translucent)
+                :level-flags (level-flags lf9 lf12)
                 :packages '("elecgate")
                 :run-packages '("common")
                 :memory-mode (level-memory-mode small-edge)
@@ -6781,7 +6779,7 @@
                    :taskname 'default
                    :index #x68
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -6816,7 +6814,7 @@
                 :index #x69
                 :task-level #x5
                 :master-level 'minea
-                :level-flags (level-flags ocean-near-translucent)
+                :level-flags (level-flags lf12)
                 :packages '()
                 :run-packages '("common")
                 :memory-mode (level-memory-mode large)
@@ -6941,7 +6939,7 @@
                 :index #x6a
                 :task-level #x5
                 :master-level 'minea
-                :level-flags (level-flags sky ocean-near-translucent)
+                :level-flags (level-flags lf9 lf12)
                 :packages '("gruntp")
                 :run-packages '("common")
                 :memory-mode (level-memory-mode large)
@@ -7067,7 +7065,7 @@
                 :index #x6b
                 :task-level #x5
                 :master-level #f
-                :level-flags (level-flags ocean-near-translucent)
+                :level-flags (level-flags lf12)
                 :packages '()
                 :run-packages '("common")
                 :memory-mode (level-memory-mode large)
@@ -7156,7 +7154,7 @@
                 :index #x6c
                 :task-level #x5
                 :master-level #f
-                :level-flags (level-flags sky ocean-near-translucent)
+                :level-flags (level-flags lf9 lf12)
                 :packages '()
                 :run-packages '("common")
                 :memory-mode (level-memory-mode small-edge)
@@ -7229,7 +7227,7 @@
                :index #x6d
                :task-level #x2
                :master-level #f
-               :level-flags (level-flags display-wait ocean-near-translucent)
+               :level-flags (level-flags lf11 lf12)
                :packages '("elecgate" "guardp" "hoverp" "robo-hoverp" "roboguardp" "kg-gruntp" "sewa")
                :run-packages '("common")
                :memory-mode (level-memory-mode small-edge)
@@ -7344,7 +7342,7 @@
                :index #x6e
                :task-level #x2
                :master-level 'sewa
-               :level-flags (level-flags display-wait ocean-near-translucent)
+               :level-flags (level-flags lf11 lf12)
                :packages '()
                :run-packages '("common")
                :memory-mode (level-memory-mode small-edge)
@@ -7439,7 +7437,7 @@
                :index #x6f
                :task-level #x2
                :master-level 'sewa
-               :level-flags (level-flags display-wait ocean-near-translucent)
+               :level-flags (level-flags lf11 lf12)
                :packages '()
                :run-packages '("common")
                :memory-mode (level-memory-mode small-center)
@@ -7514,7 +7512,7 @@
                :index #x70
                :task-level #x2
                :master-level 'sewa
-               :level-flags (level-flags display-wait ocean-near-translucent)
+               :level-flags (level-flags lf11 lf12)
                :packages '("ladderp")
                :run-packages '("common")
                :memory-mode (level-memory-mode small-edge)
@@ -7589,7 +7587,7 @@
                :index #x71
                :task-level #x2
                :master-level 'sewa
-               :level-flags (level-flags display-wait ocean-near-translucent)
+               :level-flags (level-flags lf11 lf12)
                :packages '()
                :run-packages '("common")
                :memory-mode (level-memory-mode small-center)
@@ -7702,7 +7700,7 @@
                :index #x72
                :task-level #x2
                :master-level 'sewa
-               :level-flags (level-flags display-wait ocean-near-translucent)
+               :level-flags (level-flags lf11 lf12)
                :packages '()
                :run-packages '("common")
                :memory-mode (level-memory-mode small-edge)
@@ -7777,7 +7775,7 @@
                :index #x73
                :task-level #x2
                :master-level 'sewa
-               :level-flags (level-flags display-wait ocean-near-translucent)
+               :level-flags (level-flags lf11 lf12)
                :packages '()
                :run-packages '("common")
                :memory-mode (level-memory-mode small-center)
@@ -7852,7 +7850,7 @@
                :index #x74
                :task-level #x2
                :master-level 'sewa
-               :level-flags (level-flags display-wait ocean-near-translucent)
+               :level-flags (level-flags lf11 lf12)
                :packages '()
                :run-packages '("common")
                :memory-mode (level-memory-mode small-edge)
@@ -7927,7 +7925,7 @@
                :index #x75
                :task-level #x2
                :master-level 'sewa
-               :level-flags (level-flags display-wait ocean-near-translucent)
+               :level-flags (level-flags lf11 lf12)
                :packages '()
                :run-packages '("common")
                :memory-mode (level-memory-mode small-center)
@@ -7982,7 +7980,7 @@
                :index #x76
                :task-level #x2
                :master-level 'sewa
-               :level-flags (level-flags display-wait ocean-near-translucent)
+               :level-flags (level-flags lf11 lf12)
                :packages '()
                :run-packages '("common")
                :memory-mode (level-memory-mode small-edge)
@@ -8057,7 +8055,7 @@
                :index #x77
                :task-level #x2
                :master-level 'sewa
-               :level-flags (level-flags display-wait ocean-near-translucent)
+               :level-flags (level-flags lf11 lf12)
                :packages '()
                :run-packages '("common")
                :memory-mode (level-memory-mode small-edge)
@@ -8132,7 +8130,7 @@
                :index #x78
                :task-level #x2
                :master-level 'sewa
-               :level-flags (level-flags display-wait ocean-near-translucent)
+               :level-flags (level-flags lf11 lf12)
                :packages '()
                :run-packages '("common")
                :memory-mode (level-memory-mode small-edge)
@@ -8205,7 +8203,7 @@
                :index #x79
                :task-level #x2
                :master-level 'sewa
-               :level-flags (level-flags display-wait ocean-near-translucent)
+               :level-flags (level-flags lf11 lf12)
                :packages '()
                :run-packages '("common")
                :memory-mode (level-memory-mode small-center)
@@ -8298,7 +8296,7 @@
                :index #x7a
                :task-level #x2
                :master-level 'sewa
-               :level-flags (level-flags display-wait ocean-near-translucent)
+               :level-flags (level-flags lf11 lf12)
                :packages '()
                :run-packages '("common")
                :memory-mode (level-memory-mode small-edge)
@@ -8371,7 +8369,7 @@
                :index #x7b
                :task-level #x2
                :master-level 'sewa
-               :level-flags (level-flags display-wait ocean-near-translucent)
+               :level-flags (level-flags lf11 lf12)
                :packages '()
                :run-packages '("common")
                :memory-mode (level-memory-mode small-center)
@@ -8442,7 +8440,7 @@
                   :index #x7c
                   :task-level #x3
                   :master-level #f
-                  :level-flags (level-flags sky display-wait ocean-near-translucent)
+                  :level-flags (level-flags lf9 lf11 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -8494,7 +8492,7 @@
                   :index #x7d
                   :task-level #x3
                   :master-level #f
-                  :level-flags (level-flags sky display-wait ocean-near-translucent)
+                  :level-flags (level-flags lf9 lf11 lf12)
                   :packages '("foresta")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode large)
@@ -8723,7 +8721,7 @@
                    :index #x7e
                    :task-level #x3
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '("egg-spiderp")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -8758,7 +8756,7 @@
                    :index #x7f
                    :task-level #x3
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -8793,7 +8791,7 @@
                    :index #x80
                    :task-level #x3
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '("dp-bipedalp" "turretp-code" "turretp" "hoverp" "neo-waspp" "lformach")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -8828,7 +8826,7 @@
                   :index #x81
                   :task-level #x3
                   :master-level 'foresta
-                  :level-flags (level-flags sky ocean-near-translucent)
+                  :level-flags (level-flags lf9 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -8879,7 +8877,7 @@
                    :taskname 'default
                    :index #x82
                    :master-level #f
-                   :level-flags (level-flags sky display-wait ocean-near-translucent ocean-far)
+                   :level-flags (level-flags lf9 lf11 lf12 lf13)
                    :packages '("wasintro" "desert")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-center)
@@ -9016,7 +9014,7 @@
                    :index #x83
                    :task-level #x7
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -9055,7 +9053,7 @@
                    :index #x84
                    :task-level #x7
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -9090,7 +9088,7 @@
                    :index #x85
                    :task-level #x7
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -9125,7 +9123,7 @@
                  :index #x86
                  :task-level #x7
                  :master-level #f
-                 :level-flags (level-flags not-physical ocean-near-translucent)
+                 :level-flags (level-flags lf1 lf12)
                  :packages '("vehiclep" "wvehiclep" "desburning" "wasall")
                  :run-packages '("common")
                  :music-bank #f
@@ -9201,7 +9199,7 @@
                   :index #x87
                   :task-level #x7
                   :master-level 'wasall
-                  :level-flags (level-flags lf0 not-physical flut sky ocean-near-translucent)
+                  :level-flags (level-flags lf0 lf1 lf8 lf9 lf12)
                   :packages '("ladderp" "flutp" "nav-graphp" "cityp" "marketp" "waswide")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode city-tiny-edge)
@@ -9239,7 +9237,7 @@
                    :index #x88
                    :task-level #x7
                    :master-level 'waswide
-                   :level-flags (level-flags lf0 sky display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf0 lf9 lf11 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-center)
@@ -9534,7 +9532,7 @@
                    :taskname 'default
                    :index #x89
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -9569,7 +9567,7 @@
                    :index #x8a
                    :task-level #x7
                    :master-level 'waswide
-                   :level-flags (level-flags lf0 sky display-wait ocean-near-translucent ocean-far)
+                   :level-flags (level-flags lf0 lf9 lf11 lf12 lf13)
                    :packages '("turretp-code" "turretp" "wascityb")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -9963,7 +9961,7 @@
                   :index #x8b
                   :task-level #x7
                   :master-level #f
-                  :level-flags (level-flags not-physical title sky display-wait ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf5 lf9 lf11 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -9998,7 +9996,7 @@
                   :index #x8c
                   :task-level #x7
                   :master-level 'waswide
-                  :level-flags (level-flags lf0 sky display-wait ocean-near-translucent ocean-far)
+                  :level-flags (level-flags lf0 lf9 lf11 lf12 lf13)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-center)
@@ -10037,7 +10035,7 @@
                    :index #x8d
                    :task-level #x7
                    :master-level #f
-                   :level-flags (level-flags lf0 ocean-near-translucent ocean-far)
+                   :level-flags (level-flags lf0 lf12 lf13)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -10072,7 +10070,7 @@
                    :index #x8e
                    :task-level #x7
                    :master-level #f
-                   :level-flags (level-flags lf0 ocean-near-translucent)
+                   :level-flags (level-flags lf0 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -10107,7 +10105,7 @@
                   :index #x8f
                   :task-level #x7
                   :master-level #f
-                  :level-flags (level-flags lf0 ocean-near-translucent)
+                  :level-flags (level-flags lf0 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -10142,7 +10140,7 @@
                    :index #x90
                    :task-level #x7
                    :master-level #f
-                   :level-flags (level-flags lf0 ocean-near-translucent)
+                   :level-flags (level-flags lf0 lf12)
                    :packages '("racep" "wasleapr")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -10177,7 +10175,7 @@
                    :index #x91
                    :task-level #x7
                    :master-level 'wasall
-                   :level-flags (level-flags sky display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf9 lf11 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-edge)
@@ -10495,7 +10493,7 @@
                    :index #x92
                    :task-level #x8
                    :master-level #f
-                   :level-flags (level-flags not-physical sky ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf9 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -10534,7 +10532,7 @@
                    :index #x93
                    :task-level #x8
                    :master-level #f
-                   :level-flags (level-flags not-physical sky ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf9 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-edge)
@@ -10568,7 +10566,7 @@
                  :taskname 'default
                  :index #x94
                  :master-level #f
-                 :level-flags (level-flags not-physical ocean-near-translucent)
+                 :level-flags (level-flags lf1 lf12)
                  :packages '()
                  :run-packages '("common")
                  :memory-mode (level-memory-mode borrow)
@@ -10602,7 +10600,7 @@
                   :taskname 'default
                   :index #x95
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -10636,7 +10634,7 @@
                   :taskname 'default
                   :index #x96
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -10671,7 +10669,7 @@
                    :index #x97
                    :task-level #x8
                    :master-level #f
-                   :level-flags (level-flags lf0 sky display-wait ocean-near-translucent ocean-far)
+                   :level-flags (level-flags lf0 lf9 lf11 lf12 lf13)
                    :packages '("wasstada")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -11009,7 +11007,7 @@
                    :index #x98
                    :task-level #x8
                    :master-level 'wasstada
-                   :level-flags (level-flags ocean-near-translucent ocean-far)
+                   :level-flags (level-flags lf12 lf13)
                    :packages '("wasstadb")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -11044,7 +11042,7 @@
                    :index #x99
                    :task-level #x8
                    :master-level 'wasstada
-                   :level-flags (level-flags ocean-near-translucent ocean-far)
+                   :level-flags (level-flags lf12 lf13)
                    :packages '("marauderp" "wasstadc")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -11079,7 +11077,7 @@
                    :index #x9a
                    :task-level #x8
                    :master-level 'wasstada
-                   :level-flags (level-flags not-physical sky ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf9 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -11113,7 +11111,7 @@
                  :taskname 'default
                  :index #x9b
                  :master-level #f
-                 :level-flags (level-flags not-physical ocean-near-translucent)
+                 :level-flags (level-flags lf1 lf12)
                  :packages '()
                  :run-packages '("common")
                  :memory-mode (level-memory-mode small-edge)
@@ -11147,7 +11145,7 @@
                   :taskname 'default
                   :index #x9c
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-center)
@@ -11181,7 +11179,7 @@
                   :taskname 'default
                   :index #x9d
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -11215,7 +11213,7 @@
                    :taskname 'default
                    :index #x9e
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-center)
@@ -11249,7 +11247,7 @@
                   :taskname 'default
                   :index #x9f
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -11283,7 +11281,7 @@
                    :taskname 'default
                    :index #xa0
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-center)
@@ -11318,7 +11316,7 @@
                :index #xa1
                :task-level #x8
                :master-level #f
-               :level-flags (level-flags not-physical sky ocean-near-translucent)
+               :level-flags (level-flags lf1 lf9 lf12)
                :packages '()
                :run-packages '("common")
                :memory-mode (level-memory-mode small-edge)
@@ -11352,7 +11350,7 @@
                    :taskname 'default
                    :index #xa2
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -11386,7 +11384,7 @@
                    :taskname 'default
                    :index #xa3
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -11420,7 +11418,7 @@
                   :taskname 'default
                   :index #xa4
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -11454,7 +11452,7 @@
                    :taskname 'default
                    :index #xa5
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -11488,7 +11486,7 @@
                    :taskname 'default
                    :index #xa6
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -11522,7 +11520,7 @@
                :taskname 'default
                :index #xa7
                :master-level #f
-               :level-flags (level-flags not-physical ocean-near-translucent)
+               :level-flags (level-flags lf1 lf12)
                :packages '()
                :run-packages '("common")
                :memory-mode (level-memory-mode borrow)
@@ -11556,7 +11554,7 @@
                   :taskname 'default
                   :index #xa8
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -11590,7 +11588,7 @@
                    :taskname 'default
                    :index #xa9
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -11624,7 +11622,7 @@
                    :taskname 'default
                    :index #xaa
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -11658,7 +11656,7 @@
                 :taskname 'default
                 :index #xab
                 :master-level #f
-                :level-flags (level-flags not-physical ocean-near-translucent)
+                :level-flags (level-flags lf1 lf12)
                 :packages '()
                 :run-packages '("common")
                 :memory-mode (level-memory-mode borrow)
@@ -11692,7 +11690,7 @@
                    :taskname 'default
                    :index #xac
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -11726,7 +11724,7 @@
                  :taskname 'default
                  :index #xad
                  :master-level #f
-                 :level-flags (level-flags not-physical ocean-near-translucent)
+                 :level-flags (level-flags lf1 lf12)
                  :packages '()
                  :run-packages '("common")
                  :memory-mode (level-memory-mode borrow)
@@ -11760,7 +11758,7 @@
                    :taskname 'default
                    :index #xae
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -11794,7 +11792,7 @@
                    :taskname 'default
                    :index #xaf
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -11828,7 +11826,7 @@
                    :taskname 'default
                    :index #xb0
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -11862,7 +11860,7 @@
                    :taskname 'default
                    :index #xb1
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -11896,7 +11894,7 @@
                :taskname 'default
                :index #xb2
                :master-level #f
-               :level-flags (level-flags not-physical ocean-near-translucent)
+               :level-flags (level-flags lf1 lf12)
                :packages '()
                :run-packages '("common")
                :memory-mode (level-memory-mode borrow)
@@ -11930,7 +11928,7 @@
                    :taskname 'default
                    :index #xb3
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -11964,7 +11962,7 @@
                   :taskname 'default
                   :index #xb4
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -11998,7 +11996,7 @@
                   :taskname 'default
                   :index #xb5
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -12032,7 +12030,7 @@
                    :taskname 'default
                    :index #xb6
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -12066,7 +12064,7 @@
                 :taskname 'default
                 :index #xb7
                 :master-level #f
-                :level-flags (level-flags not-physical ocean-near-translucent)
+                :level-flags (level-flags lf1 lf12)
                 :packages '()
                 :run-packages '("common")
                 :memory-mode (level-memory-mode borrow)
@@ -12100,7 +12098,7 @@
                  :taskname 'default
                  :index #xb8
                  :master-level #f
-                 :level-flags (level-flags not-physical ocean-near-translucent)
+                 :level-flags (level-flags lf1 lf12)
                  :packages '()
                  :run-packages '("common")
                  :memory-mode (level-memory-mode borrow)
@@ -12134,7 +12132,7 @@
                    :taskname 'default
                    :index #xb9
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -12168,7 +12166,7 @@
                    :taskname 'default
                    :index #xba
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -12202,7 +12200,7 @@
                    :taskname 'default
                    :index #xbb
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -12236,7 +12234,7 @@
                   :taskname 'default
                   :index #xbc
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -12270,7 +12268,7 @@
                    :taskname 'default
                    :index #xbd
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -12304,7 +12302,7 @@
                    :taskname 'default
                    :index #xbe
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -12338,7 +12336,7 @@
                  :taskname 'default
                  :index #xbf
                  :master-level #f
-                 :level-flags (level-flags not-physical ocean-near-translucent)
+                 :level-flags (level-flags lf1 lf12)
                  :packages '()
                  :run-packages '("common")
                  :memory-mode (level-memory-mode borrow)
@@ -12372,7 +12370,7 @@
                 :taskname 'default
                 :index #xc0
                 :master-level #f
-                :level-flags (level-flags not-physical ocean-near-translucent mech)
+                :level-flags (level-flags lf1 lf12 lf16)
                 :packages '("mechp")
                 :run-packages '("common")
                 :memory-mode (level-memory-mode borrow)
@@ -12406,7 +12404,7 @@
                   :taskname 'default
                   :index #xc1
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -12440,7 +12438,7 @@
                    :taskname 'default
                    :index #xc2
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -12474,7 +12472,7 @@
                   :taskname 'default
                   :index #xc3
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -12509,7 +12507,7 @@
                    :index #xc4
                    :task-level #x7
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -12544,7 +12542,7 @@
                   :index #xc5
                   :task-level #x7
                   :master-level 'waswide
-                  :level-flags (level-flags sky display-wait ocean-near-translucent ocean-far ocean-all)
+                  :level-flags (level-flags lf9 lf11 lf12 lf13 lf20)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -12700,7 +12698,7 @@
                    :taskname 'default
                    :index #xc6
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -12734,7 +12732,7 @@
                   :taskname 'default
                   :index #xc7
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -12769,7 +12767,7 @@
                  :index #xc8
                  :task-level #x6
                  :master-level 'wasall
-                 :level-flags (level-flags sky ocean-near-translucent ocean-far desert)
+                 :level-flags (level-flags lf9 lf12 lf13 desert)
                  :packages '("dust-stormp" "desert")
                  :run-packages '("common")
                  :memory-mode (level-memory-mode tiny-center-small)
@@ -14242,7 +14240,7 @@
                    :index #xc9
                    :task-level #x6
                    :master-level #f
-                   :level-flags (level-flags not-physical sky ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf9 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-edge)
@@ -14277,7 +14275,7 @@
                   :index #xca
                   :task-level #x6
                   :master-level 'desert
-                  :level-flags (level-flags not-physical sky ocean-near-translucent desert)
+                  :level-flags (level-flags lf1 lf9 lf12 desert)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode tiny-edge)
@@ -14331,7 +14329,7 @@
                   :index #xcb
                   :task-level #x6
                   :master-level #f
-                  :level-flags (level-flags not-physical borrow-load sky ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf6 lf9 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode tiny-edge)
@@ -14366,7 +14364,7 @@
                    :index #xcc
                    :task-level #x6
                    :master-level #f
-                   :level-flags (level-flags not-physical sky display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf9 lf11 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-edge)
@@ -14401,7 +14399,7 @@
                   :index #xcd
                   :task-level #x6
                   :master-level 'desert
-                  :level-flags (level-flags not-physical sky ocean-near-translucent desert)
+                  :level-flags (level-flags lf1 lf9 lf12 desert)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode tiny-edge)
@@ -14655,7 +14653,7 @@
                   :index #xce
                   :task-level #x6
                   :master-level 'desert
-                  :level-flags (level-flags not-physical sky ocean-near-translucent desert)
+                  :level-flags (level-flags lf1 lf9 lf12 desert)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode tiny-edge)
@@ -14709,7 +14707,7 @@
                   :index #xcf
                   :task-level #x6
                   :master-level 'desert
-                  :level-flags (level-flags not-physical sky ocean-near-translucent desert)
+                  :level-flags (level-flags lf1 lf9 lf12 desert)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode tiny-edge)
@@ -14763,7 +14761,7 @@
                   :index #xd0
                   :task-level #x6
                   :master-level 'desert
-                  :level-flags (level-flags not-physical sky ocean-near-translucent desert)
+                  :level-flags (level-flags lf1 lf9 lf12 desert)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode tiny-edge)
@@ -14821,7 +14819,7 @@
                   :index #xd1
                   :task-level #x6
                   :master-level 'desert
-                  :level-flags (level-flags not-physical sky ocean-near-translucent desert)
+                  :level-flags (level-flags lf1 lf9 lf12 desert)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode tiny-edge)
@@ -14935,7 +14933,7 @@
                   :index #xd2
                   :task-level #x6
                   :master-level 'desert
-                  :level-flags (level-flags sky ocean-near-translucent desert)
+                  :level-flags (level-flags lf9 lf12 desert)
                   :packages '("elecgate" "desertg")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode tiny-edge)
@@ -15109,7 +15107,7 @@
                    :index #xd3
                    :task-level #x6
                    :master-level #f
-                   :level-flags (level-flags not-physical sky ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf9 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -15144,7 +15142,7 @@
                   :index #xd4
                   :task-level #x6
                   :master-level 'desert
-                  :level-flags (level-flags not-physical sky ocean-near-translucent desert)
+                  :level-flags (level-flags lf1 lf9 lf12 desert)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode tiny-edge)
@@ -15198,7 +15196,7 @@
                   :index #xd5
                   :task-level #x6
                   :master-level 'desert
-                  :level-flags (level-flags not-physical sky ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf9 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode tiny-edge)
@@ -15252,7 +15250,7 @@
     :index #xd6
     :task-level #x6
     :master-level #f
-    :level-flags (level-flags not-physical sky display-wait ocean-near-translucent)
+    :level-flags (level-flags lf1 lf9 lf11 lf12)
     :packages '()
     :run-packages '("common")
     :memory-mode (level-memory-mode alias)
@@ -15287,7 +15285,7 @@
                    :index #xd7
                    :task-level #x6
                    :master-level 'desert
-                   :level-flags (level-flags not-physical sky ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf9 lf12)
                    :packages '("desrace")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -15322,7 +15320,7 @@
                    :index #xd8
                    :task-level #x6
                    :master-level 'desert
-                   :level-flags (level-flags not-physical borrow-load sky ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf6 lf9 lf12)
                    :packages '("desboss1")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -15357,7 +15355,7 @@
                    :index #xd9
                    :task-level #x6
                    :master-level #f
-                   :level-flags (level-flags not-physical borrow-load sky ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf6 lf9 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -15392,7 +15390,7 @@
                    :index #xda
                    :task-level #x6
                    :master-level 'desert
-                   :level-flags (level-flags not-physical sky ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf9 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -15427,7 +15425,7 @@
                    :index #xdb
                    :task-level #x6
                    :master-level 'desert
-                   :level-flags (level-flags not-physical borrow-load sky ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf6 lf9 lf12)
                    :packages '("course-racep")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -15462,7 +15460,7 @@
                    :index #xdc
                    :task-level #x6
                    :master-level 'desert
-                   :level-flags (level-flags not-physical sky ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf9 lf12)
                    :packages '("course-racep")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -15537,7 +15535,7 @@
                    :index #xdd
                    :task-level #x6
                    :master-level 'desert
-                   :level-flags (level-flags not-physical borrow-load sky ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf6 lf9 lf12)
                    :packages '("deshover")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -15592,7 +15590,7 @@
                   :index #xde
                   :task-level #x6
                   :master-level 'desert
-                  :level-flags (level-flags not-physical sky ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf9 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode tiny-center-micro)
@@ -15627,7 +15625,7 @@
                  :index #xdf
                  :task-level #x6
                  :master-level 'desert
-                 :level-flags (level-flags not-physical borrow-load flut sky ocean-near-translucent)
+                 :level-flags (level-flags lf1 lf6 lf8 lf9 lf12)
                  :packages '("flutp" "desliz")
                  :run-packages '("common")
                  :memory-mode (level-memory-mode tiny-center-micro)
@@ -15662,7 +15660,7 @@
                   :index #xe0
                   :task-level #x6
                   :master-level 'desert
-                  :level-flags (level-flags not-physical sky ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf9 lf12)
                   :packages '("cityp" "desert-rescuep")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode tiny-center-micro)
@@ -15760,7 +15758,7 @@
                    :index #xe1
                    :task-level #x6
                    :master-level 'desresc
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -15795,7 +15793,7 @@
                    :index #xe2
                    :task-level #x6
                    :master-level 'desresc
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -15830,7 +15828,7 @@
                    :index #xe3
                    :task-level #x6
                    :master-level 'desert
-                   :level-flags (level-flags not-physical sky ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf9 lf12)
                    :packages '("botp" "ashelinp" "marauderp" "desoasis")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -15945,7 +15943,7 @@
                    :index #xe4
                    :task-level #x6
                    :master-level 'desert
-                   :level-flags (level-flags not-physical sky ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf9 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-edge)
@@ -15980,7 +15978,7 @@
                   :index #xe5
                   :task-level #x6
                   :master-level 'desert
-                  :level-flags (level-flags not-physical sky ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf9 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode tiny-center-micro)
@@ -16015,7 +16013,7 @@
                    :index #xe6
                    :task-level #x6
                    :master-level 'desert
-                   :level-flags (level-flags not-physical sky ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf9 lf12)
                    :packages '("marauderp" "player-controlp" "desjump" "deschase")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -16050,7 +16048,7 @@
                    :index #xe7
                    :task-level #x6
                    :master-level 'desert
-                   :level-flags (level-flags not-physical sky ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf9 lf12)
                    :packages '("turretp-code" "turretp" "desbattl")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -16085,7 +16083,7 @@
                   :index #xe8
                   :task-level #x7
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '("nst-eggsp")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -16120,7 +16118,7 @@
                   :index #xe9
                   :task-level #x7
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -16155,7 +16153,7 @@
                   :index #xea
                   :task-level #x7
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode tiny-edge)
@@ -16190,7 +16188,7 @@
                    :index #xeb
                    :task-level #x6
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '("desbush")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -16225,7 +16223,7 @@
                    :index #xec
                    :task-level #x6
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '("desbush")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -16260,7 +16258,7 @@
                    :index #xed
                    :task-level #x7
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '("desbush")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -16295,7 +16293,7 @@
                    :index #xee
                    :task-level #x7
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '("desbush")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -16330,7 +16328,7 @@
                    :index #xef
                    :task-level #x1
                    :master-level 'ctywide
-                   :level-flags (level-flags lf0 not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf0 lf1 lf12)
                    :packages '("desbush")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow4)
@@ -16365,7 +16363,7 @@
                    :index #xf0
                    :task-level #x1
                    :master-level 'ctywide
-                   :level-flags (level-flags lf0 not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf0 lf1 lf12)
                    :packages '("desbush")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow4)
@@ -16400,7 +16398,7 @@
                    :index #xf1
                    :task-level #x6
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '("desbush")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -16435,7 +16433,7 @@
                    :index #xf2
                    :task-level #x6
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '("timer-path-data")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -16470,7 +16468,7 @@
                    :index #xf3
                    :task-level #x7
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '("timer-path-data")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -16505,7 +16503,7 @@
                    :index #xf4
                    :task-level #x1
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '("timer-path-data")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -16540,7 +16538,7 @@
                   :index #xf5
                   :task-level #x6
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '("desbush" "egg-spiderp")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode tiny-center-micro)
@@ -16575,7 +16573,7 @@
                    :index #xf6
                    :task-level #x6
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '("desbush")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -16610,7 +16608,7 @@
                    :index #xf7
                    :task-level #x7
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '("desbush")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -16645,7 +16643,7 @@
                    :index #xf8
                    :task-level #x1
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '("desbush")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -16680,7 +16678,7 @@
                    :index #xf9
                    :task-level #x6
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '("desbush")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -16715,7 +16713,7 @@
                    :index #xfa
                    :task-level #x7
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '("desbush")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -16750,7 +16748,7 @@
                    :index #xfb
                    :task-level #x1
                    :master-level #f
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '("desbush")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode tiny-center-micro)
@@ -16785,7 +16783,7 @@
                :index #xfc
                :task-level #x4
                :master-level #f
-               :level-flags (level-flags display-wait ocean-near-translucent)
+               :level-flags (level-flags lf11 lf12)
                :packages '()
                :run-packages '("common")
                :memory-mode (level-memory-mode tiny-edge)
@@ -16899,7 +16897,7 @@
                :index #xfd
                :task-level #x4
                :master-level 'nsta
-               :level-flags (level-flags display-wait ocean-near-translucent)
+               :level-flags (level-flags lf11 lf12)
                :packages '()
                :run-packages '("common")
                :memory-mode (level-memory-mode large)
@@ -17037,7 +17035,7 @@
                   :index #xfe
                   :task-level #x4
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -17072,7 +17070,7 @@
                   :index #xff
                   :task-level #x4
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -17107,7 +17105,7 @@
                   :index #x100
                   :task-level #x4
                   :master-level #f
-                  :level-flags (level-flags not-physical ocean-near-translucent)
+                  :level-flags (level-flags lf1 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -17142,7 +17140,7 @@
                   :index #x101
                   :task-level #xb
                   :master-level #f
-                  :level-flags (level-flags sky display-wait ocean-near-translucent ocean-far)
+                  :level-flags (level-flags lf9 lf11 lf12 lf13)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode tiny-edge)
@@ -17376,7 +17374,7 @@
                   :index #x102
                   :task-level #xb
                   :master-level #f
-                  :level-flags (level-flags display-wait ocean-near-translucent check-taskname-for-continue)
+                  :level-flags (level-flags lf11 lf12 lf18)
                   :packages '("hoverp" "templea")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-center)
@@ -17541,7 +17539,7 @@
                   :index #x103
                   :task-level #xb
                   :master-level 'templea
-                  :level-flags (level-flags display-wait ocean-near-translucent check-taskname-for-continue)
+                  :level-flags (level-flags lf11 lf12 lf18)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -17949,7 +17947,7 @@
                   :index #x104
                   :task-level #xb
                   :master-level 'templea
-                  :level-flags (level-flags display-wait ocean-near-translucent check-taskname-for-continue)
+                  :level-flags (level-flags lf11 lf12 lf18)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -18044,7 +18042,7 @@
                   :index #x105
                   :task-level #xb
                   :master-level 'templea
-                  :level-flags (level-flags sky display-wait ocean-near-translucent check-taskname-for-continue)
+                  :level-flags (level-flags lf9 lf11 lf12 lf18)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -18219,7 +18217,7 @@
                   :index #x106
                   :task-level #xb
                   :master-level 'templea
-                  :level-flags (level-flags sky display-wait ocean-near-translucent check-taskname-for-continue)
+                  :level-flags (level-flags lf9 lf11 lf12 lf18)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -18254,7 +18252,7 @@
                 :index #x107
                 :task-level #xa
                 :master-level #f
-                :level-flags (level-flags end-mode sky ocean-near-translucent ocean-far low-res-hfrag)
+                :level-flags (level-flags lf7 lf9 lf12 lf13 low-res-hfrag)
                 :packages '("vehiclep" "nav-graphp" "hvehiclep" "hanga")
                 :run-packages '("common")
                 :memory-mode (level-memory-mode small-edge)
@@ -18334,7 +18332,7 @@
                 :index #x108
                 :task-level #xa
                 :master-level 'hanga
-                :level-flags (level-flags not-physical sky ocean-near-translucent low-res-hfrag)
+                :level-flags (level-flags lf1 lf9 lf12 low-res-hfrag)
                 :packages '()
                 :run-packages '("common")
                 :memory-mode (level-memory-mode small-center)
@@ -18368,7 +18366,7 @@
                    :index #x109
                    :task-level #xa
                    :master-level #f
-                   :level-flags (level-flags sky display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf9 lf11 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -18459,7 +18457,7 @@
     :task-level #xa
     :part-engine-max #x10
     :master-level #f
-    :level-flags (level-flags flut sky display-wait ocean-near-translucent)
+    :level-flags (level-flags lf8 lf9 lf11 lf12)
     :packages '("ladderp" "flutp" "tubep" "indaxp" "volcanoa")
     :run-packages '("common")
     :memory-mode (level-memory-mode large)
@@ -18817,7 +18815,7 @@
                    :index #x10b
                    :task-level #x9
                    :master-level #f
-                   :level-flags (level-flags sky display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf9 lf11 lf12)
                    :packages '("factorya")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -18907,7 +18905,7 @@
                    :index #x10c
                    :task-level #x9
                    :master-level 'factorya
-                   :level-flags (level-flags end-mode ocean-near-translucent)
+                   :level-flags (level-flags lf7 lf12)
                    :packages '("vehiclep" "nav-graphp" "hvehiclep" "wvehiclep" "lfactory")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -18941,7 +18939,7 @@
                   :index #x10d
                   :task-level #x9
                   :master-level 'factorya
-                  :level-flags (level-flags end-mode ocean-near-translucent)
+                  :level-flags (level-flags lf7 lf12)
                   :packages '("vehiclep" "wvehiclep" "lfaccar")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -18976,7 +18974,7 @@
                   :index #x10e
                   :task-level #x9
                   :master-level #f
-                  :level-flags (level-flags ocean-near-translucent)
+                  :level-flags (level-flags lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -19030,7 +19028,7 @@
                   :index #x10f
                   :task-level #x9
                   :master-level #f
-                  :level-flags (level-flags ocean-near-translucent)
+                  :level-flags (level-flags lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -19082,7 +19080,7 @@
                    :index #x110
                    :task-level #x9
                    :master-level 'factorya
-                   :level-flags (level-flags use-camera-other ocean-near-translucent ocean-far)
+                   :level-flags (level-flags use-camera-other lf12 lf13)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -19116,7 +19114,7 @@
                    :index #x111
                    :task-level #x9
                    :master-level 'factorya
-                   :level-flags (level-flags use-camera-other ocean-near-translucent ocean-far)
+                   :level-flags (level-flags use-camera-other lf12 lf13)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -19151,7 +19149,7 @@
                    :index #x112
                    :task-level #x9
                    :master-level 'factorya
-                   :level-flags (level-flags sky display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf9 lf11 lf12)
                    :packages '("factoryb")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode large)
@@ -19208,7 +19206,7 @@
     :index #x113
     :task-level #x9
     :master-level 'factorya
-    :level-flags (level-flags sky display-wait ocean-near-translucent)
+    :level-flags (level-flags lf9 lf11 lf12)
     :packages '("factoryc" "indaxp")
     :run-packages '("common")
     :memory-mode (level-memory-mode large)
@@ -19584,7 +19582,7 @@
                    :index #x114
                    :task-level #x9
                    :master-level 'factorya
-                   :level-flags (level-flags sky ocean-near-translucent)
+                   :level-flags (level-flags lf9 lf12)
                    :packages '("roboguardp" "bombbotp" "hoverp" "neo-waspp" "factory-boss")
                    :run-packages '("common")
                    :memory-mode (level-memory-mode large)
@@ -19673,7 +19671,7 @@
                   :index #x115
                   :task-level #x9
                   :master-level 'factoryd
-                  :level-flags (level-flags ocean-near-translucent)
+                  :level-flags (level-flags lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode borrow)
@@ -19707,7 +19705,7 @@
                   :index #x116
                   :task-level #x9
                   :master-level #f
-                  :level-flags (level-flags sky display-wait ocean-near-translucent)
+                  :level-flags (level-flags lf9 lf11 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode medium)
@@ -19758,7 +19756,7 @@
                   :index #x117
                   :task-level #xf
                   :master-level #f
-                  :level-flags (level-flags sky ocean-near-translucent)
+                  :level-flags (level-flags lf9 lf12)
                   :packages '("precura" "dp-bipedalp" "neo-waspp")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -19873,7 +19871,7 @@
                   :index #x118
                   :task-level #xf
                   :master-level 'precura
-                  :level-flags (level-flags sky ocean-near-translucent)
+                  :level-flags (level-flags lf9 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -19907,7 +19905,7 @@
                   :index #x119
                   :task-level #xf
                   :master-level #f
-                  :level-flags (level-flags sky ocean-near-translucent)
+                  :level-flags (level-flags lf9 lf12)
                   :packages '("tubep" "precurc")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -19999,7 +19997,7 @@
                    :index #x11a
                    :task-level #xf
                    :master-level 'precura
-                   :level-flags (level-flags not-physical ocean-near-translucent)
+                   :level-flags (level-flags lf1 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode borrow)
@@ -20033,7 +20031,7 @@
                   :index #x11b
                   :task-level #xf
                   :master-level #f
-                  :level-flags (level-flags sky ocean-near-translucent)
+                  :level-flags (level-flags lf9 lf12)
                   :packages '("precurd")
                   :run-packages '("common")
                   :memory-mode (level-memory-mode large)
@@ -20119,7 +20117,7 @@
                     :taskname 'default
                     :index #x11c
                     :master-level #f
-                    :level-flags (level-flags sky display-wait ocean-near-translucent)
+                    :level-flags (level-flags lf9 lf11 lf12)
                     :packages '()
                     :run-packages '("common")
                     :memory-mode (level-memory-mode small-edge)
@@ -20170,7 +20168,7 @@
                    :index #x11d
                    :part-engine-max #x1
                    :master-level #f
-                   :level-flags (level-flags sky display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf9 lf11 lf12)
                    :packages '()
                    :run-packages '()
                    :memory-mode (level-memory-mode medium)
@@ -20221,7 +20219,7 @@
                   :taskname 'default
                   :index #x11e
                   :master-level #f
-                  :level-flags (level-flags sky display-wait ocean-near-translucent)
+                  :level-flags (level-flags lf9 lf11 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode small-edge)
@@ -20272,7 +20270,7 @@
                   :taskname 'default
                   :index #x11f
                   :master-level #f
-                  :level-flags (level-flags sky display-wait ocean-near-translucent)
+                  :level-flags (level-flags lf9 lf11 lf12)
                   :packages '()
                   :run-packages '("common")
                   :memory-mode (level-memory-mode medium)
@@ -20306,7 +20304,7 @@
                :taskname 'default
                :index #x120
                :master-level #f
-               :level-flags (level-flags sky display-wait ocean-near-translucent)
+               :level-flags (level-flags lf9 lf11 lf12)
                :packages '()
                :run-packages '("common")
                :memory-mode (level-memory-mode medium)
@@ -20340,7 +20338,7 @@
                    :taskname 'default
                    :index #x121
                    :master-level #f
-                   :level-flags (level-flags display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf11 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode medium)
@@ -20374,7 +20372,7 @@
                    :taskname 'default
                    :index #x122
                    :master-level #f
-                   :level-flags (level-flags sky display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf9 lf11 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode medium)
@@ -20408,7 +20406,7 @@
                    :taskname 'default
                    :index #x123
                    :master-level #f
-                   :level-flags (level-flags sky display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf9 lf11 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode medium)
@@ -20460,7 +20458,7 @@
                    :index #x124
                    :task-level #x1
                    :master-level #f
-                   :level-flags (level-flags lf0 sky display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf0 lf9 lf11 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode medium)
@@ -20493,7 +20491,7 @@
                    :taskname 'default
                    :index #x125
                    :master-level #f
-                   :level-flags (level-flags sky display-wait ocean-near-translucent)
+                   :level-flags (level-flags lf9 lf11 lf12)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode small-edge)
@@ -20544,7 +20542,7 @@
                    :taskname 'default
                    :index #x126
                    :master-level #f
-                   :level-flags (level-flags sky display-wait ocean-near-translucent ocean-far)
+                   :level-flags (level-flags lf9 lf11 lf12 lf13)
                    :packages '()
                    :run-packages '("common")
                    :memory-mode (level-memory-mode large)
@@ -20612,7 +20610,7 @@
                :taskname 'default
                :index #x127
                :master-level #f
-               :level-flags (level-flags flut sky display-wait ocean-near-translucent)
+               :level-flags (level-flags lf8 lf9 lf11 lf12)
                :packages '()
                :run-packages '("common")
                :memory-mode (level-memory-mode large)

@@ -5,8 +5,6 @@
 #include "common/cross_sockets/XSocket.h"
 #include "common/log/log.h"
 
-#include "fmt/core.h"
-
 // clang-format off
 #ifdef _WIN32
 #define NOMINMAX
@@ -15,7 +13,9 @@
 #include <WinSock2.h>
 #include <WS2tcpip.h>
 #endif
+#include "common/repl/nrepl/ReplServer.h"
 
+#include "fmt/core.h"
 // clang-format on
 
 XSocketClient::XSocketClient(int _tcp_port) {

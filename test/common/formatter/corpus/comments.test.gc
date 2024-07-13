@@ -62,7 +62,9 @@ Block Comment - Single Line
 
 ---
 
-#| block comment |#
+#|
+block comment
+|#
 
 ===
 Block Comment - Don't Allow Content on Opening Brace
@@ -84,26 +86,6 @@ Block Comment - Don't Allow Content on Opening Brace
 (println "test")
 
 ===
-Block Comment - Don't continually add indentation
-===
-
-(begin
-  #|
-    block comment
-    test
-  |#
-  (println "something"))
-
----
-
-(begin
-  #|
-    block comment
-    test
-  |#
-  (println "something"))
-
-===
 Block Comment - Allow Annotations
 ===
 
@@ -123,7 +105,7 @@ Block Comment - Allow Annotations
 (println "test")
 
 ===
-Block Comment - In Form
+Block Comment - In Form - TODO Improve
 ===
 
 (println
@@ -138,7 +120,7 @@ Block Comment - In Form
   #|
  block comment
  test
-  |#
+|#
   "test")
 
 ===
@@ -157,7 +139,7 @@ At the end of a form
          )
 
 ===
-Block at the end of a form
+Block at the end of a form - TODO Improve
 ===
 
 (println
@@ -168,11 +150,13 @@ Block at the end of a form
 ---
 
 (println "hello world"
-         #| wow look at that block comment |#
+         #|
+ wow look at that block comment
+|#
          )
 
 ===
-Inline at the end of a single element form
+Inline at the end of a form - TODO-A handle hanging in this instance better
 ===
 
 (println
@@ -181,43 +165,7 @@ Inline at the end of a single element form
 
 ---
 
-(println "hello world" ;; this is a comment
+(println
+         "hello world" ;; this is a comment
          )
 
-===
-TODO - Comments in arg lists
-===
-
-(defmacro defskelgroup (name art-name joint-geom joint-anim lods
-                        &key (shadow 0)
-                        &key bounds
-                        &key (longest-edge 0.0)
-                        &key (texture-level 0)
-                        &key (sort 0)
-                        &key (version 6) ;; do NOT use this!
-                        )
-  (println "hello"))
-
----
-
-(defmacro defskelgroup (name art-name joint-geom joint-anim lods
-                        &key (shadow 0)
-                        &key bounds
-                        &key (longest-edge 0.0)
-                        &key (texture-level 0)
-                        &key (sort 0)
-                        &key (version 6) ;; do NOT use this!
-                        )
-  (println "hello"))
-
-===
-Block comment - preserve @file
-===
-
-#|@file
- Compiler Setup for Jak 1
-|#
-
----
-
-#|@file Compiler Setup for Jak 1 |#

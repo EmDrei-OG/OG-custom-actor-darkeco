@@ -23,10 +23,6 @@
   // run the first pass of the decompiler
   "find_functions": true,
 
-  // will attempt to run the decompiled output through the OpenGOAL formatter
-  // this will be skipped in offline tests
-  "format_code": true,
-
   ////////////////////////////
   // DATA ANALYSIS OPTIONS
   ////////////////////////////
@@ -193,7 +189,7 @@
     "pal": {
       "game_name": "jak1_pal",
       "expected_elf_name": "SCES_503.61",
-      "is_pal": true,
+      " ": true,
       "type_casts_merge_file": "decompiler/config/jak1/pal/type_casts.jsonc",
       "label_types_merge_file": "decompiler/config/jak1/pal/label_types.jsonc",
       "hacks_merge_file": "decompiler/config/jak1/pal/hacks.jsonc",

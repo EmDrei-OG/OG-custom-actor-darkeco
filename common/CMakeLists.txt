@@ -51,7 +51,7 @@ add_library(common
         repl/config.cpp
         repl/nrepl/ReplClient.cpp
         repl/nrepl/ReplServer.cpp
-        repl/repl_wrapper.cpp
+        repl/util.cpp
         serialization/subtitles/subtitles_v1.cpp
         serialization/subtitles/subtitles_v2.cpp
         serialization/subtitles/subtitles.cpp

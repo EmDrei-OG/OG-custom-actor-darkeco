@@ -2508,10 +2508,5 @@
     [16, "vector"],
     [32, "vector"]
   ],
-  "texture-anim-layer-draw": [
-    [16, "matrix"],
-    [80, "matrix"],
-    [144, "matrix"],
-    [208, "matrix"]
-  ]
+  "texture-anim-layer-draw": [[16, "matrix"], [80, "matrix"], [144, "matrix"], [208, "matrix"]]
 }
