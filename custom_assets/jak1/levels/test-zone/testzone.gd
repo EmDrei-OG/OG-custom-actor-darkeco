@@ -6,6 +6,7 @@
  ("static-screen.o"
   "test-zone-obs.o"
   "plat-ag.go"
-  "test-actor-ag.go"
+  ;;"test-actor-ag.go"
+  "sb-ecowall-ag.go"
   "test-zone.go"
  ))

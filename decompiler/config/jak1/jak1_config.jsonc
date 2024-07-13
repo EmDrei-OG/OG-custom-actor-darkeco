@@ -81,7 +81,7 @@
   "print_cfgs": false,
 
   // set to true for PAL versions. this will forcefully skip files that have some data missing at the end.
-  "is_pal": false,
+  "is_pal": true,
 
   ////////////////////////////
   // CONFIG FILES

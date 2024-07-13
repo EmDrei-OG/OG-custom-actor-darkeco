@@ -64,7 +64,7 @@
 
   // If you have any custom models in the "custom_assets/jak1/models" folder that you want to use in your level, add them to this list.
   // Note: Like with art groups, these should also be added to your level's .gd file.
-  "custom_models": ["test-actor"],
+  "custom_models": ["test-actor", "sb-ecowall"],
 
   // Any textures you want to include in your custom level. This is mainly useful for things such as the zoomer HUD,
   // which is not in the common level files and has no art group associated with it.
@@ -133,7 +133,8 @@
         "name": "test-eco"
       }
     },
-    {
+
+/*     {
       "trans": [-5.41, 3.5, 28.42], // translation
       "etype": "test-actor",  // actor type
       "game_task": 0, // associated game task (for powercells, etc)
@@ -142,7 +143,17 @@
       "lump": {
         "name": "test-actor"
       }
-    }
+    }, */ //THIS IS THE ECOWALL IN SENTINEL BEACH (TEST)
+      {
+        "trans": [-7.41, 3.5, 20.0], // translation
+        "etype": "sb-ecowall",  // actor type
+        "game_task": 0, // associated game task (for powercells, etc)
+        "quat": [0, 0, 0, 1], // quaternion
+        "bsphere": [-7.41, 3.5, 20.0, 10], // bounding sphere
+        "lump": {
+          "name": "sb-ecowall"
+        }
+      }
     // {
     //   "trans": [-7.41, 3.5, 28.42], // translation
     //   "etype": "plat",  // actor type
